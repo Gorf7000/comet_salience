@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtualenv
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cached API responses and raw scraped HTML — regenerable per spec §15
+data/raw/
+data/intermediate/horizons_cache/
+*.cache
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
