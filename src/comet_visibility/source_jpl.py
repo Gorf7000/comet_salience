@@ -27,6 +27,11 @@ from pathlib import Path
 import pandas as pd
 import requests
 from astropy.time import Time
+# Eagerly import astroquery here (not lazily inside a function) so that its
+# logger initialisation runs before any caller calls logging.basicConfig().
+# Astroquery installs a custom Logger subclass that breaks if the root logger
+# has already been replaced.
+from astroquery.jplhorizons import Horizons
 
 from . import config
 
@@ -178,7 +183,6 @@ def query_horizons_daily(
     if cache.exists() and not refresh and config.CACHE_REMOTE_QUERIES:
         return pd.read_csv(cache)
 
-    from astroquery.jplhorizons import Horizons
     try:
         obj = Horizons(
             id=horizons_id,
