@@ -370,10 +370,15 @@ For apparitions where Horizons does not return a usable T-mag, apply the followi
 | Tier | Provenance tag | Condition | Action |
 |---|---|---|---|
 | 1 | `horizons_tmag` | Horizons returns T-mag | Use it directly |
+| 1.5 | `manual_curated` | Apparition's `pdes` matches a row in `data/inputs/manual_M1K1.csv` | Use the (M1, K1) from the curated CSV |
 | 2 | `assumed_default_K1` | SBDB has `M1` but not `K1` | Compute manually using `DEFAULT_K1` |
-| 3 | `failed` | Neither `M1` nor `K1` available | Skip light curve; set `missing_magnitude_model = true` and `failed_light_curve = true` |
+| 3 | `failed` | Neither `M1` nor `K1` available, and no manual entry | Skip light curve; set `missing_magnitude_model = true` and `failed_light_curve = true` |
 
-Each daily light-curve row must record `magnitude_model_provenance` with one of: `horizons_tmag`, `assumed_default_K1`, `failed`.
+Each daily light-curve row must record `magnitude_model_provenance` with one of: `horizons_tmag`, `manual_curated`, `assumed_default_K1`, `failed`.
+
+The curated CSV (Tier 1.5) exists to fill SBDB gaps for historically observed comets that JPL has not parameterized — typically pre-1950 non-periodic comets. Required columns: `pdes`, `M1`, `K1`, `source_citation`, `notes`. The `source_citation` must reference a published photometric reference (e.g., Vsekhsvyatskij 1958, Marsden & Williams *Catalogue of Cometary Magnitudes*) and is recorded per daily row in `manual_curated_source_citation`.
+
+**Tier precedence is strict and SBDB wins on conflict.** If a `pdes` exists in both SBDB (Tier 1 or 2) and the manual CSV, SBDB takes precedence and the audit report records the conflict. The manual CSV is for filling gaps, not overriding existing JPL values.
 
 Configuration:
 
