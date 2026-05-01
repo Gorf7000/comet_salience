@@ -1,0 +1,77 @@
+### ENTRY 025 | 1906 VII (1906g) | book p.369 pdf p.188 | pdes=1906 V1 | basis=name (Thiele) + year | conf=high
+discoverers: ['Thiele', 'Leo', 'Major', 'Draco', 'Holetschek', 'Nijland', 'Rheden', 'Abetti', 'Wirtz']
+BODY:
+1906 VII (1906g). Discovered on 10 Nov. after midnight by Thiele 
+(Copenhagen) as a circular 8™.5 nebula, 
+4' in diameter with a 10™ condensa- 
+tion. 
+Located in Caneer, moved north-east through Leo (November), Leo 
+Minor, Ursa Major (December) and Draco (December 1906 to January 1907). 
+Observed by Holetschek (Vienna) through a seeker and a 6-inch refractor. 
+11 Nov., 
+m=8™, D=3 
+to 4', condensation 8.5 to 9™; 14 Nov. and 15 Nov., 
+8.0 to 8".2, D=3 to 4', h=9 to 10™; 20 Nov., 7.7, D=5', h=9.5 to 10™; 
+21 Nov. to 27 Nov., 
+7.6 to 8.0, D=4 to 5', h=9.5 to 10™; 7 Dec. and 12 Dec., 
+8™5, D=3', h=9™5; 
+21 Dec., 8.6, D=3', h=9.5 to 10™; 21 Jan and 
+22 Jan. 1907, not detected (fainter than 12™). 
+The estimates of Nijland 
+(Utrecht) with seeker and binoculars were very close to those of Holetschek: 
+14 Nov., m=8"™5; 
+17 Nov. 
+7727; 
+15 Dec.;) 8™.5 to 8.7, 
+sAccording to 
+Rheden (Vienna), 24 Nov., m=8™.0, 
+D=5',. 
+13 Nov., Barnard described 
+the comet as much larger than 5' indiameter. 
+10 Dec. and 11 Dec., Abetti 
+(Arcetri) gave 
+m=9™; 23 Dec., 10™ 
+Wirtz (Strasbourg) gave the comet's brightness as considerably lower, 
+though he gave higher values for the diameter of the head than Holetschek: 
+11 Nov., m=8".7, D=6'; 
+12 Nov. 
+to 14 Nov., 
+9.3 to 97.4, D=5 to 7'; 
+17 Dec. and 18 Dec., 107.0 to 10™3, D=4; 21 Dec., 
+107.6, D=3'.5. 18Dec., 
+369 
+
+
+Barnard saw the comet with a 40-inch refractor as very diffuse and bright 
+at the center with no tail. 
+22 Dec., comet appeared bright through seeker 
+and diffuse through refractor; 
+a faint nucleus. 
+Harting and Przybyllok 
+(Konigsberg) gave approximately the same estimate, which obviously re- 
+ferred to the central condensation rather than to intrinsic brightness of the 
+comet. 
+Individual estimates were obtained by van der Bilt, Gutnik, Arndt, 
+Silbernagel, Giacobini and others. 
+5 Jan, 1907, Abetti estimated m = 12™, 
+describing the comet as a very faint, hardly noticeable nebula. 
+Measured 
+on 14, 16 and 18 Jan, in Nice through a 38-cm telescope (13 to, 14"). 
+17 Jan. 
+and 7 Feb., not spotted by Wirtz. 
+References: A.N., 173 to 177; M.N., 67; Wien Stw. Ann. , 22; 
+V.J5.S., 42, 44. 
+Orbit: Waage. —A.N., 200: 65. 
+V.I gave, according to Holetschek and Wirtz, y=2.3 and 4.4; Hy=8™.5 
+and 5™,3, When y=10, Hig=8™.1. 
+In C.A.M., Hig=7™.8. 
+Bobrovnikoff, 
+Perkins Obs. Contr., 15. 1941 and 16. 1942, obtained from 37 estimates 
+of Holetschek, Wirtz, 
+et al. 
+y=17.2; Hjp=7™.6. 
+In Nov., D= AIASTtOMS ra: 
+iat IDYNS, 5 BEA ate) Ee 
+(r, A): 10 Nov. —(1.22, 0.68); 29 Nov, —(1.22, 0.63); 15 Dec. —(1.27, 
+0.71); 31 Dec. 1906 —(1.36, 0.88); 16 Jan. 1907 —(1.48, 0.99).
+

@@ -1,0 +1,19 @@
+### ENTRY 070 | 1916 IV (1916e) | book p.411 pdf p.230 | pdes=489P | basis=Roman fallback unverified (#4 of 7) | conf=low
+discoverers: ['Metcalf']
+BODY:
+1916 IV (1916e) (in Baldet's catalogue, 
+1916d). 
+Discovered in Taurus 
+below the Pleiades by Metcalf (Winchester, U.S.A.) on a plate taken for 
+tracking the minor planets, 
+Moved south; further observed by Metcalf on 
+22 Noy. and 26 Nov. 
+Wolf's observations (Konigstuhl) of 28 Nov., pre- 
+scribed erroneously to this comet, turned out to be observations of the 
+minor planet Gaydea (368). 
+References: A.N., 203; A.J., 28, 29. 
+Orbit: Braae and Vinter Hansen. —A.N., 203; 388. Crommelin considered 
+the orbit calculated from Metcalf's observations to be very questionable. 
+Adopting for 21 Nov. to 26 Nov., m=11 to 13™ we obtain Hjg=11.5 to13™5. 
+(r, 4): 21 Nov. —(1.40, 0.41); 26 Nov. —(1.43, 0.45).
+

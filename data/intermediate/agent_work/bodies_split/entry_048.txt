@@ -1,0 +1,62 @@
+### ENTRY 048 | 1912 I (1911la) | book p.394 pdf p.213 | pdes=14P | basis=name (Wolf) + year | conf=high
+discoverers: ['Wolf', 'Javelle', 'Barnard', 'Rembaut', 'Schaumasse']
+BODY:
+1912 1(1911la). 
+The fourth recorded apparition of the periodic Comet 
+Wolf(1). Discovered photographically according to Kamienski's ephemeris 
+by Wolf (Heidelberg) on 19 June 1911; starlike nucleus slightly brighter 
+than 15™.0 with an exceptionally faint envelope, D=0'.3. 
+Located between 
+Hercules and Aquila; 
+in July, moved in Hercules; 
+in August and September, 
+in Ophiuchus, crossing Serpens; 
+in November, located in Aquila; 
+in 
+December, near the Sun; January,and February 1912, 
+still accessible to 
+observations while moving in Aquarius and Pisces. 
+29 July, Wolf gave Mpnot = 147.6. 
+5 July, Javelle (Nice) compared it to 
+a small star fainter than 14™; 10" nebula observed occasionally; observed 
+by Barnard (Yerkes Obs.) with a 40-inch refractor. 
+21 July, 
+14™, nebula 
+5'' in diameter; 
+30 July, 15™.5; 4 Aug., 14™; 20 Aug., 
+14™.7, nebula ~ 10" 
+in diameter; 29 Aug. and 19 Sept., 
+147.5. 
+In October and November, photo- 
+graphed at Helwan Observatory and estimated at 14 to 14™.5. 
+8 Jan. to 
+25 Jan. 1912, observed by Gonnessiat and Rembaut (Algiers); nucleus 12™.5, 
+D=2'; 
+16 Jan., m=12™ (extrafocal comparison). 
+Last observations made 
+by Schaumasse (Nice) with a 10-cm refractor. 
+15 Feb. and 21 Feb., m=12 
+to 12™,5; D=1' with central condensation. 
+Reterenices: AGN. 188-192" B4A.,°30; MIN, wets: 
+Valu oi, 40: 
+48; Publ. Obs. Warsaw Univ., 2:37. 1926. 
+Orbit: Kamienski. —A.J., 32: 86. 
+S.K. Vsekhsvyatskii, 
+V.I, found Hjjg=9™.1; 
+in M.N., 90: 713, he obtained 
+Hp = 8™.1, Hay =9".1, H, =10".3, 
+Bobrovnikoff, Pop. Astr., 56(3). 1948, 
+making use of erroneous reductions, obtained 
+H=10™.5, 
+Reappraising all 
+estimates, 5.K. Vsekhsvyatskii obtained Hj) = 9™.24 in full agreement with 
+the results of 1930. 
+In Jan. and Feb. 1912, D, = 4'.7 to 2'.4, 
+(zr; 4): 
+-19. June,— (2.75, 1/.88); 20 July —(2.56, 1.73); 20 Aug. —(2.37, 
+1,73); 26 Oct. —(1.98, 1.98); 23 Nov. 1911 —(1.84, 2.00) 8 Jan. 1912.— = 
+C1. 66.02-22);e2 
+01 Jan. (1.82) 2.29): e1omebe —(1,59,.2.35); 21 Feb. — 
+(HES 
+9s 22388)s
+

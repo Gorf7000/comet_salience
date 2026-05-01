@@ -1,0 +1,49 @@
+### ENTRY 081 | 1920 II (1920b) | book p.420 pdf p.239 | pdes=21P | basis=Roman fallback unverified (#2 of 7) | conf=low
+discoverers: ['Kudara', 'Schaumasse', 'Palisa', 'Bower', 'Chofardet']
+BODY:
+1920 II (1920b). 
+The seventh recorded apparition of the short-period 
+Comet Tempel(2). Discovered by Kudara (Kyoto) on 25 May asa nebulous 
+11™ object near the ephemeris position. 
+Discovery not confirmed and comet 
+discovered independently by Schaumasse (Nice) on 18 July in Cetus. Moved 
+south-east; 
+in September and October, located in the upper portion of 
+Eridanus. 
+20 July, observed by van Biesbroeck through 12- and 40-inch refractors; 
+m=9",0; D=2'; van Biesbroeck and Palisa (Vienna) reported an eccentric 
+nucleus. 
+27 July, van Biesbroeck reported a short 1'.5 tail at P= Oe m= 
+=10™,0; 
+starlike nucleus of 14™. 
+21 Aug., diffuse 10™ nebula; 
+short tail in 
+quadrant I. 7 Sept., faint in moonlight; coma elongated over 1' at P =22°; 
+nucleus 14™, 
+11 Sept. and 14 Sept., m=13™.5, nucleus 14™.5; 
+7 Oct? 
+m=14™, 
+13 Nov., 
+still visible through a 40-inch refractor as a faint nebula 
+with 
+D=1'5, no nucleus. 
+11 Nov., Barnard gave m=13™, 
+Distlls 26 Octx: 
+Bower (Washington) gave 10™; comet measured till 14 Nov., when faint and 
+diffuse in appearance. 
+Chofardet (Besangon) described the nebula as elon- 
+gated 1'.5 in the north-eastern direction, 
+Observed also at Algiers, Baltimore, Barcelona, Bergedorf, Heidelberg, 
+Marseilles, Nice and Johannesburg; last observation inBergedorf on 17 Nov.; 
+m=15™; 
+a faint cloud with a 16™ nucleus. 
+References: A.N., 211-214; B.Z., 2; A.J., 33, 34; J.Obs., 3-5. 
+Orbit: Kudara. —M.N., 
+81: 305. 
+In V.II, from observations of van Biesbroeck and others, Hj = 10.0; 
+in M.N., 90: 712, Hm=10™1, Hp =9™.5, H, =11™.5; D,=1'.6; S> 0.0004 (jets?). 
+(r, A): 25 May —(1.42, 0.72); 20 July —(1.33, 0.46); 21 Aug. —(1.54, 
+0.88); 
+14 Sept. —(1.67, 0.87); 8 Oct. —(1.82, 0.91); 31 Oct. —(1.98, 1.05); 
+24 Nov. —(2.14, 1.30).
+

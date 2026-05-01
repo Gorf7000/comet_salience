@@ -1,0 +1,44 @@
+### ENTRY 095 | 1924 IV (1924d) | book p.429 pdf p.248 | pdes=1924 R1 | basis=Roman fallback unverified (#4 of 6) | conf=low
+discoverers: ['Wolf']
+BODY:
+1924 IV (1924d). 
+Discovered by Wolf (Heidelberg) on plates taken on 
+22 Dec.; 
+a very faint 16™ cometary object. 
+Located in Taurus, slowly 
+moved south in Taurus throughout the entire observation period. 
+Observed only photographically at Heidelberg (up to 22 Jan. 1925), 
+Greenwich (26 Dec., m=15™), 
+Bergedorf, and the Lick and Yerkes 
+Observatories. 
+26 Dec., van Biesbroeck saw the comet ona plate asa 
+faint nebula with small condensation (16™.5). 
+17 Jan. 1925, definitely fainter 
+than 17™. 
+23 Jan., hardly noticeable on plates; so faint that allmeasurements 
+were uncertain (175). 
+14 Feb., plates showed a nebula at the precalculated 
+spot so faint that it could not be measured. 
+According to Wolf, on 13 Jan. 
+the comet was a very faint and small fan-shaped nebula; maximum diameter, 
+45''; well-condensed nucleus observed at the fan's apex (direction south- 
+south-west). 
+13 Feb., not located through 16-inch refractor at Northsfield. 
+Reterences: 
+A:N., 247;°B.Z. . th Ald. ¥-363°M.N.-7 85: Vidi Ss, 605 62. 
+Orbit: van Biesbroeck. —A.J., 36, 96. Przybyllok, M.N., 114: 368, 
+obtained definitive orbit from all the available observations: 
+T=1925, Jan. 
+10.957; q=2.4280; e=0.37117; p=7.59 years. 
+429 
+
+
+In C.A.M., H,)=11™.8. 
+Kanda, Tokyo Bull., 39, 40, found H; = 14™.0 
+when y=5; from given estimates Hjg=11™.4, y=10. 
+InJan., 
+1925, D= TOSS, 
+(r, A): 22 Dec. 1924 —(2.43, 1.47); 22 Jan. 1925 —(2.44,.1.55); 
+14 Feb. — 
+(2.46, 1.80).
+

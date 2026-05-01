@@ -1,0 +1,58 @@
+### ENTRY 082 | 1920 III (1920c) | book p.420 pdf p.239 | pdes=11P | basis=Roman fallback unverified (#3 of 7) | conf=low
+discoverers: ['Taylor', 'Skjellerup', 'Leo', 'Minor', 'Major', 'Barnard', 'Hoffmeister']
+BODY:
+1920 III (1920c). 
+Discovered by Taylor (Cape) on 8 Dec. and independently 
+by Skjellerup (Capetown) on 13 Dec. as a 10™nebula near a Hydrae, moving 
+north-east. 
+Passed through Leo (December 1920, January 1921), Leo 
+Minor (January) and Ursa Major (February, March). 
+Observed by van Biesbroeck and Barnard (Yerkes Obs.) with 12-and 40- 
+inch refractors. 
+17 Dec., m=10™; 
+diffuse nucleus of 11"; D=1'.5. 
+18Dec., 
+easily visible through a seeker; nucleus 10™. 
+3 Jan. 1921, very large; 
+nucleus 13™, very easily visible through a seeker (10 to 11™). 
+5 Jan., 
+10™,5; coma elongated at 
+P=270°; nucleus elongated at 
+P=90to270°. 
+liJan., 
+11”; nucleus 13™, elongated at 
+P=275°. 28Jan., 12™.5, 
+a 13™.5 condensation. 
+13 Feb., m=13™; nucleus 147.5; D=1',. 
+17 Feb., m=14™; nucleus 15™; 
+D=0!.8. 
+8 March to 10 March, extremely faint (15 to 16™). 
+18 Dec., Hoffmeister (Sonneberg) 
+described the comet as a circular 9™ 
+object with an 11" nucleus and a coma D=8'. 
+3 Jan. and 4 Jan., observa- 
+tions in Padua and Vienna gave m=10", very faint circular, nebulous spot 
+with blurred edges, 
+15 Jan., Hoffmeister, using a 5-inch telescope, gave 
+m=11™, 
+31 Jan., m=12™; nucleus 13™; apparently the comet was brighter, 
+since it was observed and measured through a 5-inch refractor. 
+Observed 
+at Bordeaux, Marseilles, Johannesburg, Algiers, Barcelona, Heidelberg, 
+Nice, Bergedorf, Uccle and Utrecht. 
+References: A.No} 212-218; sBsZ,. 4 2je8peAs J.) 83-413. .Obsae4. 
+Orbit: Einarsson and Meyer. —L.O.B., 
+10: 98. 
+420 
+
+
+E-I gave, according to the first estimates, Hj) =11™.0, apparently too 
+largeavalue. 
+Proceeding from the estimates above, we obtain Hyp = 117.9. 
+In Dec., D,=2'.4; 
+in Feb., 
+0'.6. 
+(v,7 A):°13 Dees 1920 —(1.15, 0.27);-5 Jam. 1921 —(1.22, 0.34): 8 Feb, — 
+(1.48, 0.57); 
+10 March —(1.78, 0.92).
+

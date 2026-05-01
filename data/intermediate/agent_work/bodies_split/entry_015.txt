@@ -1,0 +1,50 @@
+### ENTRY 015 | 1905 III (1905a) | book p.362 pdf p.181 | pdes=1905 F1 | basis=name (Giacobini) + year | conf=high
+discoverers: ['Giacobini', 'Pidoux', 'Wirtz', 'Hartwig', 'Barnard', 'Graff']
+BODY:
+1905 Ill (1905a). 
+Discovered between Orion and Taurus by Giacobini 
+(Nice) on the evening of 25 March as an 11 to 12™ nebula with D=3' anda 
+5 to 6'' condensation. 
+Moved north-east; 
+in April, passed through Gemini 
+and Lynx; 
+in May, crossed Ursa Major; from the middle of June, moved 
+in Canes Venatici. 
+28 March, Pidoux (Geneva) and Wirtz (Strasbourg) gave m =11™.5 with 
+diffuse edges, D=2'.2; 
+30 March, Wirtz reported a protuberance at P=250°, 
+m-=11™, D=2', 
+1 April, Hartwig (Bamberg) gave 
+m=11™.0, D=3'; Wirtz 
+estimated m=11™.5, D=2' with noticeable condensation, fan-shaped tail at 
+P=330°, 
+4 June, clear photographic image obtained by Barnard (Mount 
+Wilson). 
+6 April, Graff (Hamburg) gave 
+m=11™.7, nucleus 12'.5, Dx2'; 
+a month later, Wirtz obtained D=3'. 
+7 May, m=11™.5, 
+D=1"'.2, 
+diffuse 
+nebula, no condensation; 
+9 May and 10 May, noticeably fainter, m=12 to 
+13™, D=1'; 29 May, m=15™, D=0!.7, 
+at the visibility threshold. 
+Other 
+observers (Pechule, Knopf) reported elongated outline of the comet. 
+Ob- 
+served on 21 May at the Lick Obs., and for the last time on 22 June in Nice. 
+References: A.N., 167-173; M.N., 66; B.A., 23; V.J.S., 41-43. 
+* In this case the estimate depended on magnification and light-power of the instrument involved. 
+362 
+
+
+Orbit: Szeligowski and Koebke. —Acta Astr., 3:66. 
+V.I gave, according to Wirtz's 10 observations, y=11.1 and Hjy=11™.4; 
+in C.A.M., Hg=11™.5. 
+In March and April, D=1!'.4 to 2'.1. 
+(xr, 4): 28 March —(1.14, 0.73); 4.4 April —(1.115, 0.73); 24 April — 
+(1.17, 0.80); 
+16 May —(1.31, 1.00); 5 June —(1.48, 1.22); 23 July —(1.66, 
+1.44).
+

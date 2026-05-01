@@ -1,0 +1,84 @@
+### ENTRY 058 | 1914 I (1914b) | book p.402 pdf p.221 | pdes=1914 J1 | basis=Roman fallback unverified (#1 of 9) | conf=low
+discoverers: ['Zlatinskii', 'Gemini', 'Schwassmann', 'Chofardet', 'Hartwig', 'Biesbroeck', 'Nijland', 'Sola', 'Krumpholz', 'Renault']
+BODY:
+1914 1(1914b). 
+Discovered by amateur astronomer Zlatinskii (Mitava, 
+now Latvian S.S.R.) on 15 May as a bright cometary object of 4" near n 
+Persei. 
+Moved rapidly south-east through Auriga, Gemini (May) and Cancer 
+(beginning of June), approaching the perihelion. 
+16 May and 17 May, Schorr and Schwassmann (Bergedorf) reported a 
+diffuse 4" nucleus, D=3', 
+a northward tail 15' long, 
+3' wide; photographs 
+showed a 1° tail. 
+17 May, Graff saw a large, blue, featureless head, through 
+a seeker m=5™.5; 
+18 May, several filaments noticed in the tail, m=5™.7; 
+19 May, 
+m=5™.9. 
+19 May, Chofardet (Besancon) reported fluctuation in 
+the nuclear brightness; differences in brightness estimates are explainable 
+in terms of this fluctuation. 
+17 May, observers in Rome estimated the 
+nucleus at 4 to 5™, 
+20 May, Hartwig (Bamberg) gave m =4™ in heliometer, 
+D> 3', no nucleus, 
+sharp condensation, 
+a 30' tail. 
+19 May, van'Biesbroeck 
+(Uccle) gave m =4™.6; 20 May, m=5™.4, nucleus 8™, tail 1° long. 
+Barnard 
+photographed the comet on 18, 20 and 22 May; plate taken on 22 May showed 
+a tail up to 12° long resembling the tail of comet 1912 II. 
+2 April, Nijland 
+(Utrecht) gave m =5™.1 (through binoculars), 
+tail at 
+P=37°. 
+23 May, a photo- 
+graph taken by Comas Sola (Barcelona) showed a tail over 9° long; m=4.5 
+to 5™ through a seeker; D=3'. 
+Krumpholz (Vienna) reported a faint tail 
+visible in spite of twilight. 
+25 May, Renault (Algiers) gave m=5™.0; 
+tail over 20! long at P =45°; 
+a lateral protuberance at 
+P=315°. 
+27 May, m=5™.5; 22 May to 25 May, 
+Dziewulski (Wilna [Vilnius]) gave m =6™.1 to 6™.0 (binoculars) and 6™.2 
+(telescope). 
+At the end of May and the beginning of June, observed in 
+evening twilight near the horizon. 
+4 June, last measured in twilight and 
+moonlight; poorly visible. 
+Reverene 
+esicgA IN. «l98=202)- MON ote on. to 
+G. oan, 
+Ce Sere oO 
+Ann. de Belgique, 1917. 
+Orbit: Schwassmann and Vick. —A.N., 198: 213. 
+. 
+2 
+402 
+
+
+Using the estimates of Graff, Nijland, Renault and other observers, 
+S.K. Vsekhsvyatskii in V.II obtained Hjj=8™.3. 
+In May, D,=1'.9; 22 May, 
+Sma = OelZi6. 
+The main tail was obviously type I; apparent traces of a type III tail. 
+Spectrum observed by Konkoly, A.N., 202: 143, who reported continuous 
+white and yellow spectra and numerous bands. 
+Graff, A.N., 198: 255; 
+Silgia, Rev. 
+de Espana, 5:54; Parkhurst, A.N., 198: 463; Slipher, Lowell 
+Obs. Bull., 2:67, 
+151, all obtained excellent slit spectrograms with virtual 
+absence of continuous spectra. 
+Spectrum studied by Bobrovnikoff, Ap.J., 
+66: 540 and Ebell, P.A.S.P., 
+49: 354. 
+(r, A): 
+15 May —(0.58, 0.62); 20 May —(0.61, 0.55); 28 May —(0.71, 0.56); 
+Heune —=(0sG3, Onva)s
+

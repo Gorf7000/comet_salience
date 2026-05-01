@@ -1,0 +1,77 @@
+### ENTRY 026 | 1907 I (1907a) | book p.370 pdf p.189 | pdes=1907 E1 | basis=name (Giacobini) + year + Roman position 1 | conf=medium
+discoverers: ['Giacobini', 'Wolf', 'Javelle', 'Abetti', 'Nijland', 'Baranof', 'Knopf']
+BODY:
+1907 1(1907a). 
+Discoveredin Canis Major by Giacobini (Nice) on 10 March 
+as an 11™ object with D=0'.5. 
+Moved north, crossing Monoceros in March 
+and April; observed only till 11 May because of proximity to the Sun and 
+increase in A. Spotted again photographically by Wolf (Konigsberg) and 
+visually by Javelle (Nice) on 4 Dec., when in opposition with the Sun. 
+At 
+that time, moved in Perseus; 
+in January and February 1908, passed 
+through Andromeda. 
+In the first days, Wirtz, Millosewich, Zappa, Pidoux, Rheden, and 
+Price gave m=11.2 to 11”, D=1'.4, 
+11 March, Graff and Hartwig gave 
+m=12™, D=0!.5. 
+15 March, Rheden gave m=11™.8, D=0'5. 
+Abetti 
+(Arcetri) observed the comet only on 16 March and 18 March as a large 
+nebulous star; 
+14 March, Wirtz saw the comet between clouds; 
+2 April, 
+not detected; Nijland (Utrecht) measured the position with a 26-cm refractor 
+on 17 March and 31 March (not fainter than 12™.5). 
+6 April to 12 April, 
+measured in Rome; 8 April to 12 April, measured in Algiers; 
+8 April, 
+Baranof (Kazan') observed the comet as a very faint object; 
+3 April, ob- 
+served by Giacobini on a 42-cm refractor. 
+1, 2 and 4 May, observed by 
+Javelle on a 76-cm refractor; 
+3 April, very faint circular nebula, D=0'.4; 
+11 May, Knopf (Jena) measured the comet with a 7-inch refractor as a 
+diffuse nebula. 
+4 Dec., Wolf gave m = 12™,5 (photographic) according to Weiss's 
+ephemeris; 
+24 Dec., m=13™.0; clearly 14™ through a refractor. 
+22 Jan. 
+1908, Wolf's plates showed 
+m=15™; observed photographically till 23 Feb. 
+4 Dec. 1907 to 26 Feb. 1908, observed by Javelle with a 76-cm refractor. 
+7 Dec. circular, D=0'.2 to 0'.3, nucleus 13 to 14™; 9 Dec. and 11 Dec., 
+brighter though the nebula was almost invisible in moonlight; 25 Jan., very 
+faint and small. 
+26 Feb., Giacobini reported an exceptionally faint spot, 
+Dx0'.2 (15™), 
+At the next opposition (December 1908), spotted by Barnard 
+with a 40-inch refractor. 
+370 
+
+
+References: A.N., 174-180; B.A., 24, 25; A.J., 25; M.N., 68; 
+V.d.5., 44. 
+Orbit: K.K. Dubrowsky and B. 
+V. Numerov. —A.N., 195: 273. 
+Vil pave, according to Wirtz, 
+“et aly) y=1756,° Hp = 16: 
+in C/AUM.,; 
+Hi9 =4™.9. 
+Proceeding from the estimates above, 
+in March, Hj) =7™.0 to 
+7,8; 
+in April and May, Hj9=6 to 6™.7; beginning of 1908, 
+Hj) =5™.7. 
+On 
+an average, Hj)=6™.5. 
+(r, A): 10 March —(2.06, 1.45); 
+1 April —(2.06, 1.85); 21 April —(2.07, 
+2.31);" 
+12 May (2.15, 2.68): 5 Dec, 1907 =(3-59, 2:72); 
+5 Jan, 1908'—(3.48, 
+3.28); 26 Feb. —(4.25, 4.55). 
+i
+

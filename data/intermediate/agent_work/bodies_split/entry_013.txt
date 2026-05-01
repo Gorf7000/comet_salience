@@ -1,0 +1,98 @@
+### ENTRY 013 | 1904 III (1904c) | book p.361 pdf p.180 | pdes=10P | basis=body scan token 'tempel' + year | conf=medium
+discoverers: ['Javelle', 'Howe', 'Kopff', 'Andromeda', 'Pegasus', 'Aquila']
+BODY:
+1904 III (1904c). 
+The fifth recorded apparition of the short-period 
+Comet Tempel (2). Spotted according to Coniel's ephemeris by Javelle (Nice) 
+on 30 Nov. as a very faint, well-outlined, whitish spot with 
+D=1.5 to 2'; 
+no nucleus (12 to 13™). 
+Located in Sagittarius, moving east; at the end of 
+December 1904 and in January 1905, moved in Capricornus. 
+Up to 8 Dec., observed in Nice; 
+5 Dec. to 7 Dec., measured in Algiers 
+as a very faint object. From 8 Dec., exceptionally faint and small; meas- 
+ured near the horizon by Howe (Denver, Colorado) with a 20-inch refractor. 
+9 Dec., not far from moon; 
+27 Dec. and 29 Dec. exceptionally faint in haze; 
+2 Jan. 1905 extremely faint. 
+References: A.N., 166, 167, 171; M.N., 65; B.A., 22; V.J.S., 
+40, 41; Holetschek V, p. 66. 
+Orbit: Schulhof. —A.N., 166: 26. 
+Holetschek, adopting m=12™.7 to 13™.0; got Hjg=10™.5; 
+in M.N., 90: 712 
+and C.A.M., Hip =9™.8. 
+In Nov., D,= 31.4. 
+(r, 4): 30 Nov. —(1.40, 1.94); 
+19 Dec. 1904 —(1.45, 2.04); 2 Jan. 1905 — 
+(1.05,..2..13): 
+19051(1904b). 
+The 
+thirtieth recorded apparition of Comet Encke- 
+Backlund. 
+Discovered according to Kamienski and Okulich's ephemeris 
+by Kopff (Konigstuhl) on 11 Sept. 1904 on a plate exposed for 31/2 hours. 
+Upon discovery, very faint and diffuse; according to Wolf, m=12™,0 to 
+12™.3 (photographic); visually observed from the end of October. 
+Located 
+in Pisces; moved west through Andromeda (October), Pegasus (November), 
+Delphinus and Aquila (December). 
+Not observed after the perihelion passage. 
+28 Oct., Wolf, using 2-hour exposures on the Brusov telescope, photo- 
+graphed a faint tail extending north (12™.5). 
+29 Oct. and 30 Oct., Holetschek 
+failed to detect the comet with a 6-inch refractor; 
+8 Nov., first observation: 
+a very faint diffuse mass, D=3', condensation, m#x11™; 13Nov., 
+m210™5; 
+25 Nov. nucleus 10.5 to 117, Dw#8' (through small seeker, an exceedingly 
+faint nebula of 9™,0); 26 Nov. and 27 Nov., m#8"™.6; 28 Nov., m=8™4 
+(through seeker), D=5', nucleus 10™ 
+29 Nov.,-m=8™.3, D=7', condensa- 
+tion 10™; 4 Dec., through seeker, large nebulous mass of 6™.5 to 8™,0, 
+D=7', condensation 10™ 
+9 Dec., m=6™.2 (through seeker); fainter than 
+13 Delphini, which V. Struve in 1828 described as equal to the comet when 
+viewed with the naked eye; considerably fainter than 
+M15 (6™.2). 
+10 Dec., 
+m =6™,0 (seeker), D=5', condensation 9.5 to 10™; 16 Dec., m=6™,2 
+(through binoculars 5.5 to 6™), D=5', condensation 8 to 8™.5, rudiments of 
+a tail; 22 Dec. , appeared brighter through seeker than 42 Aquilae (5™.5), 
+D#5'; 23 Dec., m=5™.3, condensation 
+~ 6™.3; 27 Dec., m=5 to 5™.3, con- 
+densation 8™ (through 3 1/2-inch refractor). 
+30 Oct., Hartwig (Bamberg) estimated D=10'; 8 Dec., Nijland (Utrecht) 
+gave m=7".6 through binoculars; 22 Dec., 6.5; 
+17 Dec., Abetti (Arcetri) 
+estimated m=5™.7 through binoculars. 
+14 Nov., Wirtz saw a wide fan- 
+shaped diffuse tailandajet 3'.5 long at 
+P=270°; 
+9 Dec., m=6™.5 (seeker); 
+14 Dec., wide tail at 
+P=270°; 
+17 Dec., m=6™.1, D=4'.5, tail (jet) 4'.5 long 
+(P =250°); 5 Dec., "fan'' also reported by Barnard; 2 Dec. to 20 Dec., ob- 
+served by Grachev (Kazan'). 
+References: A.N., 166-173; A.N., 181; M.N., 65, 66; Izv. 
+Russ. 
+Astr. Soc., 13(8) 1908; V.J.S., 40, 41; HoletschekIV, 
+p. 92. 
+Orbit: Backlund. —Mém, Acad. Petersburg, 8(2). 
+From all the estimates, Holetschek obtained H; ranging from 12™,8 to 
+361 
+
+
+77.9, §, Vsekhsvyatskii, A. Zh., 4: 298, 1927, obtained y = 14.5, Hg 3,977.8, 
+Hi) =9™.8; same figures in C.A.M. 
+In Oct. and Nov., D,;=5'.7 to 3'.6; 
+in 
+Dec., 
+2'.4. 
+(r, A): 11 Sept. —(2.04, 1.21); 
+11 Oct. —(1.67, 0.74); 
+13 Nov. —(1.27, 
+0.51); 29 Nov. —(1.03, 0.49); 
+10 Dec. —(0,84, 0.48); 27 Dec. —(0.53, 0.51).
+

@@ -1,0 +1,139 @@
+### ENTRY 009 | 1903 IV (1903c) | book p.357 pdf p.176 | pdes=1903 M1 | basis=name (Borrelly) + year | conf=high
+discoverers: ['Borrelly']
+BODY:
+1903 IV (1903c). Discovered in Aquarius by Borrelly (Marseilles) on 
+21 June. 
+Later, 
+detected on plates taken at the Harvard Obs. on 28 May 
+and 30 May. Upon discovery, fairly bright (8™?) with a 10™ nucleus anda 
+10' fan-shaped tail; brightness rapidly increased. 
+Moved north-west 
+through Pegasus (end of June), Cygnus (middle of July), Draco and Ursa 
+Major (end of July and August); after disappearance in the solar rays, ob- 
+served in Hydra and Antlia (end of September and October); 
+in July and 
+August, very favorable position in the northern sky made possible numerous 
+visual and photographic observations. 
+24Juneto16Aug., brightness estimates made by Holetschekon a 6-inch re- 
+fractor; he estimated the intrinsic brightness, thenuclear brightness h,, the 
+brightness of the central condensation hg, the integralbrightness m, and also 
+the diameter of the head D and the length of the tail c: 24 June, m=7™.0, 
+hy =9".5, D=3'; 28 June, m=5™.2, hy=9™.7, he='8™.5, D=3",. 
+c =8-to 2.0"; 
+14 Aug., m=3".7, h,=9™.5, D=5', 
+c=60'; 
+18 July, m=2™.8 (maximum 
+brightness); 
+19 July to 23 July, m=37.0, 
+c=1°; 31 July, m=37.6, h, = 8", 
+h,=5 to 6™, 
+D=7', c>20'; 
+in August, m=4™ (in moonlight), h,=6 to 7™; 
+UGwAUE. , 
+(MM = Sot 
+daeC = Os 
+28 June to 13 Aug., brightness estimated by Nijland and van der Bilt. 
+Through binoculars the comet appeared almost 1™.5 brighter than through 
+a seeker. 
+29 July, m=5™.7, h=9™.5; 
+13 July, m=4".3; 
+19 July to 21 July, 
+37.5; 
+13 Aug., 5™.3 (through seeker); 
+at the end of July, 
+a 2° tail, D=15'. 
+Brightness of nucleus and envelope measured with wedge photometer by 
+Rosenberg (Strasbourg). 
+12 July to 10 Aug., Wirtz (Strasbourg) estimated 
+the brightness of the nucleus and the brightness of the central condensation 
+through an 18-inch refractor and the intrinsic brightness to the naked eye. 
+Brightness measured also by Barnard, Graff, Messow, Viaro, Ebell et al. 
+21 July, Schwab (Kremsmunster) saw a 2 to 3™comet; 
+18 July, Barnard 
+estimated m =2™.8. 
+Photographs taken in Konigstuhl on 26 June showed two tails: 
+a long 40! 
+tail and a fainter tail (20') curving with northward convexity. 
+24 June to 
+14 Aug., photographed with the 30-inch reflector of the Greenwich Obs. 
+In July and August, ray structures over 2° long. 
+STEM 
+
+
+Curtis and Albrecht (Lick Obs.) photographed the comet with 83-cm and 
+178-cm cameras. 
+All plates showed two tails: long straight tail, which 
+was the fainter of the two, and a short curving, very bright secondary tail; 
+20 June, tails up to 30! long; 29 July, two rays observed; 20 July, the first 
+tail 5° long, the secondary (bright) tail 1°30' long. 
+Changes were observed 
+in the straight tail; 
+14 July, 1.8-hour exposure showed an 8'30' narrow tail; 
+on that day, the Earth was near the plane of the cometary orbit and the 
+short tail was not observed. 
+In July and August, the long tail was traced 
+over 10°, changing in shape from day to day; it was directed precisely 
+away from the Sun and split into two distinct branches at a 7° angle to one 
+another. 
+In August, numerous 
+condensations 
+were 
+observed in the tail. 
+20 June, the secondary (curved) tail formed a 22° angle with the main tail; 
+in the middle of July, both tails coincided; 
+18 Aug., the angle between the 
+two tails was 33°; numerous rays observed, 
+Barnard (Yerkes Obs.) photographed the comet with a small camera, 
+reporting a 17° tail on several nights. 
+24 July, sharp change in tail's 
+shape; part of the tail seemed to separate from the main body; 23 July and 
+25 July, no anomalies reported; "separation" of the tail registered on 
+plates taken by Quénisset, Roberts and Smith (Yale Obs.). 
+After the perihelion passage, measured at the Cape Obs. from 30 Sept. 
+to 22 Oct., growing rapidly faint; on the last days, not fainter than 11 to Wau. 
+References: A.N., 162-168; M.N., 64-66; B.A., 21; Ap.J., 18, 19; 
+ARI 41 rVad, 
+co. 139." Ob. a0- 0a. 
+Orbit: Morgan. —A.J., 23: 162. 
+V.I gave according to Holetschek's observations hj) = 10.0; from Yagolim, 
+Izv. Russ. Astr. Org., y=4.2. 
+Hyg =5™.9; inC.A.M., Hig =6™.3. Bobrovnikoff, 
+Perkins Obs. Contr. 
+15. 1941 and 16. 1942, obtained from 128 individual 
+estimates (mainly those of Holetschek, Nijland, et al.) 
+y=5.95, Hy =6™.50; 
+these values radically disagree withthe observations. For 18 July to2lJuly, 
+for instance, 
+his method yields m =4™.0 while actually, 
+at that time, 
+at the 
+least m =2 to 3™; for 22 Oct. m=8™.7, whereas observations gave 11 to 12™. 
+The comet apparently subsided in brightness after the perihelion passage 
+much more rapidly than it increased in brightness before the perihelion 
+passage, but on the average the brightness varied in accordance with y#10. 
+Maximum length of the type I tail according to Barnard S= 0.08 (July). 
+For the type III tail, S=0.014a.u. (June and July). 
+Types of tails determined by T.V. Vodop'yanova, A.Zh., 9:177. 
+The 
+motion 
+of condensations 
+on 24 Aug., was studied by F.A. Bredikhin, who 
+gave i +uex71, 
+Izv. An., 20(1). 1904; Jaegermann—A.N., 106: 279 and 
+168: 269; Kopff —A.N., 176: 149; Albrecht —L.O.B., 52:163 and A.J, Orlow— 
+Izv. An. p. 517, 1910, In June and 2 Aug., D,=1.8'; 
+25 July, 4'.5. 
+Spectrum photographed and studied by Curtis, L.O.B., 47: 129; Perrine 
+(op. cit. 128); Deslandres —C.R., 137: 393; Astbury —B.A.A.J., 14: 86 
+and Konkoly —Atti. Acad. 
+Lincei, 
+300(2):217. 
+Continuous spectrum and 
+characteristic cometary bands, the brightest being situated near 4700 A; 
+the 4200A band was very weak. 
+(r, A): 2 June —(1.52, 0.75); 2 July —(1.35, 0.45); 18 July —(1.04, 0.27); 
+8 Aug. —(0.59, 0.70); 28 Aug. —(0.33, 1.20); 29 Sept. —(0.91, 1.51); 22 Oct.— 
+(LySoeeR 
+i 2))= 
+358
+

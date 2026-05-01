@@ -1,0 +1,196 @@
+### ENTRY 102 | 1925 VII (1926j) | book p.435 pdf p.254 | pdes=1925 W1 | basis=name (Biesbroeck) + year | conf=high
+discoverers: ['Biesbroeck', 'Berenices', 'Leo', 'Sextans', 'Struve', 'Graff', 'Hoffmeister']
+BODY:
+1925 VII (1926j). 
+Discovered accidentally by van Biesbroeck (Yerkes 
+Obs.) on 17 Nov. during his observation of Comet Orkisz in Ursa Major; 
+a bright 8™ object with an 11™ nucleus and a short bright tail. 
+Moved south 
+through Coma Berenices (December) and then west through Leo (January, 
+February 1926) and Sextans (March to June). 
+Upon discovery, comet visible through a 4-inch seeker; 
+a parabolic 
+envelope extending into a 30! tail pointing north-west. 
+Photographic appear- 
+ance much fainter than the visual one. 
+19 Nov., H. Struve (Babelsberg) 
+reported m=7™.5; nucleus 8™.0; tail 6 to 7! longat P=315°. Graff (Bergedorf) 
+estimated the nucleus at 11™ (8 to 9™); no details distinguishable in the 
+spectrum. 
+20 Nov., Hoffmeister 
+(Sonneberg) reported m=8™.5; 
+a small 
+head with a strong condensation; 
+a wide, bright tail. 
+On that night, photo- 
+graphed in Vienna; plates exposedfor 1 1/2 hours showed a well-outlined 34° 
+tail, brighter around the axis at 
+P=306°. 
+20 Nov., m=8™.3; 
+24 Nov., 
+9™.0, 
+tail 15' long. According to H. Struve's observations, m=8™7 on 27 Nov. in 
+moonlight. 
+4 Dec., 8.5; 26 Dec., 
+9™.8; van Biesbroeck (Yerkes Obs.) 
+foundions20'Nov.25) 
+tm=19™20:1 ol O° Dees 
+9 9™0; enucleus. 9™53625) Decay, 9.5; 
+12 Jan. 1926, 
+10™.0. 
+16 Feb., 
+11™.0; plates taken through a 24-inch reflec- 
+tor showed a 30! tail. 
+5 March, 
+10™.0; 
+9 March, 
+10™.8, 
+a 6' tail; 
+17 March 
+117.0; nucleus and a 5’ tail; 5 May, m=13".5, D=18", a 2' tail. Observed 
+at Kazan', Pulkovo, 
+Milan, Munich, Tashkent and Trieste. 
+14 Dec. 1925, Chernyi (Kiev) reported 
+m=9™.3; 
+head with a nuclear 
+condensation and a tail. 
+16 Dec., nucleus 10™; 26 Dec. and 27 Dec., 
+9 to 
+10™, parabolic tail. 
+1 Jan. 1926, very faint in moonlight; nucleus, parabolic 
+tail (10 to 11™). 
+3 Jan., not detected near the Moon. 
+10Jan., observations 
+in Dusseldorf yielded m=9™.5; nucleus 10™.3. 
+12 Jan., m=10™.3. According 
+to Chernyi, 
+16 Jan. and 18 Jan., m=9™.5, 
+13 -Feb., 
+9™.5. 
+10 March, 
+circular nebulous mass 9!'.5 in diameter; 
+17 March, 
+10™, no condensation. 
+11 March, Schorr (Bergedorf) estimated the comet photographically at 8™, 
+a wide 20! tail. 
+13 March, Jeffers (Lick Obs.) gave D=1'. 
+17 June, 
+Silbernagel (Munich) estimated m = 9".8 with a 10-inch refractor. 
+10 May, 
+comet at visibility threshold of the 38-cm Lisbon refractor; position meas- 
+ured, 
+14 Feb. 
+to 17 March, photographed by Baillaud and Jasse (Marseilles). 
+Curving tail; curvature changed after Earth's passage through the orbital 
+plane on 23 Feb.; 
+20 Feb., straight tail 2°.1 long, D=3'. 
+Plates taken at 
+the Yerkes Obs. on 31 May gave m= 14™.0 (poor photographic image); 
+9 June and 10 June, 
+14.5, D=0'.3, 
+no trace of a tail when low in the sky. 
+435 
+
+
+References: A.N!) 226-2327 
+By Zs, 0%) 8) (Ard), 36-3850) [Obs 519740; 
+M.N., 86; Pop. Astr., 6:34; V.J.S., 62, 63. 
+Orbit: van Biesbroeck. —A.J., 41: 95. 
+According to Vorontsov-Vel'yaminov, 
+A. Zh., 6:59, y=11.5, Ho =5™.3; 
+in C.A.M., Hi9=5™.5; these parameters give m=13™.7 on June 10 1926 
+which is close to the observed value. 
+Brightness distribution over the 
+comet's disk studied by A. V. Markov, A.N., 230: 151. 
+In Nov. and Dec., 
+D, =2 to 3'; in March 1926, 
+1'6. 
+20 Feb., 5=0.054. 
+According to Vorontsov-Vel'yaminov, 
+the tail was a type III synchrone. 
+Spectrum observed by Bobrovnikoff, Ap.J., 66: 454. 
+(r, A): 17 Nov. —(1.63, 1.60); 26 Dec. 1925 —(1.93, 1.48); 27 Jan. 1926— 
+(2.20, 1.35); 28 Feb. —(2.49, 1.50); 20 March —(2.68, 1.78); 29 April — 
+(3807, 2.61)5 
+10 June == (45801326) 
+1925 VIM (1925f). 
+The fourth recorded apparition of the short-period 
+Comet Borrelly (1) (1905 II). Detected by Schaumasse (Nice) on 14 Aug. 
+according to his own ephemeris calculated from Fayet's theory; 
+a 13™.0 
+object. 
+Located in Orion, moving slowly north-east through Orion (August, 
+September), Monoceros (September), Gemini, Cancer (October), Leo, 
+Leo Minor (November) and Ursa Major, where it remained from December 
+1925 to May 1926. 
+Schaumasse, using a 40-cm refractor, described the comet on 28 Aug. 
+to 30 Aug. as a diffuse 12™ nebula, D=2', with a faint central condensation. 
+16 Sept., m=11™.8. 
+14 Oct., 
+117, nebula with D=2', elongated north-east. 
+21 Nov., m=10.5 to 11™, elongated; 
+24 Nov. to 27 Nov., 
+11™; 
+14 Dec., 
+12™, diffuse with a hardly distinguishable condensation; 
+15 Jan. 1926, 
+m=12™,3, 
+D=2'.5, 
+diffuse condensation elongated south-east. 
+Chofardet's 
+estimates (Besancon) through a 33-cm refractor were very similar. 
+18Aug., 
+1 12s LOSNOV. fel eos ankelo 
+2 Gawd 2oE 
+Thorough descriptions of comet's appearance were given by van Biesbroeck 
+using a 40-inch refractor. 
+18 Aug., m=13™, 
+small nebula with a diffuse 
+nucleus and a short tail (P=90°; 
+21 Aug., 
+12™.8, tail 1.1 (P= 88°); 16Sept., 
+12™.0, nucleus 12™.5, 
+tail 0'.7; 29 Sept., 
+117.0, nucleus 117.5; 
+tail 2! 
+(P= 71°); 
+16 Oct., 
+117.0, nucleus 12™, elliptical nebula D=2'; 
+17 Nov., 
+10™.0; round, D=1'; 
+10 Dec., 
+12™, nucleus 13”, tail 1.3 (D=286°; 19 Jan. 
+1926, 
+13™, nucleus 14™, tail 1' (P=280°); 
+16 Feb., 
+14™, nucleus; 
+13 March 
+14™.5, elongated nebula. 
+Observed at Barcelona, Kiev, Heidelberg and Simeis. 
+H. Struve 
+(Babelsberg) estimated comet's brightness at 12.3 to 11™.5 in September to 
+November 1925; D=1'5. 
+4 April 1926, Schorr (Bergedorf) observed the 
+comet through a reflector (m=14™), 
+Photographed last by van Biesbroeck 
+on 11 May, when estimated at 16™.5. 
+References: A.N., 226-230; B.Z., 7, 8; M.N., 86, 87; A.J., 36, Sighs 
+J.Obs:.; 95 10; V.J.S., 62) 63% 
+Orbit: Schaumasse. —J.O., 14: 148. 
+Estimates of Schaumasse, 
+H. Struve, van Biesbroeck et al. in M.N. F 
+90:'714 gave Hy, =10™1, H,=9".4, H, 
+=11™, y=10. In C. A.M, » Hig = 10™1; 
+this gives m= 15™.9 for 10 May 1926 which is in good agreement with ob- 
+servations. 
+In Sept. to Nov. 1925, D,=2!'.2 to 1.5. 
+S > 0.006. 
+(r, 4);°14 Aug. —(1.52,71.58);) 
+9'Sept; —(1.43, 1'.38)31°8 Oct) =61:39, 
+1,18); 
+“12 Nov. —(1.45, 1,03); 14.De¢,11925 —(1.58, 0.98); 23 Jan. 1926 — 
+(1.82, 1.06); 4 March —(2.09, 1.36); 
+10 May —(2.56, 2.27). 
+? 
+436
+

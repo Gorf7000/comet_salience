@@ -1,0 +1,33 @@
+### ENTRY 074 | 1918 III (1918d) | book p.415 pdf p.234 | pdes=14P | basis=name (Wolf) + year | conf=high
+discoverers: ['Schorr', 'Wolf', 'Barnard', 'Burton']
+BODY:
+1918 III (1918d). 
+Discovered by Schorr (Bergedorf) on a plate taken on 
+23 Nov. with a reflector tracking minor planets. 
+A 14™ object with a 30" 
+coma; located in Taurus (below a Tauri), moving north. 
+Photographed by Wolf (Konigstuhl) on 30 Nov.; m=14™.0. 
+Observed by 
+Barnard (Yerkes Obs.) through a 40-inch refractor. 
+30 Nov., m=15", 
+D=1'; 
+3 Dec. 
+m=15 to 15™.5, D=1', 
+a very small condensation; 
+5 Dec., 
+m=16™; 
+7 Dec., exceptionally faint under poor visibility conditions. 
+Burton (Washington) observed the comet through a 26-inch refractor. 
+29 Nov. , in poor transparency, 
+the comet was not visible through a 5-inch 
+seeker (12 to 13™). Observed also at the Lick Observatory; last measured 
+at Bergedorf on 31 Dec. when m =15™.0. 
+References: A.N., 207, 208; A.J., 32. 
+Orbit: Larink. —Bergedorf Mitt., 5:23. 
+Revolution period 6 to 7 years. 
+In V.I, Hyg =11™.0; same figure in C.A.M. 
+In Nov. and Dec., D,=1'. 
+(r, 4): 23 Nov. —(1.94, 0.95); 
+10 Dec, —(1.98, 1.02); 31 Dec. —(2.05, 
+1.19).
+

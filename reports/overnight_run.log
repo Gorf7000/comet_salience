@@ -43,3 +43,5 @@
 2026-05-01 09:52:32,297 INFO src.comet_visibility.pipeline: Audit -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\reports\comet_visibility_audit.md
 2026-05-01 09:52:32,384 INFO root: Pipeline complete in 46.3s
 2026-05-01 09:52:35,065 INFO root: Wrote morning summary -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\reports\morning_summary.md
+2026-05-01 09:52:43,434 INFO root: Gzipped comet_daily_light_curves.csv -> comet_daily_light_curves.csv.gz (37.0 MB)
+2026-05-01 09:53:59,962 INFO root: Git push complete

@@ -1,0 +1,91 @@
+### ENTRY 099 | 1925 IV (1925d) | book p.433 pdf p.252 | pdes=1925 W1 | basis=name (Biesbroeck) + year | conf=high
+discoverers: ['Stobbe', 'Delporte', 'Scutum', 'Sagittarius', 'Microscopium', 'Cetus', 'Pavel', 'Hoffmeister', 'Nabokov', 'Reichelt', 'Biesbroeck']
+BODY:
+1925 IV (1925d). 
+The eighth recorded apparition of the short-period 
+Comet Tempel(2). Spotted photographically according to Crommelin's 
+ephemeris by Stobbe (Bergedorf) on 11 July [sic —must be June], and by 
+Delporte (Uccle) on 12 June as a 12™.0 object with a nucleus and a faint fan- 
+shaped coma pointing north-west. 
+Located near n Serpentis, moved south 
+through Scutum (July), Sagittarius (July, August) and Microscopium 
+(September); ascended north through Aquarius and Cetus (December), be- 
+coming accessible to northern observatories at the end of the year. 
+17 June and 18 June, H. Struve and Pavel (Babelsberg) and Hoffmeister 
+(Sonneberg) described the comet as a large diffuse nebula of 11™.0 witha 
+conspicuous condensation of 12™. 
+30 June, 
+m=10™.6. 
+Several brightness 
+estimates through a 6-cm comet seeker and binoculars were obtained be- 
+tween 2 July and 31 July by B.A. Vorontsov-Vel'yaminov and M. Nabokov 
+(Crimea): 
+2 July, m=10™5; 
+9 Inlye ou 
+LO duly, 697% 
+02 slaajulys a8. 5) to 
+om. 
+0; 19 July, °C. 7 to 72; 25 Fuly ‘and 26*Julyj;o7™= 10 7™,0;°27 julycand 
+28 July, 6™.8 to 6™.6; 31 July, 6™.5 to 6™.8; comet appeared as a circular 
+nebula 8' in diameter. 
+14 July, Parenago gave m= 8™.2; 
+19 July, Model 
+and Reichelt (Munich) reported m=9™.6, D=1'.5; 
+21 July, a fan-shaped tail 
+3 to 4' long at 
+P=310° 15 July, van Biesbroeck (Yerkes Obs.) observed a 
+definite tail up to 20' long (P= 315°), m=8™.5; 
+15 Aug., m=9"™.5, nucleus 
+117.5; 25 Aug., observed with less certainty even at high elevation. 
+Observed at Kazan', Johannesburg, Barcelona, Nice, Strasbourg, 
+Besancon, Heidelberg, Lisbon, Siméis and Washington. 
+In July and August, 
+Jeffers (Lick Obs.) measured the comet with an almost starlike nucleus and 
+a short, fan-shaped tail. 
+5 Sept., visible through a 4-inch seeker on an 
+exceptionally clear night (10 to 11™). 
+18 July, more diffuse in appearance, 
+m=12™, D=0'.7. 
+4 Dec., m=14™, D=0'3. 
+9 Dec., Crossley reflector plates 
+showed a distinct condensation with a fan-shaped tail 1' long pointing north- 
+east; m=15™. 
+8 Dec., van Biesbroeck described the comet through a 40- 
+inch refractor as a small circular 15™.5 nebula; D=0.3. 
+13 Dec., last 
+photographic observation, m=16™. 
+References: A.N., 225-230; B.Z.,.7, 8; A.J., 36, 37; M.N., 86; 
+J.Obs., 8, 9; Pop. Astr., 34; V.J.S., 62, 63. 
+Orbit: Ramensky. —B.A.A.J., 48: 403. 
+Vide also Tokyo Bull., 615: 1230. 
+B.A. Vorontsov-Vel'yaminov's observations, A.N., 228: 325, led him to 
+completely improbable values of photometric parameters because of the 
+small change in the radius-vector (0.02 in logr). InC.A.M., according 
+to the first estimates, we find Hjj)=10™.5. 
+With the estimates above, Hj9=7.8 
+to 12™.4; on the average, 
+10™1240™.2. 
+In July, D,=2'.6; 
+in Nov., 
+0'8. 
+S=0.0020. 
+Comet's spectrum observed by Bobrovnikoff, 
+Pop. Astr., 33: 368 and 
+A.J., 66: 454, with a 6-inch prismatic camera. 
+He reported a weak con- 
+tinuous spectrum and high-intensity bands at 3883, 4033 and 4722A along 
+with several weaker ones. 
+The continuous spectrum grew stronger by the 
+perihelion passage. 
+433 
+
+
+(r, A): 
+11 June —(1.47, 0.49); 
+30 June —(1.38, 0.38); 
+19 July —(1.33, 
+0.34); 
+7 Aug. —(1.31, 0.34); 6 Sept. —(1.36, 0.45); 
+5 Nov. —(1.65, 0.98); 
+4 Dec, =(1.82,°1.37)3913 Dee? —(1.88)11,51):
+

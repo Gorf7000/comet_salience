@@ -1,0 +1,127 @@
+### ENTRY 097 | 1925 II (1927j) | book p.431 pdf p.250 | pdes=29P | basis=name (Wachmann) + year | conf=high
+discoverers: ['Wachmann', 'Castro']
+BODY:
+1925 II (1927j). 
+The short-period Comet Schwassmann-Wachmann (1). 
+Discovered photographically by Schwassmann and Wachmann (Bergedorf) 
+on 15 Nov. 1927 as a circular 13 to 14™ nebula with D=2' and a distinct 
+nucleus. 
+At opposition located in Pisces, moving extremely slowly south- 
+west. 
+It was later established that the orbit was almost circular, 
+slightly 
+inclined to the ecliptic and situated between the orbits of Jupiter and Saturn. 
+Therefore, 
+the comet, like a planet, can be observed at all points of its 
+orbit, with oppositions every 13 months;.-however, 
+the comet is usually 
+accessible to large instruments only. 
+23 Nov., Castro (Santiago) gave m=12™ through a 28-cm refractor, D=2'. 
+The most conclusive and continuous brightness estimates and general ob- 
+servations were due to van Biesbroeck: 
+26 Nov., m=14™5, nucleus Lem, 
+D=6'.7; 
+28 Nov., 
+15”; 
+1 Dec., 
+16™; 
+14 Dee., 
+14™. 
+This variability in the 
+comet's brightness, 
+as reported by van Biesbroeck, was confirmed by 
+Baade's observations; 
+incidentally, 
+this seems to be a specific feature of 
+all comets which move at considerable distances from theSun. InJanuary and 
+February 1928 brightness dropped to 17 and even 18™; from September to 
+December 1928, m=i6".5. 
+6 Nov. 1929, Baade described the comet as 
+fainter than 17™, but already on 2 Dec. he gave m=13™.5. 
+Brightness flares 
+up to 15™ [sic] reported 
+by van Biesbroeck, Schorrand Baabeon23 Nov. 1930; 
+10); Fiebwand 1 Febs 1931, 
+“upste, 12.15; ,20san. 
+ot24- Jann, 
+99339 
+tupite, 1222; 
+21 March and 22 March, up to 13™.5; 22 April, up to 12™. 
+Brightness 
+remained constant in May 1933 (12 to 13™); then it flared on 7 March and 
+12 March 1934 (up to 13™.5); 4 May 1935, up to 12™.5; 
+15 May 1937, up to 
+13™.5;9h2, Junesand. 21.Jiune 1939;-up! to -13™. 
+The appearance of the comet also varied with the brightness flares; 
+it 
+was 
+observed 
+as 
+a nebulous 
+disk 
+either 
+with two envelopes (February 
+1932, 
+May 1934) or 
+as 
+a star (January and May 1933, March 1934, 
+February 1935). 
+2 Dec. 1929 Baade observed the comet as a circular nebula, 
+D=0':3; 
+5 Dec., D=30", an eccentric 14".5 nucleus; 28 Dec., van Biesbroeck 
+gave D=1', a sharp eccentric nucleus; 
+30 Dec., coma D=24" with a 16™.5 
+nucleus. 
+Changes in appearance were also observed in December 1932 and 
+January 1933. 
+In 1940 the comet's spectrum was photographed by Mayall (Lick Obs.). 
+15 Sept. 1941, 
+a sharp flare of 20-hours duration when the comet was trans- 
+formed from a diffuse nebulous spot into a starlike object with a very faint 
+coma. 
+In January 1946 another brightness flare was reported. 
+In March 
+1947 Jeffers gave 
+m=19™. 
+Recently, van Biesbroeck has estimated the 
+comet at 16 to 18™. 
+References: 
+B.Z., 9-23; A.J., 38, 40-60; V.J.S., 64, 66; Pop. Astr., 
+36-48. 
+431 
+
+
+Orbit: Behrens. —A.N., 245; 309. 
+Proceeding from brightness estimates for 1927 and 1928 (normal bright- 
+ness 16-17™), C.A.M. gave Hjg=5™.0. 
+In brightness flares, the Hig-values 
+would increase to 2 to 0™ 
+D,=10' (external envelope) and 4 to 5! (normal 
+state). 
+Brightness fluctuations of Comet Schwassmann-Wachmann 1 were studied 
+by Richter, A.N., 271: 207. 
+He tried to correlate them with solar activity 
+and fluctuations in the ultraviolet radiation; 
+later, he associated them with the 
+solar corpuscular streams which give rise to magnetic disturbances, ASSNES 
+277: 12 and 280. 
+These streams (corona rays) should be held responsible 
+for the brightness flares of comets at substantial distances from the Sun. 
+Spectrum observed by Mayall, P.A.S.P., 53: 340, and Herbig, 
+P. eas) Bares 
+58:60, during periods of increasing brightness. 
+In both cases the spectrum 
+was continuous without the usual cometary bands. 
+However 
+any 
+conclu- 
+sions concerning the dust nature of the comet are quite premature. 
+(r, A): 15 Nov. 1927 —(6.0, 5.3); 
+12 Feb. 1928 —(6.1, 6.4); 29 Oct. 1928— 
+(6.3, 5.4); 
+14 Dec. 1929 —(6.7, 5.8); 31 Oct. 1930 —(7.0, 6.5); 4 Feb. 1931 — 
+(7.1, 6.2); 30 Jan, 1932 —(7.2, 6.2); 17 Feb. 1933 —(7.3, 6.4); 24 March 
+1934 —(7.3, 6.4); 15 Feb.1935 —(7.1, 6.3); 21 March —(6.6, 5.8); 8 June 
+1937 —(6.5, 5.8); 25 May 1939 —(5.8, 4.9); 15 July 1940 —(5.5, 
+5.1).
+

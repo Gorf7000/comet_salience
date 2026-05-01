@@ -1,0 +1,21 @@
+### ENTRY 008 | 1903 III (1903b) | book p.357 pdf p.176 | pdes=1903 H1 | basis=name (Grigg) + year | conf=high
+discoverers: ['Grigg']
+BODY:
+1903 Ill (1903b). 
+Discovered in Eridanus by Grigg (New Zealand) on the 
+evening of 17 April. Moved north-east (away from the Sun) through Eridanus 
+(beginning of May), Lepus and Canis Major (end of May). 
+Observed only in New Zealand, Australia and atthe Cape. Upon discovery, 
+appeared faint through a 3-inch telescope; no nucleus (fainter than 8 to 9™). 
+Receded from the Sun (perihelion passage on 26 March) growing rapidly 
+faint. 
+Measured last on 28 May in Windsor with an 8-inch refractor and 
+at the Cape of Good Hope with a 7-inch refractor when hardly visible (not 
+fainter than 12 to 13™). 
+References: M.N., 64; V.J.S., 39. 
+Orbit: Peck. —A.J.; 24:51:75: 
+In V.II estimated onthe assumption that m = 13™.5 (obvious underestimate). 
+From the estimates above we obtain Hjg = 8™.6 to 9™.6. 
+(r, 4): 17 April —(0.80, 1.50); 
+5 May —(1.04, 1.41); 29 May —(1.43, 1.65).
+

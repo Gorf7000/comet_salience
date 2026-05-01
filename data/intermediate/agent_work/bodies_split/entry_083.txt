@@ -1,0 +1,44 @@
+### ENTRY 083 | 1921 I (1921c) | book p.421 pdf p.240 | pdes=1921 H1 | basis=body scan token 'dubiago' + year | conf=medium
+discoverers: ['Dubyago', 'Lynx', 'Pokrovskii', 'Schorr', 'Hoffmeister', 'Struve', 'Schaumasse']
+BODY:
+1921 1 (1921c). 
+Discovered by A.D. Dubyago (Kazan') on 24 April as‘a 
+diffuse 10™ nebula between Auriga and Lynx. 
+Moving south-east, passed 
+through Lynx (April, May) and Leo Minor; 
+in June, located in Leo. 
+29 April, Dubiago reported a condensation; well visible. 
+Observed by 
+K.D. Pokrovskii (Pulkovo). 
+30 April, m=12™, D=0!.7; 
+1 May, 10™ 
+6 May 
+to 9 May, faint apparently because of the bright sky. 
+14 May, Schorr 
+(Bergedorf) gave 11™.5; D=3'. 
+30 May, observed by Hoffmeister 
+(Sonneberg) as a circular nebulous mass of 11™ with a faint condensation. 
+28 May and 29 May, Dubyago described the comet as extremely faint; visible 
+with great difficulty. 
+23 May to 7 June, observed by H. Struve (Babelsberg) 
+with a 65cm refractor. 
+31 May, visible to peripheral vision through a 
+seeker (11 to 12™). 
+24 May to 29 May, estimated by Schaumasse (Nice) at 
+11.5 to 12™; 
+8 June, 
+12™.0; 
+6 June, 
+still observed in Sonneberg through a 
+5-inch refractor (11 to 12™); last observation in Nice on 11 June. 
+References: A.N., 213-219; B.Z., 3; M.N., 81; J.Obs., 5. 
+Orbit: Hirose. —V.J.S., 72. 
+In E-I, Hyg=10™.5. 
+A decrease in brightness reported in May and June. 
+DO 
+et kOe ale 
+(r, A): 24 April —(1.14, 0.70); 5 May —(1.12, 0.89); 
+14 May —(1.15, 1.00); 
+29 May —(1.17, 1.04); 
+11 June —(1.26, 1.07):
+

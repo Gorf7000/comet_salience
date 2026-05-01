@@ -1,0 +1,28 @@
+### ENTRY 064 | 1915 I (1915c) | book p.407 pdf p.226 | pdes=10P | basis=body scan token 'tempel' + year | conf=medium
+discoverers: ['Delavan', 'Cetus', 'Taurus', 'Glancy', 'Thiele']
+BODY:
+1915 1 (1915c). 
+The sixth recorded apparition of the short-period Comet 
+Tempel (2) (not observedin1910). 
+Located according to Braae's ephemeris 
+by Delavan (La Plata) with a 43-cm refractor on 16 May as a very faint 
+object (12 to 13™) in Pisces. 
+Moved east through Cetus (June, July) and 
+Taurus (July to October). 
+Observed in La Plata in May and June. 
+20 May, measured by Glancy 
+(Cordoba) through a 12-inch refractor (not fainter than 12 to 13™). 
+9 Aug., 
+10 Aug., 
+11 Sept. and 12 Sept., photographed by Thiele (Bergedorf) (14 to 
+15™). 
+No brightness estimates given by observers. 
+References: A.N., 200-203; A.J., 29, 31; Holetschek V, p. 67. 
+Orbit: Braae. —A.N., 200: 279. 
+The absolute magnitude determined first by Vsekhsvyatskii in M.N., 
+90: 712; in C.A.M., Hyijp=11™; considering these estimates, we obtain 
+Hio =10™2. 
+(r, 4): 16 May —(1.37, 1.80); 11 Aug. —(1.82, 1.68); 
+13 Sept. —(2.03, 
+i, Soe
+

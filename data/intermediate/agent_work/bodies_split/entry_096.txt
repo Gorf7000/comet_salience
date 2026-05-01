@@ -1,0 +1,119 @@
+### ENTRY 096 | 1925 I (1925c) | book p.430 pdf p.249 | pdes=1925 G1 | basis=name (Orkisz) + year | conf=high
+discoverers: ['Orkisz', 'Pegasus', 'Cassiopeia', 'Camelopardus', 'Major', 'Struve', 'Beyer', 'Vsekhsvyatskii', 'Krumpholz', 'Hoffmeister', 'Luther', 'Chofardet', 'Burton', 'Biesbroeck']
+BODY:
+1925 I (1925c). 
+Discovered in Pegasus by Orkisz (Mount Obs., near 
+Cracow) on 3 April as a 9™.0 object. 
+Moved north-east; passed through 
+Pegasus (April), Andromeda and Cassiopeia (May); at the beginning of June, 
+located 8° from the pole; descended south through Camelopardus (June) and 
+Ursa Major (July); 
+in February and March 1926, moved between Ursa Major 
+and Leo Minor; 
+in April and May, moved through Lynx. 
+Beginning 6 April to 8 April, observed throughout the world as a circular 
+condensed nebula 4 to 5' in diameter; 
+intrinsic brightness estimated at 
+77.5 to 8™.0; nucleus 12™; very faint tail. 
+Beginning the end of April, after 
+a period of low altitude and lunar interferences, 
+conditions were exception- 
+ally favorable for observations. 
+Several intrinsic brightness estimates were 
+obtained by H. Struve (Babelsberg), Beyer (Altona), Vsekhsvyatskii 
+(Kuchino), Krumpholz (Vienna), Hoffmeister 
+(Sonneberg), 
+Luther 
+(Dusseldorf), Chofardet (Besancon) and Burton (Washington). 
+The longest series of descriptions and brightness observations were due 
+to van Biesbroeck (Yerkes Obs.). 
+18 April and 19 April, m=7 to 8™, bright 
+circular comet, D=5', central condensation, 
+faint protuberance directed 
+away from the Sun; 21 April, m=7™.3; 
+30 April, 
+77.0; 
+10 May to 12 May, 
+m=7™, 0) 
+to, 7.355 
+D =6', :distinct-nuclets? 
+16’ May*and «lt! May 
+utT™. Ilt0 17 3; 
+21 May and 22 May, 
+7™.7 to 77.9; 
+30 May, 
+87.4 to 9™1; 22 June, 
+9™95; 
+30 June, 
+9™.5 to 9™.7, diffuse nucleus; 
+9 July and 10 July, 
+9 to 9™.8, D=2! 
+to 3', nucleus 12™; 
+18 July, 
+11™.0, almost circular nebula with a diffuse 
+central condensation; 
+24 Nov., 
+14™.0, D=0'.3, nucleus; 
+8 Dec., 
+14™.5, 
+D=24"; 
+15 Jan. to 19 Jan. 1926, 
+14 to 14™.5, nucleus 15™, D=18". 
+Photographed at various observatories. 
+23 April, van Biesbroeck 
+registered photographically a very asymmetric nebula and a wide tail up 
+to 12' long. 
+12 May, Baade photographed a narrow 1° tail directed away 
+from the Sun, and another tail, wide and diffuse, diverging by 110 from the 
+direction to the Sun. 
+Rougier's photographs (Strasbourg) taken on 23 April, 
+24 April and 13 May showed a head 18' in diameter and three tails at P= 290, 
+245 and 270°. 
+Spectrum photographed by Bobrovnikoff and Rougier from 28 April to 
+21 May. 
+2 May, very weak continuous spectrum: 
+a stronger one on 18 May; 
+CN IV and C IV bands. 
+In 1926 the comet was observed by Jeffers (Lick Obs.) on 12 Jan. when 
+m = 14™ (nucleus) and 
+D=18". 
+15 April, plate showed m= IS RaO MD AO HEY, 
+In March, observed by van Biesbroeck through a 40-inch refractor; 
+last 
+photographed by him on 12 May. 
+References: A_N., 224-228: Bid, Tsk. Z [sic], 36, 37; M.N., 86, 
+87; Obs., 48, 49; J.Obs., 9, 10; V.J.S., 62, 63. 
+Orbit: Goryachev. —Russ. Astr. Jour., 6:22. 1929. 
+Proceeding from the estimates of Struve, Chernyi, Beyer et al., 
+Vsekhsvyatskii, 
+Bull. Soc. Observers, Moscow, 9: 64, obtained y = 8.0, 
+Hg =5™.3; in C.A.M., Hig=5™.4. 
+Bobrovnikoff obtained from a smaller 
+body of data 
+y=7™.7, Hg=5™.9; 
+his parameters 
+yield, 
+however, m=14™,6 
+for May 1926 which does not agree with the observations as well as 
+m = 15™ based on Hip = 5™.4, 
+430 
+
+
+D, = 7'.6 to 9!.1 (visual observations in April and May) and 25'.0 (photo- 
+graphs). 
+S=0,026, S,=0.007, S3= 0.009. 
+According to Vorontsov-Vel'yaminov, A. Zh., 6:57, the comet had type I 
+and type III tails and also, probably, 
+a type II tail. 
+Spectrum observed by Bobrovnikoff, 
+Pop. Astr., 33; 417 and Ap. J., 
+66: 454 and also by Rougier, J.Obs., 8: 39. 
+(niSA)s SApril—CN119,4,76); 
+21 April —(1.16, 1.54): 21 May, —(1:37, 
+1.55); 20 June —(1.67, 2.00); 22 July = (2508,'2.63); 
+19) Nov.n—(3.38, (3.50); 
+21 Dec.A925 —(3.73, 3.35); 28 Jan. 1926 —(4.11, 3.38); 28 Feb. —(4.44, 
+3.60); 
+1 April —(4.75, 4.21); 
+12 May = (5; 1555.22).
+

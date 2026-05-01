@@ -1,0 +1,72 @@
+### ENTRY 018 | 1905 VI (1906a) | book p.365 pdf p.184 | pdes=1906 B1 | basis=name (Brooks) + year | conf=high
+discoverers: ['Brooks', 'Holetschek', 'Wirtz', 'Abetti', 'Palisa', 'Przybyllok']
+BODY:
+1905 VI (1906a). Discovered in Hercules by Brooks on 26 Jan. 1906 as 
+a circular 9™ nebula 8' in diameter, with a faint nucleus. 
+Moved north; 
+in 
+February, crossed Draco and Ursa Minor and then passed 5° from the 
+north pole; at the end of February, located in Sate ered: 
+in March and 
+April, traversed Auriga. 
+28 Jan., Holetschek (Vienna), through a 6-inch refractor, estimated 
+m= 9" nucleus 10™; 29 Jan., visible through seeker (8™.4); 
+10 Feb., 
+m=10.5 to 11"; 
+11 Feb., 
+107.5; 
+12 Feb., ~11™. 
+Extensive brightness 
+estimates were compiled by Wirtz (Strasbourg). 
+31 Jan., m=9™.4; D=7', 
+nucleus 12™,.5, granular nebula; 
+15 Feb. to 21 Feb., m=9.2 to 9™.5, D=8 
+to 10', nucleus 11 to 12.7; 
+16 Feb., nucleus surrounded by several lumi- 
+nous points; 
+18 Feb., granular nebula; 20 Feb., 
+homogeneous disk; 22 Feb. 
+to 3 March, granular structure; 22 Feb. and 28 Feb., m=9™.9, D=12'; 
+3 March to 21 March, m=11™.5 to 12™.6; 26 March, m=12™.5, D= 2!; 
+27 March, m=13™.5; 28 March, 12™.0, D = 1'.5". 
+Abetti (Arcetri) esti- 
+mated: 
+29 Jan., m=10™; 
+30 Jan., nucleus 10™; 2 Feb. and 3 Feb., mx10"; 
+10 Feb., faint because of moonlight (~11™); 
+17 Feb. and 18 Feb., 
+10 to 
+11” nebula; 4 March, 11.5. 
+Granular structure of the nebula reported also by Palisa (Vienna); 29Jan., 
+D=3 to 4'. 
+12 Feb., Przybyllok (Konigsberg) gave m=10™ and through a 
+4-inch seeker m=9™,2, D=2'. 
+22 March, m=13™; 28 March, visible with 
+difficulty; suggestion of a tail reported at the Lick Obs. 
+In the last period, 
+Wirtz saw a double nucleus; 
+the distance between the components was 12". 
+2 Feb., Howe (Denver) saw a 10 to 11™ nucleus through a 24-inch refractor. 
+23 Feb., visible through 5-inch seeker; sharp nucleus. 
+23 Feb. and24Feb., 
+very faint; 
+13 April, exceptionally faint (14 to 15™). 
+13 March, Guillaume 
+gave m=11.5 to 12™ through 13-inch refractor; observed also on 27 March 
+and 31 March, 
+17 April and 20 April, observed by Aitken (Lick Obs.) with 
+36-inch refractor; measured last at the Lowell Observatory on 24 April. 
+References: 
+A. N., 170-174" B.A., 25, 26: L.O:B., 104: V.J.S., 
+42. 
+Orbit: A. Michailov. —Russ. A.J., 1:56. 
+V.I gave, according to Wirtz's observations, y=24. 
+Hp=5™.1; inC.A.M., 
+Hip = 7”.5; Holetschek estimated Hjg=7™.7. 
+In January and February, D,=7 
+to 9'; in March, S>0. 
+(r, A): 26 Jan, —(1.41, 1.04); 10 Feb. —(1.51, 0.91); 26 Feb. —(1.64, 
+1.04); 
+12 March —(1.77, 1.34); 
+1 April —(1.95, 1.90); 25 April —(2.19, 2.57).
+

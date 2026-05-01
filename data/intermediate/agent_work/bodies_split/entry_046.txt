@@ -1,0 +1,41 @@
+### ENTRY 046 | 1911 VII (1911h) | book p.393 pdf p.212 | pdes=24P | basis=name (Schaumasse) + year | conf=high
+discoverers: ['Schaumasse']
+BODY:
+1911 VII (1911h). 
+The first recorded apparition of the short-period 
+Comet Schaumasse. 
+Discovered in Virgo by Schaumasse (Nice) on 30 Nov. 
+as a faint 12™ object with D=3 to 3'.5. 
+Moved south-east; 
+in January, passed 
+between Serpens and Libra; 
+in February, located in Ophiuchus. 
+Measured at Arcetri, 
+Padua, Nice and Uccle, remaining a faint tele- 
+scopic object. 
+At the beginning of December, measured at Arcetri and 
+Padua in moonlight; therefore not fainter than 10 to 11™. A very faint spot 
+with a hardly noticeable nebula; according to Antoniazzi on 18 Dec., m=11", 
+D=0'5. 
+16 Dec. to 29 Dec., observers in Algiers described the comet as 
+a diffuse nebula without nucleus, m=12™.5, 
+D=2!', faint condensation. 
+16 Feb. 1912, measured at Nice and Algiers as a whitish 14™ spot, D=2!'. 
+Visible on 17 Feb,. and 18 Feb., but neighboring stars interfered with 
+measurements. 
+References: A.N., 190; 191; M.N., 72, 73; V.J.S.; 47, 48; Ann. 
+de Belgique. 1914. 
+Orbit: Fayet and Schaumasse. —C.R., 154:682. 
+Photometric parameters 
+derived by B.A. Vorontsov-Vel'yaminov from 12 observations, A. Zh., 
+2: 88; the mean error in Hg is 4™.4, which exceeds the figure itself by a 
+factor of 
+21/2. 
+In Dec., D,=6'.2; 
+in Feb. 1912, 
+31.1. 
+(x, A): 30 Nov, 1911 —(1.25, 1.68); :9. Jan, 1912 —(1.42,,1;56);. 
+18: Febs— 
+(ey 
+O29 P53)
+

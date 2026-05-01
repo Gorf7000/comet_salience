@@ -1,0 +1,56 @@
+### ENTRY 100 | 1925 V (1925h) | book p.434 pdf p.253 | pdes=1925 W1 | basis=name (Biesbroeck) + year | conf=high
+discoverers: ['Stobbe', 'Baade', 'Gemini', 'Cancer', 'Hydra', 'Struve', 'Biesbroeck']
+BODY:
+1925 V (1925h). 
+The tenth recorded apparition of the short-period 
+Comet Faye (the 1903 and 1918 apparitions were overlooked). 
+Spotted 
+photographically on 20 Oct. according to Cripps’ ephemeris by Baade 
+(Bergedorf) as a 13™ object with a nucleus and a short very faint tail; later, 
+detected by Stobbe on plates of 29 Aug. and 15 Sept. as 13™.7 and 13.5 
+object, respectively. 
+Passed through Orion, Gemini (September), Cancer 
+(October, November) and Hydra (November, 
+December). 
+22 Oct., photographed at the Yerkes Observatory; 
+nucleus 14”, very 
+faint tail at 
+P=60°. 
+26 Oct., observed by H. Struve (Babelsberg) as a very 
+faint (13™.8) object with a 14™ nucleus. 
+12 Nov., Baade gave m=13™.8. 
+Observed at the Lick Obs. and by van Biesbroeck (Yerkes Obs.). 
+17 Nov., 
+m= 13™.8, nucleus 147.5, D=24"; 
+18 Dec., 
+15", D=18". 
+15 Jan. 1926, 
+plates showed a circular nebula with a faint 1° tail (P= 300°); 
+19 Jan., 
+m=15™, D=18"; 
+14 March, 
+a very diffuse 16™.5 nebula. 
+References 0 BYZ.I 
+7: WAY Nt 
+226,122. 
+V9) 52,063-657%, DN eG: 
+ALS. , 37. 
+Orbit? 
+(Cripps) BeAVAT® , 35:21 86. 
+For this apparition, H,, 
+=10™.1 according to M.N., 90: 712; same value 
+in C.A.M. 
+After reappraisal, 
+V.I. Cherednichenko, 
+Publ. Kiev Obs., 5: 92. 
+1953, obtained Hyoay) = 10™.9 and Hip-values ranging from 10™.0 to 12™.2. 
+D,=0'.4. 
+S=0.001. 
+(rr, cA) 29 Ame a= (1865301. 56) 
+2 OO ete C1078; 1.55); 17 Nov. —(1.91, 
+1.42); 
+18 Dec. 1925 —(2.07, 1.29); 
+19 Jan. 1926 —(2.21, 1.41); 
+14 March — 
+(2938 1780);
+

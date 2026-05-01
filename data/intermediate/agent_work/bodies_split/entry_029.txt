@@ -1,0 +1,144 @@
+### ENTRY 029 | 1907 IV (1907d) | book p.372 pdf p.191 | pdes=1907 L2 | basis=name (Daniel) + year | conf=high
+discoverers: ['Daniel', 'Pisces', 'Taurus', 'Cancer', 'Leo', 'Libra', 'Holetschek', 'Nijland', 'Wirtz', 'Schwab', 'Duncan', 'Wolf']
+BODY:
+1907 IV (1907d). 
+Discovered by Daniel (Princeton, 
+U. S.A.) on 9 June 
+near the vernal equinox as a nebula of m=9™.5 and D=2! with a 10™ conden- 
+sation. 
+Moving north-west, passed through Pisces (June-July), Aries, 
+Taurus (July), Gemini Cancer (August) and Leo (September). 
+From 24 Sept., 
+disappeared in the solar rays. 
+At the beginning of November, located in 
+Virgo; then moved in Libra (January to March 1908); from April to June, 
+again located in Virgo. 
+Along with 1908 III, comet 1907 IV yielded many new observational data 
+which facilitated the explanation of the specific physical processes in 
+comets. 
+Numerous photometric, photographic and spectral observations 
+were obtained, 
+the most significant being the estimates of intrinsic and 
+nuclear brightness due to Holetschek (Vienna), Nijland (Utrecht) Wirtz 
+(Strasbourg), Schwab (Kremsmunster) et al. 
+Already by 20 June, 
+m=8™, D=6 
+to 7'; a tail pointing west. 
+1 July to 
+5 July, 
+m=7™6; 
+10 July, 4™.2; 21 July to 31 July, 37.2, D=5 to 9', visual 
+observations gave a tail 2 to 3° long; 2 Aug. to 9 Aug., 2.8 to 27.5; 10Aug. 
+to 19 Aug., 2.1 to 2™,3, tail 6 to 9°; 20 Aug. and 30Aug., 2™, D=2', tail ~2°; 
+inSeptember, nucleus 4 to 5™ in twilight. 
+12 Aug. to9Sept., measured at the 
+Catania Obs. witha wedge photometer; brightness deviatedfrom the Po As daw. 
+Comet extensively photographed on 36 nights between 10 June and 12 Sept. 
+by Duncan (Lick Obs.) (71 plates); 21 July to 27 Aug., Wolf (Heidelberg) 
+obtained 41 negatives within 10 nights; 
+12 Aug. to 11 Sept., G.A. Tikhov 
+(Pulkovo) obtained 11 photographs on the Bredikhin astrograph (with filters); 
+11 July to 8 Sept., photographed by Barnard (Yerkes Obs.) (25 negatives); 
+12 July to 25 July, photographed by Quenisset (Juvisi), 
+I. and J. Fri¢ and 
+Nusl (Ondrejov Obs.), Riccd, Horn, Bemporad (Catania Obs.) and others. 
+10 July to 12 July, main tail appeared as a straight, homogeneous band; 
+a system of jet-rays undergoing rapid changes emerged from the head 
+(Barnard observed changes take place within 2 to 6 hours). 
+Photographs 
+taken at the Lick Obs. showed tail condensations. 
+In the second half of July 
+and in August, the tail consisted of a multitude of rays emerging from the 
+head. 
+Duncan reported in August a dark stripe extending from the nucleus 
+along the middle of the tail (''shadow" of the nucleus); tail up to 17° long. 
+In September, 
+a parabolic envelope with dark axial gap. 
+Ray structures 
+located outside the orbital plane, 
+a conclusion drawn from the appear- 
+ance of the comet when the Earth passed through its orbital plane on 
+15 July. 
+Considering 59 photographs between 10 July and 27 Aug., Horn 
+* This example illustrates the preferability of medium power instruments for observing diffuse nebulosities. 
+372 
+
+
+deduced that the axis of the tail cone oscillated with a period of 16 hours, 
+deviating from the orbital plane. A detailed study of the photographs was 
+undertaken by Kopff, who attempted to determine solar repulsive forces and 
+to investigate the rays and the jets. Polaroscopic observations of Duncan 
+(8 Aug. to 12 Aug.) indicated no reflected sunlight in the tail. 
+Plate XXX. Comet 1907 IV (Daniel). Photographed by M. Wolf 
+After emerging from the solar rays the comet was observed from 14 Nov. 
+to 18 Nov. by Abetti (Arcetri) at dawn as a circular 1' spot without a tail; 
+14 Nov., m=8 to 9™; 18 Nov., 
+8 to 9™; 
+well visible in moonlight. 
+15 Dec. 
+to 17 Dec., appeared as a 9™ star out of focus on a dark sky. 
+13 Jan., ob- 
+servations by Millosewich, Zappa and Bianchi (Rome) indicated a conden- 
+sation brighter than 10™.5, 
+a dense coma 2! in diameter; 
+12 Feb., nucleus 
+10™, asymmetric coma elongated north-west; 26 March, nucleus 12™ with 
+hardly noticeable nebula; 21 April, nucleus 12”, asymmetric coma 0'.6 in 
+diameter. 
+4 May, hardly visible; 
+18 May, not detected. 
+24 June, measured 
+by Javelle (Nice); a 15™ nucleus that disappeared the next day. 
+27 June 1908, 
+measured last in Nice: 
+a pale, ill-shaped nebula 0'.4 in diameter. 
+19 April 
+1909, M. Wolf (Heidelberg) at a precalculated spot on two plates spotted a 
+nebulous object that could have been the comet (16™.5). 
+References: A.N., 175-179; M.N., 68; B.A., 25; Wien Stw. Ann., 
+22; L.O.B., 126; V.J.S., 44, 45; Ann. de Belgique 1909. 
+Orbit: Baehr. —A.N., 249: 241. 
+S.V. Orlov, A.N., 195: 303, obtained from Holetschek's observations 
+y =19 to 6.4, Hp =3™.6 to 3™.7, hig= 7.4. 
+V.I gave according to Nijland, 
+Wirtz, and others y=9.8, Hj =4™.2, Hjg=4™.0. 
+From all the 98 estimates 
+Bobrovnikoff, Perkins Obs. Contr., 
+15. 1941, using more than 17 observa- 
+tions, obtained y = 9.0 
+(on the average), Hy = 4.4 
+and 
+for 
+the 
+first 
+period (June and July) 
+y=17, Hp =3™.6. 
+In July, D,=3'.7; 4 Aug., Smax= 0.22. 
+According toKopff, Publ. Heidelberg, 3(7), the tail was produced by the 
+repulsive forces 
+1+u =20 to 70. The specific appearance of the ray systems 
+indicated the action of forces (apart from solar repulsion) originating in 
+373 
+
+
+the head of the comet. 
+Brightness fluctuations of the nucleus could not be 
+explained by the Bessel-Bredikhin theory. 
+Very thorough studies of the spectrum were made by Campbell, Ap.J., 
+28:229; Evershed, M.N., 68:16; Baldet Ann. Meudon, 7: 16; Belopol'skii, 
+Mitt. Pulkovo, 2:119; Rosenberg, A.N., 175: 401; Slipher, 1..O.B., ad: 
+Deslandres and Barnard, C.R., 145: 445, 843; Riccd, Mem. Spec. It. ,2:115. 
+Continuous spectrum and the ordinary Cz and CN bands. 
+Campbell measured 
+61 bright lines, many of which were not identified. 
+A specific tail spectrum 
+distinct from the spectrum of the nucleus and the head was detected for the 
+first time. 
+(r, A): 9 June —(1.82, 1.63); 24 July —(1.54, 1.28); 10 July —(1.29, 
+1.04); 31 July —(0.93, 0.77); 22 Aug. —(0.60, 0.93); 
+15 Sept. —(0.51, a 21)> 
+24 Sept. —(0.69, 1.60); 4 Nov. —(1.38, 2.21); 6 Dec. 1907 —(1.87, 2.52); 
+4 Jan. 1908 —(1.83, 2.63); 2 Feb. —(2.70, 2.59); 5 March —(3.12, 2.52); 
+2 April —(3.47, 2.56); 4 May —(3.85, 2.87); 1 June —(4.16, 3.39); 3 July 
+1908 —(4.51, 4.17); 19 April 1909 —(7.30, 6.46).
+

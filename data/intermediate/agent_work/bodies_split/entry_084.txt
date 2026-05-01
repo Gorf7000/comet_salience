@@ -1,0 +1,203 @@
+### ENTRY 084 | 1921 II (1921a) | book p.421 pdf p.240 | pdes=1921 E1 | basis=name (Reid) + year + Roman position 2 | conf=medium
+discoverers: ['Reid', 'Dubiago', 'Major', 'Holetschek', 'Biesbroeck', 'Dziewulski', 'Orlov', 'Chofardet', 'Hellerich', 'Luther', 'Wirtz', 'Pokrovskii', 'Malsch', 'Hoffmeister', 'Nijland']
+BODY:
+1921 II (1921a). 
+Discovered by Reid (Capetown) on 13 March as a 9™ 
+nebula near B Capricorni; 4 April, discovered independently by Dubiago 
+(Kazan') with a 16-cm comet seeker as an 8™nebula. 
+Moving directly north, 
+passed through Aquila, Delphinus, Vulpecula, and Cygnus inApril; traversed 
+Cepheus in May, passing near the pole and continuing through Camelopardus 
+and Ursa Major (May); in June and July, located in Lynx, slowly descending 
+south; after conjunction with the Sun, moved in Orion and Lepus. 
+Because of exceptionally favorable position in the sky and the consider- 
+able brightness, the comet was observed throughout the world in April and May. 
+Beginning 14 March, observed in Johannesburg. 
+23 March and 24 March, 
+estimated at 9™, an annular envelope 1'.1 in diameter and a 30"' coma. 
+3 April, Innes reported a tail. 
+Important photometric observations and brightness estimates as well as 
+descriptions of comet's appearance, were made by Holetschek (Vienna), 
+van Biesbroeck (Yerkes Obs.), Dziewulski (Wilna), S.V. Orlov (Perm'), 
+Chofardet (Besancon), Hellerich (Bergedorf), Luther (Dusseldorf), Wirtz 
+(Kiel), Pokrovskii (Pulkovo), Malsch (Konigstuhl), Hoffmeister (Sonneberg), 
+Nijland (Utrecht) and others. 
+30 March, m=9™, 
+D=2 
+to 3', diffuse nebula; 
+3 April, 
+m=8™, D=3', 
+eccentric nucleus (Chofardet). 
+2 April to 4 April, nebula elongated 5 to 6! 
+in the direction 
+P=230°, m=8.2 to 7™.9 (van Biesbroeck); 
+11 April and 
+12 April, m=6.5 to 6™.3, nucleus 7.5, D=3 
+to 3'.5 (Holetschek); 
+17 April 
+and 18 April, m=6.7 to 7™.2, nucleus 9", D=5', tail 10' (van Biesbroeck); 
+27 April and 28 April, 
+m=5.5 to 5™.8, nucleus 8™, D=3 
+to 6'; 1 April [sic.— 
+probably May] m=4.9 to 5™.2, nucleus 8.6, D=2 to 6' (Holetschek). 3 May, 
+421 
+
+
+van Biesbroeck estimated the brightness to the naked eye at 4 to 5™. 
+6 May 
+and 7 May, m=5 to 6™.1, nucleus 8™.5, D=3 to 5!; 3 [sic —probably 13] 
+May, m=6™, nucleus 8™ D=6! (Holetschek); 
+15 May and 16 May, m=6™.8 
+to 77.2; 4 April, m= 8™.6 (van Biesbroeck). 
+30 June, 
+a faint nebula near 
+the horizon; 
+3 July, low altitude, 
+inconvenient for observations (van 
+Biesbroeck). 
+Measurements of surface brightness in comparison with nebulae in Lyra 
+were carried out on a photometer by Vogt (Konigstuhl). Brightness increased 
+from 13 April to 30 April and 1 May and then decreased by 2™.2 till 7 June. 
+Heiskanen (Potsdam) determined the intrinsic photographic brightness from 
+2 May to 12 May. 
+29 April and 1 May, photographed by Houghton (Stockholm); 
+plates showed a straight 3° tail. 
+30 April, Wolf's plates (Heidelberg)showed 
+a 40' tail (P = 266°) and a wide stubby tail at P = 225°; 
+slit spectro- 
+grams of the comet taken at the same time showed CN and C lines over 10! 
+from the nucleus towards the tail. 
+Photographs showeda second shorter tail 
+12' long, wide at the base, pointing east at a 50° angle to the first tail. 
+Photographed in Potsdam (2 May to 12 May); two tails reported narrow and 
+straight one 17° long, and a wide one 30' long at 40° to the other. 
+Photo- 
+graphed also at Juvisy, Ann Arbor and other observatories. 
+After conjunc- 
+tion with the Sun, observed in Bergedorf from 1 Oct. 
+to 26 Nov.; 
+8 Nov., 
+Toco mos 
+Riediexmenic 
+ess ALN. elos2aeseB Zia Oisttads s Coron J.ObDS. A452 
+Pop. Astr., 29; MoN., $2. 
+Orbit: 
+Peisino. —A.N., 228: 150. 
+V.I gave, according to Holetschek's observations, 
+y=17, Hg =5™.9; 
+according to van Biesbroeck, y=7.3, Hp=7™.0; 
+the eight estimates of 
+S.V. Orlov gave 
+y=20, Hy=6™.3. 
+The average of these figures and the 
+observations of Dziewulski, Hellerich and Wirtz is 
+y=9.6, Hi)=6™.7, 
+ho = 8".3; Bobrovnikoff, making use of other reports (a total of 97 estimates) 
+obtained y= 13.8, Hg=6™.9, which is very close to our value. 
+In April and 
+May, D,=3'.9. 
+S;=0.034; S,= 0.006. 
+Tails not studied, however it seems clear that the long straight tail was 
+of type I whereas the short one was apparently of type III. 
+Spectrum observed by Hanson, A.N., 214: 439, Parkhurst, 
+PopyeAsitr. ; 
+32: 251, and studied by Bobrovnikoff, Ap.J., 66: 452. 
+(r, A): 13 March —(1.40, 1.95); 4 April —(1.18, 1.13); 
+18 April =(an05, 
+0.75); 
+1 May —(1.02, 0.63); 
+10 May —(1.01, 0.76); 25 May —(1.04, 1.17), 
+10 June —(1.14, 1.61); 4 July —(1.36, 2.18); 24 Aug. —(1.96, 2.75): 
+3 Oct.— 
+(2.44, 2.62); 20 Nov. —(3.09, 2.25). 
+1921 IM (1921b). The tenth recorded apparition of the short-period 
+Comet Pons-Winnecke. 
+Discovered by Barnard (Yerkes Obs.) on 10 April 
+as a 12™ nebula in Corona Borealis. 
+Passed through Hercules (April), Lyra, 
+Cygnus (May, June), Pegasus (June) and, descending southward, traversed 
+Pisces, Cetus (July) and Sculptor (July). 
+Observed by Barnard, van Biesbroeck and Chofardet. 
+In June, when the 
+comet appeared bright because of proximity to the Earth (in June Amin = 
+= 0.13), 
+it was seen at numerous observatories. 
+Barnard gave 14™(?) for 
+the nucleus on 12 April; faint under poor conditions. 
+3 May, an eccentric 
+nucleus of 13™.5; nebula elongated south-east. 
+5 May, D=1'.5; 
+7 May, 
+a 
+starlike nucleus of 137.5, mz12™, D=1'.5; 
+31 May, mj=10™). 
+2,Noy. [sic.— 
+probably June] tiny nucleus of 13™ in a very large coma; 
+11 June, D=10', 
+422 
+
+
+tiny nucleus of 14 to 15™; 
+16 June, tail reported with axis at 
+P=54°. 24 April, 
+van Biesbroeck and Chofardet gave m = 11™.5 with a faint starlike nucleus. 
+4 May, m=10".8, D=2' elongation at P=250°; 
+8 May to 10 May, m=10 to 
+11™, nucleus at 12™; 28 May to 31 May, m=10 to 9", D=10', nebula elon- 
+gated at 
+P=50°. 
+4 Jume, m=9™.5; 
+12 June, m=8".0 (seeker), nucleus 12”, 
+tail at 
+P= 36°. 
+30 May, Silbernagel (Munich) gave m= 9™ through a 10-inch refractor; 
+nucleus 13™; rudiments of a tail. 
+31 May, m= 8".5, 
+a 30' tail: 7 June, 
+m=8™, sharp 11™ nucleus. 
+27 April, H. Struve and Bernewitz (Babelsberg) 
+estimated the nucleus at 12™.5 through a 65-cm refractor. 
+29 April, m= 
+=11™.7; 
+12 May, easily visible through a 4-inch seeker, an 11™ condensation; 
+26 May, m=8".5, sharp 10™ nucleus, 
+D=3 
+to 4'; 30 May, m=8™; nucleus 
+9™. 
+6 June, comet brighter; sharp nucleus. Vogt (Konigstuhl) photometrically 
+measured the surface brightness of the comet in comparison with the nebula 
+in Lyra; 
+11 May to 7 June, the difference varied from +2™.5 to + 1™.0. 
+7 June to 1 Aug., observed by Castro (Santiago); 
+7 June, D=8', nucleus 
+117.5; 
+14 June, m=6™.9; 
+9 July, 
+m=7™.2. 
+In Johannesburg, 
+the comet was 
+observed from the end of July to 5 Sept. 
+Riefe rence s? ALN: 213-220; B. ZT, 3) AyS2,.83;°34, 417 J.sObeif 4) 5; 
+M.N., 81. 
+Orbit: Seagrave. —A.J., 33: 184, 34: 174. 
+In V.I, 
+Hg =12.4 to 13™.0; 
+in C.A.M., Hyg=12™4. 
+Making use of the 
+intrinsic brightness estimates for June and July, we obtain Hjjg=12™. 
+In 
+May, D,=1'.8; 
+31 May, 5=0.0017. 
+Numerous theoretical and observational works deal with the meteors of 
+Comet Pons-Winnecke; among these are the works of Hoffmeister, A.N., 
+215: 455; Shain, A.N., 217: 93; Blazhko, 
+A.N., 220: 303; Svoboda, A.N., 
+218: 255; Crommelin, M.N., 81: 228; Denning, Nature, 107: 15; Obs., 
+44: 194, and B.A.A.J., 
+33:60. 
+{r, 4): 11 April —(1.34, 0.44); 
+1 May —(1.19, 0.26); 20 May —(1.07, 0.20); 
+5 June —(1.02, 0.14); 
+13 July —(1.02, 0.14); 23 July —(1.03, 0.16); 21 July 
+[sic] —(1.16, 0.32); 5 Sept. —(1.45, 0.57).
+

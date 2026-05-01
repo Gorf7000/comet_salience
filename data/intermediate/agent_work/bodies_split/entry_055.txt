@@ -1,0 +1,87 @@
+### ENTRY 055 | 1913 IV (1913b) | book p.399 pdf p.218 | pdes=1913 R1 | basis=name (Metcalf) + year | conf=high
+discoverers: ['Metcalf', 'Graff', 'Biesbroeck', 'Kritzinger', 'Holetschek', 'Nijland']
+BODY:
+1913 IV (1913b). 
+Discovered in Lynx by Metcalf (South Hero, U.S.A.) 
+on 1 Sept. as a circular object visible through a small telescope (8 to 9™), 
+Moved north; 
+in September, passed through Camelopardus and Cassiopeia; 
+in October, descended south through Cepheus, Cygnus, Vulpecula and 
+Delphinus; 
+in November, crossed Aquarius, moving south. 
+2 Sept., Barnard could easily see the comet with a 4-inch seeker. 
+5 Sept. 
+to 10 Sept., observed by Graff (Bergedorf) as a circular nebula with con- 
+densation but no nucleus; m=8"™.5, D=5'(+). 
+9 Sept., van Biesbroeck 
+(Uccle) gave m =8™,8, D=6', faint nucleus. 
+22 Sept. , Kritzinger (Bothkamp) 
+in moonlight tentatively saw a tail consisting of threads; elliptical conden- 
+sation 4' in diameter, m=8™.5. 
+23 Sept., very largé, D=10', easily visible 
+through binoculars (7.5). 
+24 Sept., small straight tail at P =242°; through 
+binoculars, m=7™.8. 
+27 Sept., 
+77.8; 28 Sept., 8.2, fainter than Comet 
+Westphal; 
+tail reported and observed in Stockholm. 
+24 Sept., Schoenberg* 
+(Yur'ev) estimated m=7™.0; 25 Sept., in Rome, an 11™.0 nucleus. 
+Numerous brightness estimates were obtained by Holetschek (Vienna) 
+from 23 Sept. to 2 Nov. and by van Biesbroeck (Uccle) up to 3 Nov. 
+17Oct. 
+and 18 Oct., brightness subsided (9.5 to 9™.6); 
+19 Oct. and 21 Oct., bright- 
+ness increased (8™.8 to 8™.5); at that time D=3 to 5'. 
+30 Oct., m=10 to 
+10™.2, nucleus 0™.7, D=2'.5; 
+2 Nov., m=9™.5. Nijland (Utrecht), using 
+binoculars, reported an increase in brightness on 27 Sept. and 28 Sept. 
+269Sept., macs; 27 Septy 
+077.0128 Septag (725 
+03 Octi,97%93/29 Sept. , 
+according to van der Bilt, m=8™.4; 4 Nov., according to Graff, m=11™, 
+nucleus 12™, 
+18 Nov., Auzan (Tashkent) described comet as very faint 
+through a 25-cm refractor. 
+21 Nov., too faint for measurement (11 to 12™). 
+Measured last time 26 Nov. (cf. Crommelin's Comet Catalogue). Photo- 
+graphed in Helwan with Reynold's reflector. 
+* [In Russian: 
+"Shenberg".] 
+399 
+
+
+24 Sept. to 26 Sept., Bosler (Meudon) obtained three spectrograms of 
+the comet which showed a weak continuous spectrum with emissions at 4730, 
+4070 and 3880A. Spectrum almost identical with that of Comet 1913 II. 
+References: A.N., 195-200; 
+Ac J.,°28-30; MoN., TAs 
+Vial, osal49: 
+Ann. de Belgique, 
+1916. 
+Orbit: Kloth. —V.J.S., 61: 288. 
+V.I obtained, according to Holetschek, y=17.2, Ho= 6.8 and y=10.5, 
+hip 
+1073; 
+dine 2A Ma 
+eHigi= 8220: 
+Bobrovnikoff, Perkins Obs. Contr., 
+15, 
+1941 and 16, 1942, obtained from 58 estimates of eight observers 
+(Holetschek, Kritzinger, 
+Luther, Nijland, Okulich, van Biesbroeck, 
+Shenberg, van der Bilt) 
+y=16.9 and Hy=6™.8. 
+5 Sept. to 10 Sept: , Dy =7'; 
+InOctee 
+eo 
+onto; oh 
+Satoy = Os002. 
+(r, A): 1 Sept. —(1.37, 1.44); 
+15 Sept. —(1.36, 1.05); 24 Sept. —(1.37, 
+0.84); 
+10 Oct. —(1.41, 0.63); 
+3 Nov. —(1.53, 1.11); 26 Nov. = (1 9%2), e845
+

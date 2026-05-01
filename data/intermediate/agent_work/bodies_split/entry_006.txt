@@ -1,0 +1,99 @@
+### ENTRY 006 | 1903 I (1903a) | book p.355 pdf p.174 | pdes=11P | basis=Roman fallback unverified (#1 of 11) | conf=low
+discoverers: ['Giacobini', 'Wirtz', 'Struve', 'Abetti', 'Ambronn', 'Grachev', 'Schwab', 'Chofardet']
+BODY:
+1903 I (1903a). 
+Discovered in Pisces by Giacobini (Nice) on 15 Jan. as 
+a small circular 10™ nebula without a nucleus. 
+Initially the comet moved 
+north-east, passing the Pegasus square in February; 
+in March, moved 
+back to Pisces, rapidly descending south; passed through Cetus, Sculptor 
+(beginning of March) and Phoenix; 
+at the end of April and the beginning of 
+May, moved in Tucana. 
+19 Jan. to 24 Jan., correlated observations at Gottingen, Heidelberg, 
+Edinburgh and L'vov gave a value of 10™.0 for the central condensation. 
+Wirtz (Strasbourg), with an 18-inch refractor, described the evolution of 
+the comet. 
+21 Jan. to 20 Feb., appeared as a circular granular nebula with 
+central condensation and occasionally a 10™ starlike nucleus; no tail; D&1'5. 
+24 Feb., extension in the direction 
+P=40°; by 4 March, a 3! tail (P= 40°); 
+12 March, a 5' tail. 
+2 March, H. Struve (Konigsberg) saw a 10 to 15! tail. 
+Abetti (Arcetri) still saw the tail on 17 Feb. to 19 Feb.; D=1'. 
+17 Feb., 
+355 
+
+
+Ambronn (Gottingen) estimated D=3'. 
+4 March, circular bright comet, 
+D=4'; 6 March, m=7™, 
+16 March, Grachev 
+(Kazan') 
+saw 
+a 
+7! tail 
+at 
+P =45°5; 27 Jan., Schwab (Kremsmunster) reported clear traces of a tail. 
+In March, comet appeared as bright condensation; 
+10 March, Abetti gave 
+5™.4 through a seeker. 
+11 March, observers in Greenwich estimated the 
+intrinsic brightness at 4™. 
+Chofardet (Besancon) gave the following estimates: 
+13 Feb., m=9™, 
+D=2';: 
+4 March, 
+7 to.8™; 
+7 March, 
+7™, tail 41; 14 March, near the horizon, 
+6 to 7, faint 5' tail. 
+According to Millosewich (Rome), 
+19 Feb., nucleus 
+8™ (0'.7); 6 March, nucleus 6 to 7”, small faint tail. 
+Graff reported: 
+13Feb., 
+m=8™; 
+19 Feb., D=1'.5; 
+20 Feb. 
+to 25 Feb., m=7™.5, granular coma; 
+because of twilight, 
+invisible to the naked eye; Deichmuller, however, 
+described the comet, 
+from the end of February, 
+equal in brightness 
+to the Andromeda Nebula. 
+25 Feb., 
+Aitken (Lick Obs.) reported a 
+straight tail over 1° long. 
+Position determined according to photographs 
+taken in Greenwich and Konigstuhl. 
+A photograph taken by Quenisset (Paris) 
+at the end of February showed the tail up to 4° long. 
+After the perihelion passage, reported from southern observatories. 
+9 April, Boss (Melbourne) reported bright comet visible to the naked eye. 
+6 April to 4 May, measured at the Cape; during the last days characterized 
+as exceptionally faint; rapid decrease in brightness. 
+References: A.N., 161-167; M.N., 63, 64; B.A., 24, 25; L.O.B., 
+307 V- Jays co. 
+Orbit: Bruck. —Berl. Ast. Jahrb., 25: 129. 
+From V.1, Hp =8™.2, y=6.8. 
+In C.A.M., Hi9=8™.6. 
+Taking m =4™ on 
+16 March, we obtain Hjj=7™.7; the decrease in brightness after the peri- 
+helion passage corresponds to 
+y=17.5. 
+In Jan., D,=2'.5; 
+at beginning of 
+March, 
+3 to 4'. 
+S=0.08. 
+(r, A): 15 Jan. —(1.40, 1.78); 
+1 Feb. —(1.04, 1.63); 
+13 Feb. —(0.85, 
+1.45); 
+1 March —(0.56, 1.14); 
+16 March —(0.41, 0.69); 9 April —(0.73, 0.45); 
+29PApril-—(1.11, 0.59); 5-May —(1.23, 0.65):
+

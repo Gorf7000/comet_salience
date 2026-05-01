@@ -1,0 +1,34 @@
+### ENTRY 021 | 1906 III (1906f) | book p.367 pdf p.186 | pdes=17P | basis=body scan + year + Roman position 3 | conf=low
+discoverers: ['Wolf']
+BODY:
+1906 III (1906f). 
+The third recorded apparition of the short-period 
+Comet Holmes. 
+Spotted photographically according to Zwiers' ephemeris 
+by Wolf (Konigstuhl) on 28 Aug. as a faint 15.5 to 16™ object. Remained in 
+Perseus, moving slowly north-east and then west 
+. 
+28 Aug. plates showed a concentric halo, almost circular in appearance, 
+with the western edge brighter than the eastern one. 
+Photographed by Wolf 
+on 25;Sept. and estimated at 15™; 10 Oct., Kopff gave m =15™.5 (photo- 
+graphic). 
+22 Oct., Wirtz, with an 18-inch refractor on dark background, 
+saw no traces of the comet. 
+In August and September, invisible through 
+the 36-inch Lick refractor. 
+Photographed on 7 Dec.; m=16™. 
+References: A.N., 171-174; M.N., 67; V.J.S., 42; Holetschek V, 
+p. 96. 
+Orbit: 
+I. F. Polak.—A.N., 
+231: 365. 
+Holetschek from photographic estimates obtained Hj) = 117.9; 
+S. Vsekhsvyatskii, A. Zh., 7:215. 1930, obtained 10™; more precisely, 
+from photographs, Hj) =9™.8. 
+(ep) 
+20. Ang, —(2.45;:2.29): 
+26. Sept: 
+= (2.55, 2, Ov)s..12,Oct. .—{2.62; 
+1,98); 7 Dec. —(2.84, 1.95).
+

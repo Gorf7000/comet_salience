@@ -1,0 +1,92 @@
+### ENTRY 093 | 1924 II (1924c) | book p.427 pdf p.246 | pdes=1924 R1 | basis=name (Finsler) + year | conf=high
+discoverers: ['Finsler', 'Virgo', 'Libra', 'Scorpio', 'Hayn', 'Hoffmeister', 'Baade', 'Dawson', 'Hansen', 'Gonnessiat', 'Biesbroeck', 'Struve', 'Boda', 'Subbotin', 'Bower']
+BODY:
+1924 II (1924c). 
+Discovered in Coma Berenices by Finsler (Bonn) on 
+15 Sept. as a bright 4" nebula with a long narrow tail. 
+Moving south-east, 
+passed through Bootes, Virgo (September), Libra (October) and Scorpio 
+(November). 
+‘ 
+17 Sept., observed again in Bonn near v Bootis; m=5™, 
+a faint 4° tail 
+visible through binoculars. 
+Beginning 19 Sept., measured at numerous 
+427 
+
+
+observatories; Hayn (Leipzig) gave 
+m=6™. 
+20 Sept., Hoffmeister 
+(Sonneberg) 
+gave m=6™; circular, highly condensed nebula. 
+21 Sept., 
+Baade (Bergedorf) gave m=6™.0; 
+a plate showed a tail at 
+P = 60° and a head 
+with traces of condensation; 
+D=0!.5. 
+22 Sept., Dawson (Greenwich) reported 
+m-=5™; 23 Sept., Vinter Hansen (Copenhagen) gave 6™. 
+21 Sept. and22Sept., 
+Gonnessiat (Algiers) saw a highly condensed 7™ head with a parabolic enve- 
+lope passing into a tail. 
+Always observed at low altitude. 
+Van Biesbroeck 
+(Yerkes Obs.) obtained several brightness estimates with the naked eye: 
+20 Sept.) m = 52 
+I Septh 
+eins: 
+Haz Septyy is s550 22 sept 
+Bo, 
+6; 24 Sept., 
+5D 
+i; 25) Sept. 
+according to, Diekso- 0: 
+29 Sept., 
+H. Struve (Babelsberg) reported 
+m=7™5; 
+30 Sept., m= 8™.5, 
+a tail. 
+6 Oct., Boda (Frankfurt) estimated the brightness at 8™ (corrected 
+to allow for absorption). 
+22 Sept. to 25 Sept., estimated by Subbotin 
+(Tashkent) at 8™.3 (central condensation apparently). 
+22 Sept. to 24 Sept., 
+Chernyi [Tscherny] (Kiev) reported m=6 to 7; 8 Oct., Bower (Washington) 
+gave 8™.5. 
+12 Oct. and 13 Oct., 
+in favorable sky, the comet was not detected 
+by Krumpholz (Vienna) with a 12-inch refractor. 
+13 Oct. and 14 Oct., 
+van Biesbroeck's photographs showed the comet as a diffuse, 
+faint 12™ 
+object. 
+Observed in Denver (Colorado) on 15 Oct. and 16 Oct., 
+and in 
+Johannesburg till 19 Oct. 
+Photographs taken by van Biesbroeck on 22 Sept. and 23 Sept. showed 
+the straight main tail extending over 4° from a fan-shaped stubby tail; 
+head 6' in diameter. 
+Rapid variations in the tail, in particular formation 
+of bends and nonhomogeneities; 
+tail consisted of rays diverging from the 
+head at P=47 to 90°. 
+Rie femienice 
+sity. By Z.. 916; AWN. 22272205 sAcd.4.306, a1; MN. 85: 
+Viedeon, 60,62" Pops Ast ..o2- 
+Orbit: Siadbey. —C.R., 186: 736. 
+Proceeding from brightness estimates for September, C.A.M. gave 
+H,9=7™.5. 
+With these parameters we find m= 8™.7 for 13 Oct.; the comet was 
+actually much fainter, apparently exhausting itself very rapidly. 
+In Sept., 
+D, =6'. S=0,110. 
+According to Yu. V. Filippov, A. Zh., 2:66, the main tail was of type I 
+and the coma protuberance was due to a type III tail. 
+Spectrum observed by Parkhurst, Pop. Astr., 32:521, and Baldet, 
+B.S.A.F., 39: 117; a weak continuous spectrum with the usual emissions. 
+Spectrograms studied by Bobrovnikoff, Ap.J., 66: 452. 
+(r, 4): 15 Sept. —(0.50, 0.91); 25 Sept. —(0.65, 1.11); 3 Oct. —(0.80, 
+1.35); SpOchee (121-221). 8%),
+

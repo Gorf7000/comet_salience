@@ -1,0 +1,22 @@
+### ENTRY 067 | 1915 IV (1915d) | book p.409 pdf p.228 | pdes=226P | basis=Roman fallback unverified (#4 of 5) | conf=low
+discoverers: ['Mellish', 'Biesbroeck', 'Aitken']
+BODY:
+1915 IV (1915d). 
+Discovered by Mellish (Williams Bay, U.S.A.) on the 
+morning of 13 Sept.; located in Leo, moving south-east. 
+18 Sept. to 20 Sept. measured by van Biesbroeck (Yerkes Obs.); 
+19 Sept. 
+to 23 Sept., observed by Aitken (Lick Obs.) on a 12-inch refractor, 
+Ap- 
+parently, 
+there were no other observations, 
+since the comet moved to con- 
+junction with the Sun. 
+Rieveme aces AaNo.20Ls Ad 20s. bate a tel. 
+Orbit: Einarsson and Alter. —L.O.B., 
+8: 151 (not very reliable). 
+In C.A.M., Hjg=11™. 
+Taking m =9 to 10™ upon discovery and for the 
+last observation, we obtain Hig =9™.5 to 10™.5. 
+(r, A): 13 Sept. —(0.84, 1.51); 23 Sept. —(0.66, 1.42),
+

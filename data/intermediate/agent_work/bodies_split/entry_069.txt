@@ -1,0 +1,68 @@
+### ENTRY 069 | 1916 II (1916a) | book p.410 pdf p.229 | pdes=25D | basis=name (Neujmin) + year | conf=high
+discoverers: ['Neujmin', 'Dyson', 'Hoffmeister', 'Krumpholz', 'Vanderlinden', 'Perrine']
+BODY:
+1916 II (1916a). 
+The first recorded appearance of the short-period 
+Comet Neujmin(2). Discovered by Neujmin (Simeis) on 24 Feb. as a 9 to 
+11” nebulous object in Cancer. 
+Moving south, passed through the upper 
+portion of Hydra in March, through Sextans in April and Crater in May. 
+According to Dyson (Greenwich), m=11™.0 on 1 March, 
+Hoffmeister 
+(Bamberg) reported m = 11™ on 3 March; 
+full circular object with a starlike 
+nucleus of 12™.5; D=3'; Krumpholz (Vienna) estimated the comet at 12™, 
+6 March, Vanderlinden (Uccle) saw the comet through an 8-cm seeker 
+estimating it at 11™. 
+2 March, Glancy and Perrine (Cordoba) gave m=10™,5 
+through a 12-inch refractor; nucleus visible intermittently. 
+24 March, 
+m =10 to 10.5; D=5!', central condensation. 
+6 April 
+(1.0ston lit. eD=5, 
+faint central condensation; 
+8 April, 
+10™.5, no nucleus; 
+22 April, 
+11™; large 
+nebula difficult to measure. 
+3 May, 10", D=1', nucleus visible intermit- 
+tently; 4 June, last measured, 
+Photographed by Neujmin up to 5 June. 
+Measured at various European 
+and American observatories: Bergedorf, Babelsberg, Lick, Engelhardt 
+and Yerkes Observatories, Johannesburg, Konigstuhl, Algiers, Washington, 
+410 
+
+
+Rome and Takubaya. 
+7 May, according to observations made in Babelsberg 
+on a 26-inch refractor, 
+the comet was initially faint but then became bright 
+enough to be visible through a seeker (10 to 11™), Photographed in 
+Johannesburg up to 3 June. 
+References: A.N., 202, 206; M.N., 77; A.J., 28-31; Izv. Pulkovo 
+Obs., 79. 
+Orbit: Neujmin. —Izv. Pulkovo Obs., 99; A.N., 217: 293; Circ. Pulkovo 
+Obs., 32. 
+From van Biesbroeck's estimates, V.I gave (at 
+y=10) Hjg=11™.4. 
+From 
+these estimates, Hjg=10™.7, 
+In March and April D, =2'.2. 
+(r, A): 24 Feb, —(1.36, 0.39); 2 March —(1.35, 0.39); 
+11 March —(1.34, 
+0.40); 6 April —(1.37, 0.51); 22 April —(1.42, 0.59); 3 May —(1.46, 0.68); 
+5 June —(1.63, 1.00). 
+1916 IM (1916c). 
+Discovered near a Pavonis by Perrine (Cordoba) on 
+4 May in the bright evening sky. Perrine and assistants observed the rapid 
+motion of the cometary object towards the Sun. 
+References: A-N., 202%) MON. 77: E-1. 
+Orbit: Glancy. —Obs., Dec. 1916. 
+Orbit calculated under the assumption that the object observed by Perrine 
+moved along an ellipse; orbital elements are thus doubtful. 
+Taking m =0 
+to 2™, E-I obtained Hi9 =4™; Hyg =6™ would apparently be better. 
+(r, A): 4 May —(1.02, 0.05).
+

@@ -1,0 +1,25 @@
+### ENTRY 004 | 1902 II (1902c) | book p.354 pdf p.173 | pdes=26P | basis=name (Grigg) + year | conf=high
+discoverers: ['Grigg']
+BODY:
+1902 II (1902c). 
+The first recorded apparition of the short-period 
+Comet Grigg-Skjellerup. 
+Discovered on 22 July by Grigg (Thames, New 
+Zealand) with a 31/2-inch telescope. 
+Located between Leo and Virgo, 
+moving south-east; 
+at the beginning of August, located in Virgo. 
+Because 
+of a delay in the discovery report, observed only by Grigg up to 3 Aug., 
+when it was very faint in haze (9 to 10™). According to his descriptions, 
+the comet appeared as a faint nebula 1'.5 in diameter. 
+Could not have been 
+fainter than 9 to 10™, since observed and measured witha 31/2-inchtelescope. 
+References: A.N., 159; M.N., 63; V.J.S., 38. 
+Orbit: Merton. —Mem. R.A.S., 64: 74. 
+In V. Il, Hj =9™. 
+Estimating m=8 to 10™for 22 Aug. to 29 Aug., we 
+obtain Hjp=9 to 10™, 
+D,=1'.6. 
+(r, A): 23 July —(0.90, 1.10); 4 Aug. —(1.00, ite)
+

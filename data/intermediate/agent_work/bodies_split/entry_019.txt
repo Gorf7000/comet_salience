@@ -1,0 +1,107 @@
+### ENTRY 019 | 1906 I (1905c) | book p.365 pdf p.184 | pdes=1905 X1 | basis=name (Giacobini) + year | conf=high
+discoverers: ['Giacobini', 'Abetti', 'Thiele', 'Hartwig', 'Holetschek', 'Wirtz']
+BODY:
+1906 I (1905c). Discovered by Giacobini (Nice) on 6 Dec. 1905 as a cir- 
+cular 8™ nebula 1 to 2' in diameter. 
+Located in Bootes; 
+in December, 
+moved through Serpens towards the Sun; in January, passed through 
+Ophiuchus, Scutum, Dragon Fly*, Capricornus and Aquarius; 
+in the middle 
+of February and March, moved in Cetus. 
+8 Dec., Abetti (Arcetri) reported a 12™ nucleus and a trace of a tail. 
+9 Dec., Thiele (Copenhagen) estimated m=9™; very large comet, conden- 
+sation 1 to 2' in diameter. 
+10 Dec., Hartwig (Bamberg) gave m=10", D=2!', 
+14 Dec., Abetti saw a small nebulous spot in moonlight, D>1', no nucleus; 
+15 Dec., a 9™.5 central condensation; 
+17 Dec., comet well visible in spite 
+of moonlight. 
+17 Dec., Holetschek (Vienna) estimated m = 8™.5, condensa- 
+tion 97.5, D=2!; 
+18 Dec., m=8™; 25 Dec., m=%7™.8, condensation 9™.2, 
+* [Strekoza in the Russian original.] 
+365 
+
+
+D=2', tail 5'. 30 Dec., unexpectedly bright; m=4™.6 through seeker, 
+D =4 
+to 5', tail over 30' long. 
+2 Jan. 1906, m=4™, D=4', 
+tail 40' long; 4 Jan., 
+m=4™, located near the horizon; 
+8 Jan. and 14 Jan., well visible near the 
+horizon. 
+After the perihelion passage, 
+not spotted on 3 March or March 
+with 6-inch refractor (fainter than 9 to 10™). 
+Descriptions of the comet and brightness estimates were compiled by 
+Wirtz (Strasbourg). 
+On 14 Jan. at dawn, m=0".7, bright disk (nucleus) 9" 
+in diameter; two tails: the longer (5') at P =225° and the shorter (4') at 
+P = 350°%:,-22)Febs,am 29™.2,, Di=.30"> 3:March, 
+10".3; SeMarch, 
+11.0; 
+D =2'.5" in moonlight; 
+6 March, 10™4;.7 March, 
+127.0; 
+17 March, 
+11.5; 
+20 March, 
+12™.4; 21 March, 
+12™.9, D=2'. According to Palisa (Vienna), 
+2 Jan., m=5™, 
+tail 30'. Jost (Strasbourg) reported: 
+30 Dec. 1905, m=5", 
+tail 45'; 
+1 Jan. 1906, m=4 to 5”, tail 1°30'. 
+Brightness estimates given 
+also by Abetti, Hartwig, Przybyllok, Howe and Guillaume. 
+Comet photographed by Barnard (Yerkes Obs.) with a double 10-inch 
+and 6-inch astrograph on 7, 25, 29 and 30 Dec. 1905 and 4, 5, 7 and 8 Jan. 
+1906 (before the perihelion passage); 
+in January 1906 and on 21 Feb. 
+(after 
+the perihelion passage) tail over 10° long, thread-like structure, with many 
+rays; rapid changes observed in the tail. 
+21 Feb. 
+[sic],| mere trace of the 
+tail. 
+22 Dec. 1905 to 11 Jan. 1906, and 23 Feb., Duncan (Lowell Obs.) 
+obtained 13 photographs of the comet; the 29 Dec. plate, in particular, 
+showed diverse features; 
+3 Jan. and 4 Jan., radical change in the tail and 
+rapid motion of matter. 
+S.K. Kostinskii photographed the comet on the 
+Pulkovo normal astrograph on 22 Dec., 
+31 Dec. and 4 Jan.; 
+a 47' tail at 
+P=312°,. 
+After the perihelion passage, measured at the Cape from 5 Feb. 
+and at northern observatories from 15 Feb. 
+Last observation in Washington 
+on 22 March. 
+Reference 
+seyA.N.3:170- 173% MUN. 66; B.A, 23-25 Ap.d...24; 
+Wien Stw. Ann., 22;L.0.B., 25; V.J.S., 41, 42. 
+Orbit: Wedemeyer. —-B.A.A., Mem., 
+26(2): 14. 
+V.I gave according to observations of Wirtz and Holetschek before the 
+perihelion y=22, Hj=8™.8. 
+After the perihelion, y=18.2, Hy=8™.1. 
+In 
+C.A.M., Hig =8™.3. 
+In Dec. 1905 and Jan. 1906, D,=4'.5; 
+in March, 
+4!.1, 
+4 Jan., Smax =0.24a.u. from Barnard. 
+Pickering, Pop. Astr., 15: 100, studying Barnard's photographs, arrived 
+at the conclusion that the tail rotated with a period of 18 Days. 
+Main tail 
+apparently of type I. 
+(r, A): 6 Dec. —(1.29, 1.42); 24 Dec. 1905 —(0.87, 1.18); 
+11 Jan. 1906 — 
+(0.43, 1.12); 22 Jan. —(0.22, 1.19); 
+18 Feb. —(0.83, 1.30); 2 March —(1.09, 
+1.53); 22 March —(1.48, 2.02).
+

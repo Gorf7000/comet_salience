@@ -1,0 +1,34 @@
+### ENTRY 085 | 1921 IV (1921id) | book p.423 pdf p.242 | pdes=2P | basis=body scan + year + Roman position 4 | conf=low
+discoverers: ['Skjellerup', 'Reid']
+BODY:
+1921 IV (1921id). 
+The thirty-fifth observed apparition of the short-period 
+Comet Encke. 
+Detected by Skjellerup and Reid (Cape Observatory) on 27July 
+(8 to 9™.5) as an 8 to 9™.5 object in Sextans near the horizon. 
+Moved south- 
+east; 
+13 Aug., located in Corvus. 
+Observed only in Capetown, Johannesburg and also in Santiago with a 
+9-inch refractor. 
+7 Aug., no nucleus, faint object inconvenient for meas- 
+uring; much fainter and diffuse than Comet Pons-Winnecke on the same 
+night (9.5 to 10™), 
+8 Aug., very faint; difficult to measure (10 to 10™5). 
+13 Aug., very faint (10.5 to 117.5). 
+22 Aug. and 23 Aug., not spotted ina 
+dark sky (fainter than 12™.0).30 July, reported in Santiago as a diffuse nebula 
+with a bright condensation. 
+9 Aug. and 10 Aug., difficult to observe through 
+a 28-cm refractor. 
+References: A.N., 214, 218; B.Z., 3; Pulkovo Bull., 14: 123. 
+Orbit: Matkiewicz. —M.N., 82: 269. 
+In E-I, 
+Hjg=10™.8; proceeding from these estimates, Hyg=11™.2 to 11™.5. 
+(r, A): 27 July —(0.50, 0.99); 6 Aug. —(0.67, 0.90); 
+14 Aug. —(0.82, 0.88). 
+Assumed second apparition of the short-period Comet Neujmin (2). 
+Neujmin showed that the 15 to 16™ object observed on 16 June 1921 on double- 
+astrograph plates was not Comet Neujmin (2). Circ. Pulkovo Obs., 32: 27. 
+423
+

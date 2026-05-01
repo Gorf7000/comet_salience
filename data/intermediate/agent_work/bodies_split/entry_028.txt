@@ -1,0 +1,38 @@
+### ENTRY 028 | 1907 III (1907c) | book p.371 pdf p.190 | pdes=21P | basis=name (Giacobini) + year + Roman position 3 | conf=medium
+discoverers: ['Giacobini', 'Zappa', 'Palisa']
+BODY:
+1907 III (1907c). 
+Presumably the second recorded apparition 
+of the 
+short-period Comet Tuttle-Giacobini-Kresak. 
+Discovered by Giacobini 
+(Nice) on 1 June when exceptionally faint, nearly on the visibility threshold 
+of a 46-cm telescope, D,=1.5 to 2' (13™). 
+Located in Leo, moving south- 
+east; 
+at the end of July, should have been located in Coma Berenices. 
+Bw 
+
+
+5 June and 8 June, measured by Millosewich and Zappa (Rome) with a 
+38-cm refractor; 
+difficult to observe. 
+4 June, Aitken described the comet 
+as too faint to observe with a 12-inch refractor; measured with a 36-inch 
+telescope (13™), no nucleus, no condensation. 
+10 June, Palisa (Vienna) 
+measured the comet on a 27-inch refractor ina somewhat cloudy sky at 
+the visibility threshold. 
+In Bamberg measured on 11 June; last measure- 
+ment in Rome on 12 June*. 
+References: A.N., 175-178; M.N., 68; B.A., 25; AAA Wey oe: 
+7.1 
+Orbit: Crommelin. —M.N., 89: 362. 
+Parabolic orbit by S.A. Kazakov — 
+Publ. Astr. 
+Inst., 
+1, 1. InC.A.M., Hy=12.3. D=1.5,to2'. 
+(r, A): 1 June —(1.15, 0.98); 
+15 July = 
+1,176, 1204);
+

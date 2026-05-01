@@ -1,0 +1,99 @@
+### ENTRY 043 | 1911 IV (1911g) | book p.388 pdf p.207 | pdes=1911 S3 | basis=name (Beljawsky) + year | conf=high
+discoverers: ['Beljawsky', 'Nijland', 'Holetschek', 'Chernyi', 'Weinek', 'Graff', 'Ebell', 'Battermann', 'Borrelly', 'Biesbroeck']
+BODY:
+1911 IV (1911g). 
+Discovered by S.I. Beljawsky (Simeis) 
+in the morning 
+of 28 Sept. before sunrise; discovered at various other observatories on 
+29 Sept. 
+Located in Leo, visible to the naked eye; m=3™; nucleus and tail. 
+Moved east; observed near the Sun, at first in the morning sky and then, 
+- 
+beginning the middle 
+of October, 
+in the evening sky, when located in Virgo; 
+in November and December, observed in the southern sky, passing through 
+Libra and Scorpio; 
+in January and February 1912, moved in Corona 
+Australis. 
+From 29 Sept., observed throughout Europe and America, 
+29 Sept., 
+Millosewich, Schaumasse, Knox-Shaw, Barnard, et al. estimated the nucleus 
+at 2™ and the head at 1". Beljawsky's photographs showed a tail consisting 
+388 
+
+
+of two 1° branches at 35° to one another. 
+30 Sept., three branches; the 
+longest was up to 51/2°; 2 Oct., plates taken in Simeis registered a 
+three-branch tail over 15° long; the branches were classified by Beljawsky 
+as types I, land III. 
+At that time, brightness estimated at 2 to 3™; Nijland 
+(Utrecht) visually estimated the tail at 15°; parabolic envelopes. 
+Brightness 
+observations made by Holetschek (Vienna), Rembaut and Sy (Algeria), 
+Chernyi (Warsaw), Weinek (Prague), Graff (Bergedorf), Ebell (Kiel), 
+Nijland (Utrecht), Battermann (Konigsberg), Borrelly (Marseilles), van 
+Biesbroeck (Uccle) et al. 
+Detailed descriptions of head structure and the 
+shape of the tail in October were compiled by Barnard, Graff, Nijland, 
+Rembaut, Sy and mainly Beljawsky (Simeis photographs). 
+15 Oct. to 17 Oct., Chernyi, Batterman and Graff gave m=1 
+to 1™.5; 
+18 Oct. and 19 Oct., m=2 to 2™.5. 
+Visual observations described a tail ~2 
+to 3° consisting of two symmetric branches emerging from the nucleus at 
+P=49°. 
+Deep-yellow comet, clearly distinguishable from the bluish Comet 
+Brooks; 
+17 Oct., Comet Beljawsky observed simultaneously with Comet 
+Brooks (1911 V) and Comet Quenisset (1911 VI). 
+19 Oct., observers in 
+Algiers gave m=2™,5, tail 6°; 26 Oct., m=5™ (low altitude). 
+28 Oct., 
+observed last in the northern hemisphere (in Vienna); from 3 Sept. , invisible 
+through a 12-inch refractor. 
+Beginning November, telescopic object observed by Perrine (Cordoba) 
+and also in La Plata. 
+28 Jan. 1912, Perrine gave 
+m=11™"; D=3'; slight 
+condensation and jets directed away from the Sun; 14 Feb., D=3', small 
+diffuse cendensation; 
+15 Feb., m=12™, 
+difficult to observe; 
+16 Feb., D=3 
+to 4', hardly noticeable condensation. 
+References: A.N., 189-194: M.N., 72; 73; A.J., 27, 28, 41; V.J.S., 
+47, 48; Pulkovo Mitt., 4: 187. 
+Orbit: Grubissich. —Mem. Soc. Astr. It., 22 (3): 265. 
+B.A. Vorontsov-Vel'yaminov, A.Zh., 2: 88, obtained from 15 intrinsic 
+brightness estimates y=2, Hg =3™. 3, which refers however to a change 
+of only 0.016a.u., consequently, these parameters are uncertain; C.A.M., 
+using Holetschek's estimates which were 2 to 3™ below the rest, obtained 
+Hi) = 8™.7. 
+Making use of the estimates of Chernyi, Barnard, Graff and 
+Perrine, we obtain y=9.3, Hp 
+=5™.7, Hyp =5™.0. 
+Estimates of the diameter 
+of the head 
+in Sept. 
+and Oct. 
+are uncertain because of the bright twi- 
+‘light background. 
+In Jan. and Feb. 1912, D,=9 to 10'; 
+1 Oct., Smax=0.26. 
+Tails not investigated; type I tail is indisputable. 
+Existence of type II 
+and III tails needs confirmation. 
+Spectrum observed by Konkoly, A.N., 190, 42; Wright, P.A.S.P., 
+23: 269, and Bobrovnikoff, Ap.J., 766: 446. 
+Bobrovnikoff reported unusual 
+structure of the CN band on 6 Oct. and considerable radial velocities of 
+gases in the head, P.A.S.P., 43:62. 
+(r, 4): 29 Sept, —(0:38, 0.96); 
+11 Oct. —(0.30, 1.00); 30 Oct. —(0.43, 
+1.46); 
+19 Nov. —(1,07, 1.98); 5 Dec. 1911 —(1.37, 2.33); 6Jan, 1912 — 
+(1.92, 2:81);. 
+15 Feb. —(22353; 3.07).
+

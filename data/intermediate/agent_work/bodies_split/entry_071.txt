@@ -1,0 +1,86 @@
+### ENTRY 071 | 1917 I (1917a) | book p.411 pdf p.230 | pdes=1917 F1 | basis=name (Mellish) + year | conf=high
+discoverers: ['Mellish', 'Stromgren', 'Hartwig', 'Mindler', 'Biesbroeck', 'Schorr', 'Barnard', 'Shane']
+BODY:
+1917 1(1917a). 
+Discovered in Aries near the ecliptic by Mellish (Lactonia, 
+U.S.A.) on 19 March as a bright 6 to 7™ object well visible in the evening 
+sky. At the end of March and the beginning of April, discovered independ- 
+ently by numerous observers in Europe. 
+From the beginning of April, 
+moved south-west through Pisces and Cetus; 
+in the second half of April and 
+in May and June, observed in the morning sky at southern observatories. 
+22 March and 23 March, observed by Stromgren (Copenhagen) and esti- 
+mated at 77.5 to 77.0; D=1', 
+23 March, Schorr gave 
+m=6™.5; D=1'; 
+at 
+that time Hartwig (Bamberg) and Mindler (Konigstuhl) gave 
+m=8™0. 
+The 
+discrepancy is explained by differences in conditions and observational 
+means; 
+in the latter case, estimates were obviously made with respect to 
+the nucleus or the central condensation only. 
+Van Biesbroeck (Utrecht) 
+gave 5™.0 for the intrinsic brightness on 23 March and 5™.1 on 24 March. 
+In Bamberg the comet was described as circular without a tail; D=2', 
+central condensation. 
+28 March, 
+a stubby tail; 
+31 March, 
+7™ nucleus 
+located in the bright coma, 
+1° tail; 30 March, Stromgren gave m =5"™,8; 
+31 March, 5™.5. 
+2 April, Schorr (Bergedorf) reported a disk-shaped nucleus 
+411 
+
+
+of 3™ and 10" diameter surrounded by several envelopes; a tail 3! wide at 
+P =60° appearing 30' long through a seeker. 
+Observed by Barnard (Yerkes Obs.), Shane (Lick Obs.), and also at 
+Northsfield, Washington, Algiers, Minneapolis, Nice, Uccle and Rome. 
+24 March, Burton (Washington) saw 
+a tail over 5! long. 
+Beginning 19 April, 
+photographic and visual observations at Cordoba; 
+19 April, plates showed 
+4 2°.5 tail concave to the north-west and a bright circular head. 
+20 April 
+to 22 April, a slightly curving 5° tail; jets from the head. 
+29 April, 
+Perrine, Simonds and Glancy saw the comet through a 12-inch refractor 
+as a large and diffuse object. 
+5 May, no tail, nucleus or noticeable central 
+condensation; D=1'25". 
+18 May, m=9".5; D=2', no nucleus; 25 May, 
+D=2', 
+21 June, large, faint object difficult to measure (11 togl 22 
+)e east 
+measured at Cordoba on 24 June. 
+References: A.N., 204-207; A.J., 30, 31; J.Obs., 1, 2; Harvard 
+Cire., 629-632; M.N., 
+78. 
+Orbit: Asklof. —Abh.A.N., 4:9. 
+According to Asklof's estimates, V.I gave 
+y=9.8, Hy 
+=7™.4; inC.A.M., 
+Hip 
+=7™.3. 
+These values give m=11™.2 for 24 June, which is in good agree- 
+ment with the corresponding observations. 
+In March and April, D,=1 
+to 2!; 
+in May; 
+3.2; 20 April, S= 0.11. 
+Tail not investigated; apparently of type lI. 
+Spectrum observed by Frost, Harvard Bull., 629, and studied by 
+Bobrovnikoff, Ap.J., 66: 452. 
+(r, 4): 19 March —(0.71, 1.41); 
+3 April —(0.33, 0.95); 
+11 April —(0.19, 
+0.87); 22 April —(0.43, 1.08); 
+8 May —(0.83, 1.41); 24 May —(1.18, 1.63); 
+25 June,—(1. 77, 1.8%).
+

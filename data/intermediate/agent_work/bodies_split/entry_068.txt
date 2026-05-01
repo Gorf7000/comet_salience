@@ -1,0 +1,90 @@
+### ENTRY 068 | 1916 I (1915e) | book p.409 pdf p.228 | pdes=69P | basis=name (Taylor) + year | conf=high
+discoverers: ['Taylor', 'Orion', 'Taurus', 'Thiele', 'Steavenson', 'Palisa', 'Holetschek']
+BODY:
+1916 I (1915e). 
+Discovered near § Orionis by Taylor (Cape) on 24 Nov. 
+1915 as a 9 to 10™ object moving north. 
+Passed through Orion (November 
+1915 to January 1916), Taurus (January, February); 
+in March and April, 
+located in Auriga and Gemini; 
+in May, moved in Cancer and Leo. 
+Beginning 2 Dec., photographed in Johannesburg; from 6 Dec., observed 
+at northern observatories. 
+8 Dec., Thiele (Bergedorf) reported an 11™ 
+nucleus; D=0'.4; 
+tail extending 2' west-north-west. 
+8 Dec., Steavenson 
+(Norwood) gave m=9"™.5; Palisa (Vienna) reported an eccentric 12™ nucleus; 
+Hoffmeister also reported a nebulous extension to the west; Holetschek 
+(Vienna) estimated the intrinsic brightness of the comet at 7 to 8™. 
+In 
+January 1916, m=9.3 to 9™.1, nucleus 9".7, D=2; 23 Jan, to 25 Jan., Cake) 
+to 10™3, D=2'.5; 
+10 Feb., 10™5 (in moonlight); 27 Feb., 
+11 to 117.5, 
+409 
+
+
+D=1'.5, 
+Vanderlinden with an 8-cm seeker, estimated 19 Dec., m=9™.7; 
+30 Dec., 97.3; 
+3 Jan. 1916, 9™3; 
+5 Jan., 
+8™.7; 25 Jan., 9.8; 29 Jan., 
+9™.6, 
+5 Feb. to 7 Feb., 9.5, which is very close to Holetschek's estimates. 
+24 Feb., western extension; m=11™.5. 
+1 March, 
+12™; 6 March, 
+invisible 
+through seeker (fainter than 12™), 
+f 
+9 Feb., Barnard reported a double nucleus; the components, 
+at 10° 
+from 
+one another, were estimated at 14 and 15™, (P=21°). 
+19 Feb., the two 
+nuclei measured in Bergedorf; separated by 17"; position angle either 28 
+or 210°. 
+Brightness of the components 11™ and 12™. 
+Barnard reported that 
+initially the northern component was the fainter (by 1.5 to 2™); both had tails. 
+Then the northern component grew brighter while the main nucleus became 
+diffuse and faint, finally disappearing completely; 
+position angle of the 
+components never changed noticeably. 
+Observed at Rome, Cordoba, Washington, Nice, Northsfield, Copenhagen, 
+Algiers, Marseilles, Ann Arbor, Lyon, Dusseldorf, Arcetri, Greenwich, 
+Utrecht and Lick and Yerkes Observatories. 
+1 April, Barnard reported a 
+13™.5 nucleus, D=1'; nucleus situated eccentrically in the northern portion 
+of the coma; 
+5 April, nucleus 137.5; D=45"'; 27 May, comet 16 to 16™.5, 
+faint and diffuse but easily visible. 
+At the opposition of 1917, Wolf (Konigstuhl) failed to detect the comet by 
+photographic search on 12 May and 14 May 1917. 
+References: A.N., 202-204, 209, 210; M.N., 77; Obs., 39; A.J., 
+29-31; J.Obs., 1; Ann. de Belgique, 14. 
+Orbit: Jeffers. —L.O.B., 10: 120. 
+Short-period orbit; 
+a close encounter 
+with Jupiter in February 1912. 
+Jeffers concluded that there was no gravita- 
+tional interaction between the two components; 
+the nuclei were closest to 
+one another at perihelion. 
+; 
+V.I gave, according to observations of Holetschek, van Biesbroeck et al. : 
+Hig = 8.8; same figure inC.A.M. 
+On 27 May 1916, m=13"™.9; thus, rapid 
+brightness decrease in March to May. 
+In Jan. and Feb. 1916, D,=1'.6; 
+S> 0.001. 
+(r, 4): 24 Nov. —(1.70, 0.72); 
+11 Dec. 1915 —(1.64, 0.69); 
+7 Jan. 1916 — 
+(1.58, 0.65); 
+31 Jan, —(1.56, 0.73); 28 Feb. —(1.58, 0.92); 29 March — 
+(1.66, 1.21); 25 April —(1.77, 1.51); 28 May —(1.94, 1.95).
+

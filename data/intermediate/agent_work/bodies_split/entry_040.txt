@@ -1,0 +1,85 @@
+### ENTRY 040 | 1910 V (1910e) | book p.386 pdf p.205 | pdes=4P | basis=body scan token 'faye' + year | conf=medium
+discoverers: ['Cerulli', 'Schiller', 'Biesbroeck', 'Barnard', 'Hartwig', 'Guerneri', 'Nijland', 'Baranof', 'Schaumasse', 'Knopf', 'Votite', 'Abetti', 'Wirtz', 'Rembaut']
+BODY:
+1910 V (1910e). 
+The ninth recorded apparition of the short-period Comet 
+Faye. 
+Discovered photographically by Cerulli (Teramo) on 8 Nov. 
+in 
+Taurus independently of the precalculations; 
+a moderately bright telescopic 
+comet (9™.5); prior to the calculation of the orbit, observed as a new comet 
+for some time. 
+From November.1910 to January 1911, moved in Taurus; 
+beginning the middle of February, 
+slowly moved east through Orion. 
+10 Nov., Schiller (Bothkamp) saw the comet elongated at P = 360° with a 
+9™ granular nucleus. 
+On that night, van Biesbroeck (Uccle), Barnard 
+(Yerkes Obs.), Hartwig (Bamberg), Nobile and Guerneri (Capodimonte) 
+estimated the condensation at 9.5 to 10™; D=2'; 
+tail 10' long. 
+11 Nov., 
+Nijland (Utrecht) saw the comet through a 3-inch seeker in spite of the Moon; 
+clear stubby tail; 
+Baranof (Kazan') estimated the nucleus at 9™.5. 
+Javelle and Schaumasse (Nice) reported traces of a tail at 
+P= 315°; nucleus 
+10 to.11™. 
+12 Nov., tail; m=10™.5; 
+tail 2' long easily observed by Knopf 
+(Jena). 
+16 Nov., 
+in total lunar eclipse, 
+Votite (Leiden) saw a 1'.5 tail and 
+a starlike nucleus. 
+December, 
+comet elongated to the north-west. 
+24 Nov., 
+Abetti (Arcetri) saw the comet as a 10™ star; elongated in the 4th quadrant. 
+7 Dec., nucleus 10™.4; 21 Dec., Wirtz (Strasbourg) gave m=12™.0, 
+D=0'.8, 
+nucleus 14™; 
+31 Dec., m=12™. 
+3 Jan. 1911, Barnard saw a diffuse tail to 
+the north-west; m=12™,.5, 
+According to Gonnessiat and Rembaut (Algiers), using a 32-cm refractor, 
+13 Dec., nucleus 12™.5, eccentric 3' coma. 
+17 Feb., elongated nebula, 
+D=2'.5; nucleus 137.5. 
+27 Feb., m=14™; 
+3 March, extension at P= 180°; 
+17 March, pale very faint nucleus, visible only occasionally; 
+25 March, 
+exceptionally faint in a background of stars (13 to 14"). 
+19 March and 
+23 March, photographed by Wolf (Heidelberg) and estimated at 14.5 to 15™ 
+with a 16™ nucleus south of a coma 10" in diameter. 
+19 March, observed 
+by Barnard as a small object; m=14 to 14™.5. 
+Photographed last in Helwan 
+on 29 March and 31 March; Mphot = 15.5 to 16™, 
+heterences: AYN. 186-192: M,N. wii2s BoA 28: Are aL 
+V.J.S., 46-48; Holetschek V, p. 24. 
+Orbit: Meyer and Levy. —L.O.B., 
+6:69. 
+Holetschek, from estimates for December 
+1910, found isp SAG) axe) Lash (Op 
+in C.A.M., Hip =9™.6. 
+Cherednichenko, 
+Publ. Kiev Obs. ae lGe, Less. l= 
+tained Hig (av) mS gras Ay0(max) = (Ae F110 (min) =e aeede 
+D, =a 
+27 
+Damas = 0.008. 
+> 
+386 
+
+
+Spectrum described by Bobrovnikoff, Ap.J., 66: 445. 
+(r, A): 8 Nov. —(1.66, 0.68); 24 Nov. —(1.66, 0.70); 
+18 Dec. 1910 — 
+(1271; 0.82); 22 Jan, 1911 —(1.84, 1.16); 22 Feb. —(1,99,41,57); 
+30 March — 
+(2. Oho 12):
+

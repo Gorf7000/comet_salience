@@ -1,0 +1,39 @@
+### ENTRY 089 | 1923 I (1922d) | book p.425 pdf p.244 | pdes=1922 W1 | basis=name (Skjellerup) + year | conf=high
+discoverers: ['Skjellerup', 'Reid', 'Centaurus', 'Lupus', 'Scorpio', 'Schaumasse', 'Dyson']
+BODY:
+1923 I (1922d). 
+Discovered by Skjellerup and Reid (Rosebank, near 
+Capetown) on 26 Nov. 1922 as a bright circular 7™ nebula with D=3'. 
+Located in Crater rapidly moving south-east; passed through Curvus, Hydra, 
+425 
+
+
+Centaurus (December), Lupus (January 1923), Scorpio (January, February); 
+at the end of February 1923, located in Sagittarius. 
+Photographed at the Harvard Observatory on 28 Nov. and 2 Dec., when 
+m=8™; 
+1 Dec., 
+8™ photographic magnitude (Yerkes Obs.); Schaumasse 
+(Nice), 
+on the other hand, gave for 29 Nov. m=11™ (central condensation, 
+apparently), 
+D=3'.5. 
+Observed at Washington, Johannesburg, Tokyo, 
+Copenhagen and the Cape. Particularly extensive observations were made 
+by Dyson (La Plata) with a 43-cm refractor; observations continued till 
+24 Feb., when comet not fainter than 12 to 13™. 
+References: 
+A.J., 35, 36; B.Z., 4; M.N., 83; V.J.S., 59. 
+Orbit: 
+Dawson. —A.J., 35: 91. 
+E-I gave, according to the first estimates, Hjg=7™.5, which yields 
+m=9™.5 for 24 Feb. 
+Apparently the comet rapidly grew faint with approach 
+to the perihelion and remained faint after the perihelion passage. 
+Adopting 
+Schaumasse's estimate, we obtain Hjjg=10™.5. 
+(r, A): 26 Nov. —(1.20, 0.96); 
+15 Dec. 1922 —(1.04, 0.79); 4 Jan. 1923 — 
+(0292 0:74):4.25 Jan. —(1/041.21):; 
+24 Peb. =(1%3271.41).
+

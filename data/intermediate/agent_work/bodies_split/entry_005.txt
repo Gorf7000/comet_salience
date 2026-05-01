@@ -1,0 +1,110 @@
+### ENTRY 005 | 1902 III (1902b) | book p.354 pdf p.173 | pdes=1902 R1 | basis=name (Perrine) + year | conf=high
+discoverers: ['Perrine', 'Borrelly', 'Perseus', 'Ophiuchus', 'Holetschek', 'Nijland', 'Wirtz', 'Barnard']
+BODY:
+1902 III (1902b). 
+Discovered in Perseus by Perrine (Lick Obs.) with a 
+12-inch refractor on the night between 31 Aug. and1Sept. asa 9™ object, D=4 
+to5', slightly elongated with a well-developed 10.5 to 11™ nucleus and a short 
+(8 to 10') wide tail (jet?) extending south-west. 
+Discovered independently 
+in Europe by Borrelly (Marseilles) on 2 Sept. Moved through Perseus 
+(September) Cassiopeia (end of September), Lacerta, Cygnus (beginning of 
+October), Lyra, Hercules and Ophiuchus (October-November); 
+in December, 
+descended south, passing through Scorpio, Libra and Centaurus. 
+In 
+January 1903 passed along Centaurus and Vela; in February, crossed 
+Puppis and Canis Major; in March, 
+moved through Monoceros, ascending north. 
+Extensive observations of appearance and brightness were carried out, 
+particularly by Holetschek (Vienna), Nijland (Utrecht), Wirtz (Strasbourg), 
+Perrine (Lick Obs.) Barnard (Yerkes Obs.) and observers at Lyon and 
+Copenhagen. 
+According to Holetschek, 
+3 Sept. to 5 Sept., m=8™.5, D=2', nucleus 
+9™,5; 20 Sept. and 21 Sept., 
+m=7™.5, D=3', tail 30'; 27 Sept. 
+to 30 Sept., 
+m =5.5 to 47,9, D=4!', tail 15'; 8 Oct. to 15 Oct., maximum apparent 
+brightness (4.2 to 4™.1), D=4', tail 30 to 60' (visual observations), nucleus 
+9™_5; at the beginning of November, m =4™.5 to 57.5, D=3 to 1.5, tail 20! 
+long. Nijlandestimated the intrinsic brightness at 3™.8 and the tail length at60'. 
+19 Sept. to29Oct., observed by Modestov (Moscow, witha 15-inchrefractor; 
+at the beginning of September, observed by Sokoloff (Pulkovo). On 27 nights 
+between 6 Sept. and 29 Oct., the comet was photographed with the 30-inch 
+reflector of the Greenwich Observatory. 
+26 Sept. to 29 Sept., long-exposure 
+plates showed a bright circular head, no less than 7 rays and a long 1° tail 
+directed approximately away from the Sun. 
+Photographs taken on 25 Sept., 
+26 Sept., 
+7 Oct., 
+8 Oct. and 9 Oct., by Sikora (Yur'ev) with 2 to 4 1/2 
+hours exposure time showed two tails; the long straight tail extended over 
+3° and the second short tail was pear-shaped; 
+the long tail was classified 
+by Sikora as type I, the short one as type III. 
+25 Sept. and 1 Oct., photo- 
+graphed at the Meudon and Harvard Observatories, and also by Roberts 
+and M. Wolf, the latter trying to detect the stereoscopic effect on photo- 
+graphs of the comet. 
+Extensive photographic observations were carried out by Curtis (Lick 
+Obs.) with 78 and 83-cm cameras and exposure times from 25 minutes to 
+6 hours. In the second half of October photographs showed an 11° straight 
+tail; the secondary tail was highly curved and considerably shorter than 
+354 
+
+
+the main tail but nearly equally bright. 
+Photographs show numerous rays 
+and considerable activity in the tail; the nature of the ray systems changed 
+radically within 24 hours. 
+17 Nov., observed for the last time at northern observatories before 
+disappearing in the solar rays. 
+After the perihelion passage, observed in 
+Santiago from 11 Dec. 1902 to 4 Jan. 1903. 
+Tebbutt (Windsor) observed the 
+comet up to 16 Feb.; Wiggin (Cordoba), up to 5 March 1903, 
+The comet 
+was observed from 29 Jan. 1903 at Lick and University Park Observatories; 
+in February, 
+11 to 12™. Wirtz (Strasbourg) described the comet asa circular 
+diffuse nebula with slight condensation. 
+23 Feb. to 28 Feb., Aitken (Lick 
+Obs.) reported very faint irregular comet, no nucleus. 
+Measured last by 
+Howe (University Park) on 30 March; 
+17 April not spotted with a 36-inch 
+refractor. 
+References: A.N., 159, 160; M.N., 63; B.A., 21; A.J., 41; L.O.B., 
+28: 42; V.J.S., 38, 39. 
+Orbit: Peck and Lindsey. —A.J., 27. Remarkably close encounter with 
+Mercury (29 Nov.) at a distance of 0.023 a. u. 
+In V.I, according to Holetschek's observations, y=11.5; Hj=6™.0. 
+The 
+same source gave, according to the estimates of Nijland, Graff, Wirtz et al., 
+y= 9:2; Hp =5™.7; in .GsA.M. ,. Hip = 6™.0. 
+Bobrovnikoff, Perkins Obs. Contr. 
+15. 1941 and 16. 1942, used 89 esti- 
+mates of various observers (Holetschek and Nijland included) to obtain 
+y =6.6 and Hy =6™.8; these parameters gave too low values for brightness 
+on 8 Oct. and 9 Oct. (5™.2 instead of 3.8 to 4™.0); for the end of March 1903 
+they yielded 
+m =10™.6, which bears no resemblance to the actual values. 
+D, = 3' (according to visual observations for 20 Oct. to 25 Oct.) and 
+D,=11' (photographs taken at the beginning of October). 
+Smax=0.12 (end of 
+October; photographed by Curtis). 
+The long tail of the comet was undoubtedly 
+of type I; the second tail was apparently of type III. 
+Spectrum photographed by de la Baume Pluvinel, C.R., 136: 143, and 
+studied by Miller, Science, 16: 868. Almost no continuous spectrum whatso- 
+ever; common bands observed. 
+(r, A): 1 Sept. —(1.78, 1.29); 
+18 Sept. —(1.49, 0.72); 4 Oct. —(1.21, 
+0.37); 26 Oct. —(0.82, 0.74); 
+14 Nov. —(0.47, 1.21); 9 Dec. 1902 —(0.57, 
+1533)5) 
+10; Jan) 1903'==( 1017; 0.84)3415 Febi°—(1.78) 1.01)3°19 March—(2°28, 
+1.92); 4 April —(2.51, 2.42).
+

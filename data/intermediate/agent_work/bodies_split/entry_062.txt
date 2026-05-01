@@ -1,0 +1,141 @@
+### ENTRY 062 | 1914 V (1913f) | book p.405 pdf p.224 | pdes=1913 Y1 | basis=name (Delavan) + year | conf=high
+discoverers: ['Delavan', 'Cetus', 'Ophiuchus', 'Sagittarius', 'Scorpio', 'Norma', 'Lupus', 'Centaurus', 'Holetschek', 'Biesbroeck', 'Ebell', 'Breson', 'Valier', 'Abetti', 'Graff', 'Hoffmeister', 'Wirtz']
+BODY:
+1914 V (1913f). 
+Discovered 10 months before the perihelion passage by 
+Delavan (La Plata) on 17 Dec. as a_telescopic object of 10 to 11™; no tail. 
+Located in Eridanus, moving slowly north-west through Cetus (January to 
+March 1914), approaching conjunction with the Sun; beginning the end of 
+June, visible again in Taurus; 
+in July and August, moved through Auriga 
+and Lynx; 
+in September; passed through Ursa Major; 
+in October, through 
+Canes Venatici; 
+in October and November, through Bootes; 
+in December, 
+through Serpens; then moved through Ophiuchus (January, February), 
+Sagittarius (February, March), Scorpio (April, May), Norma (May), 
+Lupus (June, July) and Centaurus (August). 
+The exceptionally favorable celestial position and considerable brightness 
+made the comet visible throughout the world. 
+Extensive series of photo- 
+metric estimates with small telescopes, binoculars, and the naked eye 
+were made by Holetschek (Vienna), van Biesbroeck (Uccle), Ebell (Kiel), 
+Breson (Helsingfors), Valier (Bosen), Abetti (Arcetri), Dziewulski (Wilna 
+[Vilnius]), Graff (Bergedorf), Hoffmeister (Sonneberg), Wirtz (Strasbourg), 
+Kupffer andSchoenberg(Yur'ev) and also Castro and Maggini (the latter 
+with color filters) et al. 
+According to van Biesbroeck and Holetschek, 
+29 Dec., m=10™.5; 
+D=1'.5; 
+eccentric nucleus of 11™, 
+14 Jan. to 20 Jan. 1914, m=11™.0, D=145, 
+nucleus 13™, nebula elongatedat 
+P=10to190°; 
+23 Jan. and 24 Jan.; m=10™.2. 
+26 Jan. 
+to 28 Jan., according to Dziewulski, m =9™.4 to 9™.2; 
+1 Feb. to 
+6 Feb., 
+9™.5; 
+13 Feb., D=2'; 
+17 March, m=8™.8; 
+28 March, nebula elon- 
+gated at 
+P=215°; 15Julyand 16July, 
+m=6™.7, D=2', nucleus 7”, in moon- 
+light, tail hardly visible; 24 July to 30 July, 5™.7, tail 1°, D=2'5; 
+1 Aug. 
+to sane. 
+5 oto. 
+2 tall2-, D=2.5; 20 Aug. to 26 Aug. 
+37.0, D=4' 
+tail 2% -LiSept.uitord: Sept... 
+32.3. to. 3.5, tail.3°, D:=3'.5:.13 Sept..tos0sept. , 
+SVOMG 2 sou tad 9°. Ad Oct. 
+to. 14:Octs- or oitOg2 eG ately, .nucleussG to 
+(a EMO OLA Ons al al NOVA 
+ro Valggtail le ltovle 
+ose Dec anc 
+Deca 
+3™,.9,. 
+21 Dec., according to Nijland, 4.6, tail 5°. 
+14 Jan. and 30 Jan., observed in Arcetri (7 to 6™). 
+1 Feb. to 4 Feb., 
+estimated at 8 to 8™.5 (nucleus, apparently). 
+Abetti saw the comet also on 
+2 March, but dawn and moonlight made measurements impossible, 
+12 Feb. 
+1915, Castro (Santiago) reported m =6™.5 through a 24-cm refractor, D=5'. 
+16 March, equal in magnitude to HD 35° 12070. 
+27 April, bright nebula; 
+nucleus 10™, 
+7 May, eccentric nucleus of 9™.5; elongated coma. 
+18 Feb. 
+to 1 Sept., measured by Delavan (La Plata); in Cordoba measured up to 
+7 Sept. 1915 (apparently, 
+the last measurement of the comet), 
+12 March, 
+estimated in Cordoba at 
+m=9™, nucleus in a parabolically shaped head; 
+tail extending north-east. 
+22 Nov. 
+to 30 Nov., m=10™5, nucleus visible 
+intermittently. 
+26 Aug., m=11™; 
+18 Sept., still visible, but too faint for 
+measurements. 
+Observed also at the Cape Observatory, and inJohannesburg 
+up to 30 Aug. 
+27 July, m=12™; 
+30 Aug., faint diffuse mass 1/4! in diameter. 
+405 
+
+
+Photographed at various observatories, 
+in particular by Tikhov (Pulkovo) 
+and Kazanskii (Moscow); 
+a double tail: narrow straight tail up to 10° long; 
+wide curving tail brighter than the first one and extending over 4 to 5° 
+(September). 
+Paraboloidal head. 
+September 1914, Konkoly observed the strong continuous spectrum of 
+the nucleus and the fainter continuous spectrum of the coma. 
+Nucleus and 
+coma yellow-green in color; 
+26 Sept. to 30 Sept., 
+sodium lines and 
+the ordinary cometary bands were well visible. 
+References: A.N., 196-209; M.N., 75; A.J., 28-31; B.S.A.F., 28; 
+Ann, de Belgique, 1916. 
+Orbit: 
+van Biesbroeck. —Publ. Yerkes Obs., 5. 
+In V.I, Vsekhsvyatskii obtained from Holetschek's observations y = 11.0, 
+Hp = 0.64; from Nijland's observations, y = 10.9, Hp =1™.0; from Yagolim's 
+observations, y =9.8, Hyg=1™.4. 
+In C.A.M., Hio= 1™,1. 
+Bobrovnikoff and 
+McLaughlin obtained from 260 estimates of various observers (37 normal 
+locations) y = 8.8, Hy=1™.8; these figures differ much more widely from 
+the estimates of 1915 than the parameters obtained in V.I do. 
+In Aug. and 
+Sept. 1914, D,=5'.5 to 7.5, Maximum tail lengths: the main, S= 0.68; the 
+faint, S=0.32. 
+According to 8. V. Orlov, A. Zh., 1: 72, the straight tail was of type I 
+and the main tail was of type Il. 
+Spectrum observed by Belopol'skii Mitt. Pulkovo, 6: 132; Konkoly, A.N., 
+202: 143; G.A. Tikhov, Bull. Acad. Petersburg, 543; Curtis and McLaughlin, 
+Publ. Michigan, 3:264. 
+The spectrograms obtained at the Yerkes 
+Observatory were studied by Bobrovnikoff, Ap.J., 66: 450. 
+(r, A): 17 Dec. 1913 —(4.25, 3.50); 20 Jan. 1914 —(3.89, 3.65); 21 Feb. — 
+(3.56, 3.83); 25 March —(3.21, 3.91); 25 June —(2.16, 3.07); 28 July — 
+(1.79, 2.48); 28 Aug. —(1.46, 1.91); 29 Sept. —(1.19, 1.58); 26 Oct. — 
+(1.11, 1.71); 2 Dec. 1914 —(1.25, 2.05); 
+19 Jan. 1915 —(1.72, 2.34); 8 March— 
+(2.26, 2.25); 
+3 May —(2.90, 2.12); 2 July —(3.56, 2.83); 
+12 Sept. —(4.31, 
+4.47),
+

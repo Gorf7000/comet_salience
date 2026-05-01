@@ -1,0 +1,107 @@
+### ENTRY 088 | 1922 II (1922c) | book p.425 pdf p.244 | pdes=1922 U1 | basis=name (Baade) + year | conf=high
+discoverers: ['Baade', 'Cygnus', 'Pegasus', 'Pisces', 'Krumpholz', 'Dick', 'Bower', 'Barnard', 'Dubyago', 'Biesbroeck']
+BODY:
+1922 II (1922c). 
+Discovered in Cygnus photographically by Baade 
+(Bergedorf) on 19 Oct. as a 10 to 11™ nebula 21' in diameter. 
+Moving 
+south-east, passed through Cygnus (October, November), Pegasus 
+(December 1922, January 1923) and entered Pisces (February). 
+After 
+conjunction with the Sun, moved through Taurus, Orion and Eridanus. 
+22 Oct. to 25 Oct., Krumpholz (Vienna), H. Struve and Dick (Babelsberg), 
+Bower (Washington) and Barnard (Yerkes Obs.) estimated the brightness at 
+10™.2 to 10™.5 (or even at 9 to 10™); coma with a clear central condensation, 
+D= 1', and 
+a stubby 
+tail at P = 70° visible 
+through 
+a 5-inch 
+seeker. 
+According to observations in Babelsberg, m=10™.0 on 11 Oct.; condensation 
+with 
+a 
+stubby 
+tail. 
+18 Nov. 
+and 20 Nov., m = 9™.8; 
+stubby 
+tail 
+clearly 
+Visible ce 
+ieNOvVa, moe 1O2YO 
+825 Decw, 10 
+8s ahr janl.al925, 
+time 
+9 Feb. 
+to 11 Feb., 
+117.3, no sharp nucleus; 
+23 Feb., 
+117.5; 
+26 Feb., 
+11™.5 to 117.8; 
+12 March, 
+11™.8; 
+15 March, 
+12™.5 (onthe visibility threshold), 
+9 Dec. and 12 Dec. 1922, Barnard described tail as extending north 5'; 
+17 Dec., m=10™, 
+tail pointing north-east. 
+11 Dec., Dubyago (Kazan') 
+reported m=11™, D=0'.5. 
+A photograph obtained on 25 Oct. at the Yerkes 
+Observatory 
+showed 
+in addition 
+to the short stubby tail, a long (20') 
+faint tail directed almost directly sunward (P= 240°). 
+After conjunction with the Sun, observed by van Biesbroeck (Yerkes Obs.) 
+from the middle of August. 
+16 Aug., m=14™, nebula extending between 
+P=300to 120°, faint central condensation; 
+21 Aug., a 4! tail at 
+P= 304°; 
+12 Sept. and13Sept., 
+m=14™.5, D=0'.3, elongated north-south; 
+9 Oct. and 
+10 Oct., 
+147.8; 6 Nov., m=15™, 
+a clear 15™.5 nucleus; 
+10 Dec., circular 
+nebula with central condensation of 15™. 
+7 Feb. 
+1923, m=15™.5, nucleus 
+16™; 26 Feb., hardly noticeable nebula surrounding an almost starlike 
+nucleus of 15™.8; 4 March, 40-minute exposure through a 24-inch reflector 
+failed to reveal the comet (fainter than 17™). 
+9 Sept. 1923, Baade reported 
+a 4' photographic tail directed away from the Sun (P = 310°); tail remained 
+visible till the end of observation period. 
+The last plate, taken on 28 Jan. 
+1924, showed a 1' tail at 
+P=5°. According to Baade, m=14™.7 on 6 Nov. 
+1923; 
+10 Dec., 
+15™.3, one 17' tail at P=283° and another one 2' long facing 
+away from the Sun (P=20°); 28 Jan. 1924, 16™5. 
+Studied at various ob- 
+servatories, 
+in particular Pulkovo, Dorpat and Kazan’. 
+References: A.N., 217-223; B.Z., 4; A.J., 34-36, 41; J.Obs., 6; 
+Vioda57 00-62: 
+Orbit: Gennaro. —A.N., 259: 311. 
+In C.A.M., Hig=5™.5. 
+From these estimates, we obtain Hig9=5™.3, which 
+yields 
+m=15™.9 for 26 Feb. 1923 in good agreement with van Biesbroeck's 
+estimates. 
+In Oct. 1922, D,=3'.7. 
+S> 0.0016; for the anomalous tail, 
+S=0.011 (25 Oct. 1922). 
+(r, A): 19 Oct. —(2.26, 1.86); 26 Nov. —(2.29, 2.03); 26 Dec. 1922 — 
+(2.36, 2.34); 26 Jan. 1923 —(2.49, 3.01); 15 March —(2.75, 3.60); 
+16 Aug. — 
+(3.89, 3.98); 
+18 Sept. —(4.16, 3.79); 20 Oct. —(4.41, 3.67); 7 Dec. 1923 — 
+(4.80, 3.95); 26 Jan. 1924 —(5.19, 4.82).
+

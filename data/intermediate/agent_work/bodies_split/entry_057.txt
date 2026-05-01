@@ -1,0 +1,134 @@
+### ENTRY 057 | 1913 VI (1913d) | book p.400 pdf p.219 | pdes=28P | basis=name (Neujmin) + year | conf=high
+discoverers: ['Delavan', 'Delphinus', 'Cygnus', 'Graff', 'Neujmin', 'Biesbroeck', 'Nijland', 'Palisa', 'Zappa', 'Batterman', 'Millosewich', 'Kritzinger']
+BODY:
+1913 VI (1913d). 
+The second recorded apparition of the periodic Comet 
+Westphal. 
+Discovered near a Aquarii by Delavan (La Plata) on 26 Sept. ; 
+visible through a small telescope (7.5 to 8™), Moved north through Equuleus, 
+400 
+
+
+Delphinus (October), Vulpecula and Cygnus (November and December); 
+at 
+the end of December, 
+located near u Cephei; 
+22 Oct., located a few minutes 
+of arc from comet 1913 IV, both appearing in the same telescopic field of 
+vision. 
+28 Sept., Graff (Bergedorf) described it as a circular 8™.0 nebula with 
+a bright nucleus, 
+Neujmin (Simeis), van Biesbroeck (Uccle) and Nijland 
+(Utrecht) gave m=7™.5 to 77.8; at that time Palisa (Vienna), Zappa 
+(Capadimonte), Batterman (Konigsberg) and Millosewich (Rome) estimated 
+the nucleus at 9 to 10", Kritzinger (Bothkamp) recorded a 3.5° tail at 
+P=72 to 108° on a 40-minute exposure; 
+a comet seeker revealed a 1°2 tail, 
+circular coma D=20!', elongated nucleus. 
+29 Sept., van Biesbroeck, through 
+a seeker, 
+Saw a circular envelope 10! in diameter; 
+1 Oct., Bulov and 
+Kritzinger, using peripheral vision, saw the comet with the naked eye, 
+however Holetschek gave m =8™.5 on 2 Oct., and Dziewulski gave m =9™.3 
+on 1 Oct. 
+This discrepancy can be explained only by differences in atmos- 
+pheric conditions or considerable fluctuations in brightness and structure 
+of the head, 
+Several brightness estimates were obtained by Holetschek 
+(28 Sept. to 29 Oct.), Barnard (27 Sept. to 25 Oct.), van Biesbroeck (up to 
+30 Oct.), Graff et al. 
+Up to 4 Oct., Graff gave 
+m=7™.5; beginning 10 Oct., not detected in 
+moonlight (Moon from 9 Oct. to 17 Oct.). 
+13 Oct., m=10™5; 
+19 Oct., 117; 
+26 Oct., 
+117.5; 28 Oct., fainter than 12™.5. 
+Holetschek also reported an 
+abrupt drop in brightness, notwithstanding the approach to perihelion, 
+though less drastic than reported by Graff. According to Holetschek, 
+Lo Oetse myo" 
+2425 Octe, 10:82 Oct. to 29 Octs,> 
+107.5: to, 10™. 
+0.7 nucleus 
+10™.7; 
+30 Oct. to 2 Nov., not spotted with a 6-inch refractor. 
+Van 
+Bresbrocekesimimared tor. 20/Oct. 
+9°25 525'Oct—,, 
+9°45; 20.0cts ~~ Oats 
+28 Oct., 1070; 29Oct. 10™8; 30Q0ct. 
+117.5. 
+3 Nov., not located with seeker; 
+visible only with great difficulty through a 15-inch refractor. 
+9 Oct. to 
+13 Oct,, and then 29 Oct. and 30 Oct., nucleus rapidly grew faint. 
+Nijland 
+(Utrecht) reported the absence of a nucleus on 20 Oct.; 28 Oct., Nijland 
+saw the comet on the visibility threshold of a 26-cm refractor (12 to 13™). 
+21 Oct., nucleus not observed by Barnard through a 40-inch refractor; 
+25 Oct., Barnard estimated the diffuse disk at 13". 
+4 Nov., only a faint 
+shapeless glow was observed.where the condensed comet had been. 
+25 Oct., Dziewulski (Wilna [Vilnius]) gave m =9™.5 by extrafocal com- 
+parison through a 4-inch telescope. 
+The 3™.5 disagreement with Barnard 
+was due to differences in magnification and effective light- gathering power 
+of the instruments (in the absence of a nucleus and noticeable central con- 
+densation). 
+Graff and Barnard, and Nijland on 28 Oct. worked, apparently, 
+under similar conditions and used similar methods of estimating brightness, 
+while another group of observers (Holetschek, van Biesbroeck, Dziewulski, 
+Nijlandet al.), using low magnification and extrafocal comparison, agreed 
+with one another * 
+* This makes obvious the absolute reliability of photometric observations of comets when due allowance is 
+made for the systematic effects characteristic of the methods used. A purely formal approach to photo- 
+metric cometary data, such as the use of fictitious dependencies on the objective aperture of the instrument 
+without taking into account the structure of the comet (nucleus, head), as practiced by Bobrovnikoff, leads, 
+on the contrary, to totally erroneous results. 
+401 
+
+
+29 Oct., photographs gave m=13™, 
+a 6! tail 
+el-Oct, 
+, D= store", 6 Nov., 
+m=15™:; 
+last photographed on 22 Nov. by Schorr (Bergedorf) and estimated 
+at 16 to 17™; 23 Nov., virtually invisible. 
+Crommelin's last observation 
+on 23 Jan. (?) was, apparently, made at the Cape Observatory. 
+References: A.N., 196-200; M.N., 74; A.J., 28-30: 
+B. AL, 31; 
+Apr 
+66s0VlF. So 
+495" Ann: de Belgique, 
+1916; Holetschek V, p. 47. 
+Orbit: 
+Viljev. —A.N., 199: 11. 
+Viljev's calculations identified the comet 
+with Comet Westphal. 
+Holetschek obtained for the first observation period H, = 8.3 to 8™.8 and 
+then a drop to 10™.7 on 27 Oct. and 28 Oct. and 16™.4 on 22 Nov. 
+Vsekhsvyatskii, 
+using observations 
+of Holetschek and others in V.I, ob- 
+tained y 
+=-5.2, Hp=9™.3 (brightness decreased with approach to perihelion). 
+In C.A.M., Hijo = 8™.8 as the mean of Holetschek's estimates, 
+a result com- 
+parable to Hj) =5™.0 for 1852. 
+Bobrovnikoff gave the parameter y = -27.8 and 
+Hy = 14™.6 which is of only formal significance. D=2'.1to5'.9. S= 0.104 and 
+0.032 (28 Sept.) 
+The spectrograms taken by Parkhurst on 2Oct. and 3Oct. were studied 
+by Bobrovnikoff. 
+Ordinary spectrum 
+the stubby tail stood out in all 
+monochromatic photographs and particularly in CN IV. 
+(cp A)e/26 Sept. —(1/5390.59)2 4 Oct. —(1. 4670.59); 
+21 Oct. —(137, 
+0.65); 
+12 Nov. —(1.29, 0.77); 27 Nov. —(1.25, 0.86).
+

@@ -1,0 +1,38 @@
+### ENTRY 060 | 1914 III (1914c) | book p.404 pdf p.223 | pdes=1914 M1 | basis=name (Neujmin) + year | conf=high
+discoverers: ['Neujmin', 'Graff', 'Palisa']
+BODY:
+1914 III (1914c). 
+Discovered by Neujmin (Simeis) on 24 June. 
+Located 
+near y Scuti; photographic estimates gave 14™.0. 
+Moved north through 
+Serpens and Ophiuchus. 
+Observed at Vienna, Uccle, Algiers and the Lick 
+Observatory, where it was photographed in July, August and September. 
+29 June, Graff (Bergedorf) gave m =12™.0, reporting a tail at P=185°; 
+1 July, 12™.5; 2 July, faint clear spot witha condensation, 
+D=0'.3. 
+12 July, 
+Palisa (Vienna) described the comet as noticeably fainter than on 2 July; 
+nucleus of 13™.5 with a very small nebulous envelope. 
+Van Biesbroeck's 
+estimates through a 38-cm refractor (Uccle) gave, 
+14 July, m=12™, nucleus 
+13™ .Di=0'7; 
+16. July;.13™).19 July, 1372528 July, small 13™.5 nebula. 
+24 Aug., Palisa described the comet as very faint; nucleus 13™.8. 
+16 Sept., 
+nucleus 13™,5. 
+Photographed last in Bergedorf on 22 Dec. (15™)2 
+References: A.No;,198°201; M!N., 75; L.0O.B. , tp ALS. 9'29;'30; 
+Izv. Russ. Astr. Soc., 20;.V.J.8.., 49, 50. 
+Orbit: Svardsen. —Stockholm Iaktt., 10:6. 
+V.II gave Hj) =4™.7 from observations in June and July; and in Dec., 
+Hj) =5™.6. 
+In July, D,=2'. 
+S> 0.001. 
+(r, A): 24 June —(3.79, 2.82); 
+30 July —(3.75, 3.07); 
+30 Aug. —(3.79, 
+3.20); 30 Sept. —(3.80) [sic]; 18 Nov. -(3.87, 4.50); 23 Dec. —(3.96, 4.77).
+

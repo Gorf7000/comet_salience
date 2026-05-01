@@ -1,0 +1,78 @@
+### ENTRY 063 | 1914 VI (1914d) | book p.406 pdf p.225 | pdes=1914 M1 | basis=name (Neujmin) + year | conf=high
+discoverers: ['Barnard', 'Neujmin', 'Thiele', 'Silbernagel', 'Tikhov', 'Holetschek', 'Kostinskii', 'Steavenson']
+BODY:
+1914 VI (1914d). 
+The thirty-third recorded apparition of the short-period 
+Comet Encke. 
+Detected by Barnard (Yerkes Obs.) on 17 Sept. and independ- 
+ently by Neujmin (Simeis) on 20 Sept. and Thiele (Bergedorf) on 29 Sept., 
+in all cases according to Matkiewicz's ephemeris. 
+Upon discovery in Simeis 
+and Bergedorf, estimated at 14™.0; D=30"'. 
+Located in Perseus, moving 
+north-east; 
+in October, passed through Auriga, Lynx and Ursa Major; in 
+November, traversed Coma Berenices and Virgo, moving to conjunction 
+with the Sun. 
+14 Oct., observed by Silbernagel (Munich) as an elongated nebula without 
+traces of condensation; negligible surface brightness; visible through a 
+seeker; estimated at 9™.5. 
+11 Oct. 
+to 21 Oct., photographed by Tikhov 
+(Pulkovo) on the Bredikhin astrograph and a small camera. 
+According to 
+Murashkinskii, 13 Oct., m=9™.9; 
+21 Oct., 
+9™.0. 
+Plates showed the motion 
+of a protuberance in the comet's nucleus. 
+25 Oct., spotted by Holetschek 
+(Vienna) as a comparatively bright nebula with a very eccentric nuclear 
+condensation of 10™; nebula 8 to 10' long and 5 to 6' wide; through a small 
+seeker, 
+the intrinsic brightness was estimated at 77.5. 
+27 Oct., still visible; 
+m=7™; size 10'x7'. 
+In October and November, photographed by Kostinskii 
+(Pulkovo) on a normal astrograph. 
+6 Nov., Steavenson (London) observed the 
+comet easily through binoculars; 
+a starlike nucleus of 8™.5 (6 to 7™). 
+Plates 
+406 
+
+
+taken by Barnard on 26 Oct. showed a slightly curved tail 2' wide; 29 Oct., 
+D=18'.75; 27 Oct., a narrow straight tail over 1° long. 
+22 Sept., 1916, on photographs of the presumed location of Comet Encke 
+according to Kritzinger's ephemeris, Wolf (Konigstuhl) discovered a 16™.5 
+object possessing the same motion as Comet Encke. 
+Viljev, proceeding 
+from the orbit corrections introduced by the Pulkovo observations, 
+objected 
+to the identity of the observed object with comet Encke. 
+References: A.N., 199-208;\M.N.,°-75; Pop: Astr. ,22, 23; Bull. 
+Poulkovo, 
+8(83); Holetschek IV, p. 99. 
+Orbit: Matkiewicz. —A.N., 199: 427. 
+Holetschek from his own estimates, for 25 Oct. and 27 Oct. gave H; =9.8 
+to 10™.2; in V.II, Hyp=10™.0; 
+in C.A.M., Hjg=10™.1. 
+The same values were 
+given in the most recent publication, A. Zh., 31:282. 1954. 
+In Oct., D,=1'.6 
+to 2':9; 27 Nov., S=0.012: 
+Judging from the shape, the tail was of type I. 
+17 Oct. and 20 Oct., spectra photographed by Tikhov, A.N., 223: 279, 
+with an objective prism. 
+Pulkovo plates were investigated by S.K. 
+Vsekhsvyatskii, 
+Bull. 
+Poulkovo, 
+15(6); high relative intensity of CN emis- 
+sion (3883A) and of Raffeti bands (40504) in comparison with the C band 
+47354, 
+(xr; A): 17 Sept. —(1.53, 0.83); 26 Sept..—(1.42, 0.69); 
+12 Oct. —(1.19, 
+0.42); 28 Oct. —(0.93, 0.29); 23 Nov. —(0.46, 0.67).
+

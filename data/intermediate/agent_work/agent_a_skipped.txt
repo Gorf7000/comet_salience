@@ -1,0 +1,40 @@
+Skipped entries (no usable numeric H10 in Big V text)
+======================================================
+
+1864 III (1864b) — page 221-222 — modern_pdes 1864 O1 (Donati-Toussaint)
+  Reason: Big V text states "H10 is given after E-II" but the numeric value
+  is NOT reproduced on the page. E-II is referenced but Big V did not print
+  the number. No alternative authority cited.
+  Notes printed: D1=3'.6 first period, 4'.1 end of Jan; S=0.008 in Aug,
+  0.005 in Jan.
+
+1864 IV (1864d) — page 222 — modern_pdes 1864 X1 (Baeker)
+  Reason: Big V text states "Absolute magnitude H10 reproduced after E-II"
+  but the numeric value is NOT printed on the page. Also note designation
+  override: script gave 6P (Roman fallback) but body identifies as Backer's
+  15 Dec 1864 discovery in Scutum which matches target 1864 X1 (Baeker)
+  peri 1864-12-22, NOT 6P/d'Arrest (which had peri 1864-02-26 — earlier in
+  the year and a separate apparition not covered with a numeric H10 in
+  this entry).
+  Notes printed: D1=1'.4 on 30 Dec; S>0 (anomalous tail).
+
+1870 I (1870a) — page 230-231 — modern_pdes 1870 K1 (Winnecke)
+  Reason: Big V text states "The absolute magnitude H10 is reproduced after
+  E-II" but the numeric value is NOT printed on the page. No alternative
+  authority cited.
+  Notes printed: D1=4' in May, 1'.7 in July; S=0.008.
+
+1879 IV (1879e) — page 251 — modern_pdes 1879 Q2 (Hartwig)
+  Reason: Big V text states "Absolute magnitude reproduced from E-II" but
+  the numeric value is NOT printed on the page. Only D1 statistics given.
+  Notes printed: D1max=5'.8 (13 Sept), D1min=1'.2.
+
+1880 V (1880g) — page 255 — modern_pdes 1880 Y1 (Pechule) [DUPLICATE]
+  Reason: This Big V entry concerns Cooper's 21 Dec 1880 discovery, but the
+  modern target list has only 1880 Y1 (Pechule) for late-Dec 1880 — the
+  same comet that Big V's 1880 VI (Pechule, 16 Dec discovery) covers in
+  detail. To avoid duplicate rows for the same modern designation, kept
+  the 1880 VI row (substantive C.A.M. citation, 14 estimates) and excluded
+  this minimal Cooper-only row. Big V's 1880 V H10=7m.4 would have been
+  derived from a single magnitude estimate (m=4m.8 on 21 Dec); 1880 VI's
+  H10=5m.8 is from 14 instances and matches C.A.M.

@@ -1,0 +1,96 @@
+### ENTRY 011 | 1904 I (1904a) | book p.359 pdf p.178 | pdes=1904 H1 | basis=name (Brooks) + year | conf=high
+discoverers: ['Brooks', 'Draco', 'Major', 'Venatici']
+BODY:
+1904 I (1904a). 
+Discovered in Hercules by Brooks (Geneva, N.Y.) on 
+16 April as a 9™ object with a clear 10™ nucleus and a 1'.5 coma; fan-shaped 
+tail 4' long. 
+Later, the comet was spotted on plates of the discovery region 
+taken by Rudeauxon16 April; astronomers at Harvard also spotted the 
+comet according to Weiss' ephemeris onplates taken at the Arequipa outpost 
+on 14 May, 
+18 May, 22 June, 23 June and 24 June 1903 (i.e., almost one 
+year before the discovery). 
+Moved slowly north-west passing through 
+Bootes, Draco (May), Ursa Major (June) and Canes Venatici 
+(July- 
+November); 
+in December, moved north again through Ursa Major (January- 
+February 1905); in April, May and June 1905, located in Lynx, 
+Observed extensively because of the favorable celestial position (about 
+1300 visual and photographic determinations). 
+Thorough series of estimates 
+of intrinsic brightness andnuclear brightness were obtained by Holetschek, 
+Wirtz, Nijland, Abetti et al. According to Holetschek, 
+in April 1904 the 
+comet was stable at 97.0 to 9™.2 with D=1'.4 anda 
+5!' tail. 
+13 May, m= 8.5, 
+D=2'.1, 
+5' tail; at the end of May, m=9".2 (apparently due to moonlight), 
+nucleus 10™, 
+12 June to 16 June, m=9".1 to 9™.2, D=1"'.5, nucleus 9.5 to 
+10™; 
+18 June to 25 June, m=9"™.4 to 9™.5, D=1'.2, nucleus 10™; 
+1 July to 
+12 July, m=107.0, D=1', nucleus 10™.5; 6 Sept. to 12 Sept., m=10™.2 to 
+10™,5, D=1'.0; 
+13 Nov. to 16 Nov., m=10"™.4 to 10™.7, D=1'.4; 
+16 Dec. 
+1904, m=10™.8; 
+11 Jan, 1905, m=117.2; 29 Feb,, m=12™, 
+According to Wirtz a 15' tail was observed in May 1904; 16 June and 
+17 June, 
+15 to 17'; 9 July, 20'. Brightness estimates were in good agree- 
+ment with Holetschek's observations, though there were considerable fluc- 
+tuations; 
+14 Dec., m=12™; D#1'.5, no condensation; 
+25 Jan. 1905, 
+m=12™, 
+359 
+
+
+circular object, D=1'.5, eccentric nucleus 12™.5; 
+12 Feb., m= pM si 
+nucleus 13™,5; 
+1 April, coma 12™.7; D= 30"; 3 May, m=12™.5 (observed 
+by Sokoloff and Okulich (Pulkovo) on a 15-inch refractor); 
+13 Sept. 1904, 
+m-=11", D=1', clear nucleus. 
+28 April to 1 May 1905, exceptionally faint, 
+D#0!.2. 
+Brightness estimates also made by Graff, Kobold, Ambronn, 
+Barnard, 
+et al. Measured last at the University Park Observatory on 5June 
+1905 (15 to 16™). 
+References: A.N., 165-176; M.N., 65-67; BIA) S22 Paes VISE 
+40-42. 
+Orbit: S.A. Kasakov. —Ann. Mosc. Obs. 2(1) p. 18. Positions of 1903 
+not used here. 
+VI gave, according 
+to observations 
+of Holetschek 
+and Wirtz, 
+Hj) =2™.9 and 2™.8; in C.A.M., Hio =2™_8: Bobrovnikoff, Perkins Obs. 
+Contr. 
+15. 1941 and 16. 1942, from 146 individual estimates (mainly those 
+of Holetschek, Wirtz, 
+et al.), obtained y =8.12 and Ho= 3™,.6. 
+In May, 
+D, = 31.5 to 4.5; from Nov. 
+1904 to Jan. 
+1905, 
+5'.0. 
+In June and July 1904, 
+K =20°.0. 
+S=0.043 to 0.051. 
+Spectrum observed by Pickering, A.N.,165: 159; strong continuous 
+spectrum blurred the band spectrum. 
+(r, A): 16 April —(2.74, 2.23); 17 May —(2.81, 2.41); 
+18 June —(2.91, 
+2.90); 
+19 July —(3.04, 3.43); 4 Sept. —(3.28, 3.97); 
+15 Nov. (32733 S238); 
+29 Dec. 1904 —(4.02, 3.57); 29 Jan. 1905 —(4.24, 3.50); 29 March —(4.80, 
+4,50); 2 May —(5.08, 5.14); 5 June —(5.31, 5.82).
+

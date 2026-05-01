@@ -1,0 +1,165 @@
+### ENTRY 044 | 1911 V (1911c) | book p.389 pdf p.208 | pdes=1911 O1 | basis=name (Brooks) + year + Roman position 5 | conf=medium
+discoverers: ['Brooks', 'Schorr', 'Nijland', 'Lau', 'Orlov', 'Hoffmeister', 'Bemporad', 'Schiller', 'Holetschek', 'Prager', 'Chernyi', 'Ebell']
+BODY:
+1911 V (1911c). 
+Discovered in Pegasus by Brooks (Geneva, New York) 
+in the morning of 20 July as a 10™ object moving slowly north-west. 
+In 
+August, passed through Cygnus; 
+in September, located in Draco and Bootes; 
+in October, rapidly descended south through Canes Venatici, Coma Berenices 
+and Virgo; 
+in November and December, crossed Hydra and Centaurus; 
+in 
+January and February 1912, passed through Lupus and Circinus. 
+389 
+
+
+Plate XXXIV. Comet 1911 V (Brooks). Photographed by Barnard on 20 Oct, 1911 
+22 July, Schorr (Hamburg) gave m=9™.5; 
+Jaschke, Gonnessiat and Aitken 
+gave m=10 to 10.5, D=4 to 5', nucleus 117; 25 July, elongated coma. 
+26 July and 27 July, van Biesbroeck gave m =8™.5 through binoculars; 
+29 July, 8.0. Nijland (Utrecht) remarked that the divergence in brightness 
+estimates (11™ and 8™.5 for instance) was the result of differences in ob- 
+servational means. 
+Photometric estimates given by Nijland (22 July to 
+31 Oct.), Lau (Berlin, 26 Aug. to 10 Oct.), Voiite (26 July to 31 Oct.), 
+S.V. Orlov (Moscow, 27 July to 13 Oct.), Hoffmeister (Baltimore, 
+12 Sept. 
+to 6 Oct.), Bemporad (Catania, 
+14 Aug. to 28 Nov.), Schiller (Bothkamp, 
+22 July to 31 Oct.), Holetschek (Vienna, 28 July to 20 Nov.), Prager 
+(Santiago, 2 Nov. 1911 to 16 Jan, 1912), Chernyi (Warsaw, 21 Aug. to 
+19 Oct.), Ebell (Kiel, 21 July to 18 Oct.), Valier (7 Sept. to 4 Nov.), Graff 
+(22 July to 31 Oct.) and other observers. 
+390 
+
+
+Brightness flares on 20 to 25 and 28 to 31 Aug., 
+1 Sept., 
+10 Sept. and 
+4 Oct.« 
+dAugs. m= 7.6 to. 87.370 
+De 4eto 10! 
+<5 Augt,4ae 
+stubby.. 
+tail 
+reported for the first time; m=7™.6; nuclear brightness h=9 to 10™. 
+17 Aug., visible to the naked eye; 20 Aug., m=5.0 to 6", D=10', h=9.2 to 
+10™.5; 26 Aug., and 27 Aug., m=5 to 5™.5; 
+1 Sept., m=4™.4, D=9 to 8', 
+h=9™.5; 
+10 Sept., m=47.0, D=10 to 12', h=9™.2; 25 Sept., m=3™.2, D=10 
+to 12', 
+h=8™,0, thin jet-like tail up to 10° long. 
+2 Oct. and 3 Oct., m=2™.7, 
+D = 8' (through a telescope, D=5'.8), h=6™, 
+tail 6°7, clear yellow nucleus 
+situated eccentrically in a bluish coma; 
+17 Oct. to 19 Oct., m=2™.0, D=5', 
+h= 3.10.4) 
+etail 6°30! 
+s.31 Octs,.m =2™7.2,, 
+Dji=10!(.?),, tail 6's 11 Nov. ,ms3™; 
+21 Nov., sma 5") DE Is tail les 2.Dec..,.ms6™,0,. 
+DD =06) 
+tail. 19.3) (faint); 
+9 Dec., m=8".2, D=0'.8; 
+15 Dec., m=6".4, 
+tail 0'.3; 
+17 Dec., main tail 
+0°.6 long (P =275°) and another very faint tail 0°3 long (P =315°); 
+19 Dec., 
+mis 
+GS 26s) cio DeCh ped: 
+OvelLo dan gl O12.) Diz; 
+1 Oct. 1911, Doberck reported a split in the nucleus. 
+According to ob- 
+servations at the Engelhardt Observatory, 
+26 Sept., tail 26° long; 21 Oct., 
+Valier reported a 30° tail. 
+Photographed at various observatories: Vienna, Geneva, Bergedorf, 
+Jena, Teramo, Helwan, Pulkovo, Madrid, Juvisi and particularly at the 
+Yerkes and Lick Observatories. 
+Photographs indicated two activity periods. 
+At first, there was a wide diffuse head with a straight tail connected to the 
+head by narrow jets. Another period began in the middle of October: 
+less 
+diffuse head, tail not fan-shaped but made up of narrow rays and filaments. 
+20 Oct. and 22 Oct., motion of condensations. 
+Near 
+the 
+perihelion 
+(28 Oct.), lateral rays appeared; small and sharply outlined head. 
+Valier 
+reported variations in color; 
+till 16 Sept., bluish; 
+at the end of September 
+and in October, greenish; 
+30 Oct., yellowish. 
+Photographs taken at Helwan 
+in October showed the head envelope extending into a tail, whereas in 
+November the tail extended independently from the portion of the nucleus 
+facing away from the Sun. 
+Last observations in Santiago on 31 Jan. 1912. Observed till 27 Feb. at 
+the Cape. 
+; 
+References: A.N., 189-196; M.N., 72, 73; A.J., 27-31; C.R., 153, 
+154; V.J.S., 47, 48; L.O.B., 239; Izv. Russ. Astr. Soc., 17; Izv. Pulkovo 
+Obs., 13(117); Bergedorf Mitt., 12 (4); Ann de Belgique. 1914. 
+Orbit: Kuhne. —A.N., 196:371. 
+A.V. Orlov, A.N., 190: 157, obtained 
+from his own observations y =8.0, Hj =5™.14; Lau's 47 estimates, A.N., 
+190: 99, yielded 
+y=9.4, H)=5™.18. 
+B.A. Vorontsov-Vel'yaminov, A. Zh., 
+2: 86, evaluated the estimates of various observers (Archenhold, Nijland, 
+Filippov, Véute, Valier, Hoffmeister, 
+S.V. Orlov and Lau) and obtained 
+very similar values of photometric parameters for each series. 
+On the 
+average y=8.5, Hj) =5™.64, hg=8™.1; in C.A.M., Hp=5™.1. 
+Bobrovnikoff 
+obtained from 466 estimates y =9.1, Hj) =5™.64; absolute magnitude obvious 
+underestimate: Bobrovnikoff mechanically took the average for the normal 
+positions, 
+Proceeding from Bemporad's observations, 
+S.V. Orlov, 
+Izv. 
+An., 151. 1914, determined the "amount of reflected light" in the nucleus 
+and estimated the mass of the nucleus as between 1.2107! and 3.6x107" 
+of the solar mass. 
+In Sept., D=5 to 6'; 21 Oct., Smax =0.40; tail type I. 
+Spectrum observed by various astronomers and studied from various 
+points of view. 
+Spectrum observations described by Bosler, C.R., 151: 756; 
+Iniguez, C.R., 153: 926 and A.N., 190: 103; Konkoly, A.N., 190: 41; 
+391 
+
+
+Lagrula and Chrétien, C.R., 153: 927; Stratton, A.N., 189: 85; Wolf, Sitz. 
+Heidelberg, 25, 29; Storey, M.N., 72: 30; Lockyer, Nature, 88: 81; Wright, 
+L.O.B., 7(208); 8; Voitkevich, 
+Bull. Ac. Sci. Pet., 6(6): 51; de la Baume 
+Pluvinel and Baldet, B.S.A.F., 26: 402. 
+Unique spectrograms were obtained on 1 Oct. and 4 Oct. to 6 Oct. by 
+A.A. Belopol'skii on a three-prism spectrograph mounted on a 30-inch 
+refractor. 
+He studied the structure of the C IV band, A.N., 189: 439. 
+The 
+Moscow spectrograms taken with the objective prism were studied by 
+S.K. Vsekhsvyatskii, A.N., 244: 77, who also investigated them photometri- 
+cally, A.Zh., 
+10: 164. 1933. 
+Spectrum considered in full detail by Baldet, 
+Ann. Meudon., 7: 36. 1926; Bobrovnikoff, Ap.J., 66: 445 and P.A:8.P:, 
+41: 260; and Swings, L.O.B., 19: 131. 
+(r, A): 20 July —(1.99, 1.21); 6 Aug. —(1.73, 0.89); 20 Aug. ales 
+0.69); 
+5 Sept. —(1.24, 0.55); 20 Sept. —(0.99, 0.52); 
+5 Oct. m0. 2.0550); 
+28 Oct. —(0.49, 0.85); 21 Nov. —(0.75, 1.28); 21 Dec. 1911 —(1.30, 1.71); 
+2 Fan> UIs 
+(1, Ser 94)3" March —(2.40,-2.06).
+

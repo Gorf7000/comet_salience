@@ -1,0 +1,20 @@
+### ENTRY 041 | 1911 I (1910d) | book p.387 pdf p.206 | pdes=16P | basis=body scan + year + Roman position 1 | conf=low
+discoverers: ['Aitken', 'Barnard']
+BODY:
+1911 I (1910d). 
+The fourth recorded apparition of the short-period 
+Comet Brooks (2). Spotted according to Bauschinger's ephemeris by Aitken 
+(Lick Obs.) on 28 Sept. 1910 as a very faint object (15 to 16™ apparently). 
+Located in Sagittarius. 
+Discovery doubtful, yet comet observed by Barnard 
+(Yerkes Obs.) on 29 Nov. with a 40-inch refractor in Capricornus; m=16™; 
+condensation 3 to 4". 
+References: 
+A N., 186; 205; AJ., 41: 154; V.J.S., 46. 
+Orbit: Dubyago. —A.N., 223:63; Publ. Kazan Obs., 31. 1950. 
+Holetschek estimated H,=13™; 
+in C.A.M., Hjg=10to11™. V.P. Konopleva, 
+Publ. Kiev Obs., 5: 75. 1953, erroneously assumed Hj9=11.7 to 12™.7. 
+Making use of both observations we obtain Hj) =10 to 11”.3, 
+(5A) 28 Sept..—(2.13, 1.6.0); 29 Nov. —(2.00, 2.10).
+

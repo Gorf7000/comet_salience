@@ -1,0 +1,96 @@
+### ENTRY 094 | 1924 III (1924b) | book p.428 pdf p.247 | pdes=2P | basis=body scan token 'encke' + year | conf=medium
+discoverers: ['Biesbroeck', 'Merton', 'Perseus', 'Auriga', 'Virgo', 'Dubyago']
+BODY:
+1924 III (1924b). 
+The thirty-sixth recorded apparition of the short-period 
+Comet Encke-Backlund. 
+Discovered according to Matkiewicz's ephemeris 
+by van Biesbroeck (Yerkes Obs.) on 31 July; estimated at 16™. 
+Registered 
+at the same time by Merton (Greenwich) on a 30-inch reflector plate as a 
+15™ object. 
+Later, the comet was also discovered on a plate taken on 
+28 July; m=17™. 
+Located near Pleiades, moving north-east through Perseus 
+(August), Auriga (September), Leo and Virgo (October), 
+as it approached 
+conjunction with the Sun. 
+Upon discovery, van Biesbroeck reported an elongation at 
+P=60°. 24Aug., 
+faint diffuse nebula with a hardly noticeable condensation, 
+D= OU a 
+bse dr yt 
+28 Aug.s 0D = 1! 
+3,.m=14".5. 
+»3.Sept.. visible through a 4-inch seeker as a 
+faint nebula with a 15™ nucleus and a short 1'.5 tail at 
+P= 80° 16 Sept. easily 
+428 
+
+
+visible through a 4-inch seeker, m= 11™, diffuse nucleus. 
+21 Sept., m=9™.0 
+through a seeker, 
+in spite of moonlight; head extending east over 2' from 
+the nucleus. 
+23 Sept., m=8™.8 (seeker), nucleus 12™. 
+5 Oct. , photographs 
+taken with a 24-inch reflector showed, apart from the wide tail, a faint, 
+narrow, 
+slightly serpentine tail at P = 305° (8' from the nucleus). 
+7 Oct., 
+m = 8™°?; coma extending east over 2! from the nucleus. 
+13 Oct., m= ene 
+LHOetigy T0020, Octe; 16™, 
+8; yet hardly visible when low in the sky. 
+5 Sept., observed by Dubyago (Kazan'): m=12™.5, D=2'. 
+23 Sept. fo 
+5 Oct.,-Vorontsov-Vel'yaminov and Vsekhsvyatskii (Kuchino) described 
+the comet as a circular nebula, D=2', varying in brightness from 9™.0 to 
+8™.1. 
+26 Sept., Plakidis (Athens) estimated 8™.5 through a seeker. 
+4 Oct., 
+8™.0; eccentric condensation with a 12™.5 to 13™.0 nucleus. 
+7 Oct. Sills 
+WOct f38.05, Da 105: 
+3 Sept., Bower (Washington) reported 
+m=13™; comet diffuse in appear- 
+ance under poor visibility conditions. 
+14 Oct., 
+8™.0. 
+21 Oct., 
+a 20' tail in 
+twilight; P=303°. 
+Photographed by Kostinskii (Pulkovo) on a normal astro- 
+graph and by Jeffers (Lick Obs.), who gave D=2' on 28 Sept. Observed 
+also at Bergedorf, Pulkovo, Moscow, Vienna, Algiers, 
+Sonneberg 
+and 
+Copenhagen. 
+Measured last at the Yerkés Observatory on 24 Oct. ina 
+bright sky. 
+References: 
+B.2;,,6; A.N., 222-226; AJ... 36: J, Obs..,.7:. M,N. 
+Sos -JL 
+So. , 60% 
+Orbit: Matkiewicz. —Izv. Pulkovo Obs., 14: 123. 
+From his own estimates, van Biesbroeck obtained y=15, Hyg=11.5. 
+Vsekhsvyatskii, 
+A.Zh., 
+4: 300, using the photometric estimates of 
+Vorontsov-Vel'yaminov and his own estimates obtained Hj;)=9.6 to 10™3; 
+In C.A.M., Hi9=10™.0. 
+In his last reappraisal Vsekhsvyatskii, 
+A.Zh., 
+31: 287, obtained on the average Hj9=10™.68. 
+In Sept. and Oct., D,=2'.3. 
+21 Oct., S=0.006. 
+Spectrum photographed by Tikhov, A.N., 223:27, with a 13° prism on 
+the Bredikhin astrograph. 
+These spectrograms were investigated photo- 
+metrically by Vsekhsvyatskii, 
+Izv. Pulkovo Obs., 15(6). 
+in, CO)tootetuby (tio 7d 41) 
+17, Aue (1.49. 135): 2Sent. (i.e, 
+1.05); 18 Sept. —(1.02, 0.82); 4 Oct. —(0.74, 0.76); 24 Oct. —(0.41, 1.03).
+

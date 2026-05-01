@@ -1,0 +1,88 @@
+### ENTRY 035 | 1909 III (1909b) | book p.379 pdf p.198 | pdes=18D | basis=body scan token 'perrine' + year | conf=medium
+discoverers: ['Kopff', 'Andromeda', 'Perseus', 'Auriga', 'Gemini', 'Wolf', 'Palisa', 'Rembaut', 'Javelle']
+BODY:
+1909 III (1909b). 
+The second recorded apparition of the short-period 
+Comet Perrine (was not detected in 1902). 
+Discovered photographically 
+according to Ristenpart's ephemeris by Kopff (Konigstuhl) on 12 Aug. ; 
+m=15™,. 
+Located in Andromeda; moved east through Andromeda (August- 
+September), Perseus (September-October), Auriga (October-November) 
+and Gemini (November). 
+2 Sept. to 5 Sept., Wolf (Heidelberg) estimated the nucleus at 14™; easily 
+visible through reflector as a circular, 
+large, nebulous mass. 
+8 Sept. and 
+9 Sept., measured by Palisa (Vienna) with a 27-inch refractor; 
+14™; nucleus 
+at the visibility threshold. 
+18 Aug. to 29 Aug. and 6 Sept., photographed 
+in Greenwich with a 30-inch reflector; observed by Rembaut (Algiers) with 
+a 32-cm 
+refractor; 
+5 Sept. to 13 Sept., very 
+faint 
+circular 
+central 
+con- 
+densation. 
+18 Sept. to 24 Sept., Javelle (Nice) 
+reported 
+a very 
+faint 
+small, 
+circular 
+nebula 
+through 
+a 76-cm 
+refractor; 
+21 Sept., D = 0'.8. 
+Observations in Algiers on 12 Oct. recorded a sharp increase in brightness 
+and size (D#10'); in October, D=2'.5. 
+11 Oct., Wolf's photographs gave 
+m=13™,8; 
+at that time, visible with difficulty through a telescope. 
+6 Nov., 
+not detected visually; 
+9 Nov., not detected photographically; 
+20 Nov., 
+photographed by Wolf (14™.0); 
+in Algiers;“measured last on 19 Nov. when 
+on the visibility threshold (13 to 14™). 
+In January, photographic search in 
+Heidelberg could not detect the comet. 
+Wolf reported that brightness ap- 
+parently varied; 
+in September, visible through a 6-inch refractor (12 to 
+13™); 
+11 Oct. hardly visible through refractor; 
+6 Nov. 
+to 9 Nov. not spotted; 
+20 Nov., m=14™, 
+References: A.N., 182, 183: B.A., 
+27: V.J.S., 45; Holetschek V, p. 98. 
+Orbit: Kobold, —A.N., 182: 405. 
+Taking on 2 Aug. m=15™; 
+in September, 
+14™; 
+11 Oct., 
+13™; 20 Nov., 
+14™, Holetschek obtained H, =14.6 to 167.3, an apparent underestimate, 
+V.I obtained, according to van Biesbroeck's estimates, 
+hyjg=14™.3. 
+For 
+the intrinsic brightness we adopt an Hjg-value smaller by 1”, which is in 
+good agreement with Wolf's observations in September. 
+5 Sept., D=0.8 to 
+Dieu 
+(r, A): 12 Aug. —(1.54, 0.79); 30 Aug. —(1.40, 0.62); 
+15 Sept. —(1.31, 
+O49) 
+Octoe— (152350240) 
+Uo Octal OOo) 
+Nov. 
+(1 417 
+9.0.2.9): 
+20, Nov. —(1:20, 0.29).
+

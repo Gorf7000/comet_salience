@@ -1,0 +1,60 @@
+### ENTRY 030 | 1907 V (1907e) | book p.374 pdf p.193 | pdes=26P | basis=Roman fallback unverified (#5 of 8) | conf=low
+discoverers: ['Mellish', 'Hartwig', 'Wirtz', 'Chofardet', 'Zappa', 'Biesbroeck', 'Holetschek', 'Kobold', 'Giacobini']
+BODY:
+1907 V (1907e). 
+Discovered in Hydra by Mellish (Madison, U.S.A.) on 
+13 Oct.; visible through binoculars (8 to 9™). Moved north-west, passing 
+through Canis Minor, Orion, Taurus (beginning of November), Aries and 
+Pisces (end of November); 
+in December, passed below a Andromedae; 
+in 
+January 1908, observed in Pegasus, 
+15 Oct., Hartwig (Bamberg) saw the comet as a circular object with 
+D=3', m=9™,3, central condensation, possibly a 12" nucleus; on that night, 
+Wirtz (Strasbourg) gave 
+m=9™.3. 
+17 Oct., Chofardet (Breslau) gave m=9™, 
+D=2'; 
+19 Oct., Zappa (Rome) estimated m =9™.5, 
+Van Biesbroeck (Uccle) 
+estimated m=10™ under 240 fold magnification, circular nebulous spot, 
+D=1', 
+Holetschek (Vienna), using a 6-inch refractor, described the comet 
+as a faint, irregular, roundish nebula with no tail and no nucleus. 
+31 Oct., 
+brighter than 107, D=1'.5; 
+1 Nov., 
+8.5 to 9™, D=2 to 3'; 4 Nov., 
+8.5 to 9™, 
+D=4 to 5'; 5 Nov., 9™, D=2 to 3'; 6, 7 and 10 Nov., 8.8 to 9", D=4 to 3!; 
+12 Nov., 
+8.5 to 9”, D=3'; 30 Nov., fainter than 11™; 
+12 Dec., fainter 
+than 12™, 
+2 Nov. to 4 Nov., Kobold (Kiel) with an 8-inch refractor, gave 
+m=9 to 10™, 
+condensation 117, D=4'. 
+12 Nov., Barnard estimated D > 10! 
+through seeker; 21 Nov., Wirtz gave 
+D=2'.5; 28 Nov., m=12™.0, D=3! 
+(through seeker); 30 Nov., 12™.5 and 1.7; 4 Dec., 
+12™.7, 2.5. 
+28 Nov., 
+observed by Giacobini (Nice) at the visibility threshold of a 42-cm refractor. 
+7 Dec., D=3' through 76-cm refractor, very faint, no condensation. 
+Photo- 
+graphed in Heidelberg on 22 Jan. 1908 when mpno = 167.5. 
+References: A.N., 176-181; B.A., 25, 26; Wien Stw. Ann., 
+22; 
+Vedios 
+144 
+Orbit: Kobold. —A.N., 177: 240. 
+From Holetschek and Wirtz, V.I obtained 
+y=20; Hy=8™.4; 
+in C.A.M., 
+Hip =9™.8. 
+In Nov., D=1'.8 to 2.2; 
+12 Nov., Dy(max)= 41.2. 
+(r, 4): 13 Oct. —(1.10, 0.96); 6 Nov. —(1.33, 0.45); 27 Nov. —(1.56, 
+0.66); 13 Dec. 1907 —(1.75, 1.13); 22 Jan. 1908 — (2.25, 2-40).
+

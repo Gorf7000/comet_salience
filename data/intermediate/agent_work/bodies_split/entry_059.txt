@@ -1,0 +1,90 @@
+### ENTRY 059 | 1914 II (1914a) | book p.403 pdf p.222 | pdes=1914 F1 | basis=name (Kritzinger) + year | conf=high
+discoverers: ['Kritzinger', 'Ophiuchus', 'Cygnus', 'Holetschek', 'Biesbroeck', 'Nijland', 'Silbernagel', 'Graff', 'Chofardet', 'Renault']
+BODY:
+1914 II (1914a). 
+Discovered near wy Scorpionis by Kritzinger (Bothkamp) on 
+29 March as a 9™.5 nebula with D=8!' and a faint straight tail 40' long. 
+First 
+spotted as early as 23 March, but taken for a new nebula. 
+Moved north-east 
+through Ophiuchus (April), Hercules, Lyra and Cygnus (May and June); 
+located near y Cygni at the end of May; in July, traversed Lacerta; August 
+to October, descended south through Pegasus; 
+in November and December, 
+located in Pisces. 
+Visible throughout the world due to the exceptionally favorable celestial 
+position and the sufficient brightness. 
+Series of photometric estimates 
+obtained by Holetschek (Vienna), van Biesbroeck (Uccle), Dziewulski (Wilna 
+[Vilnius]), Nijland (Utrecht), Silbernagel (Munich), Graff (Bergedorf), 
+Chofardet (Besancon) and others. 
+31 March, faint; 
+no clear nucleus; trace of a tail at 
+P=270°; 
+Renault 
+(Algiers) gave 
+m=10™5. 
+According to van Biesbroeck, 14Apriland15 April, 
+m =9™.3 through seeker, nucleus 12™, D=10!', faint tail; 
+16 April, m=8™.4 
+(flare ?); 17 April and 18 April, 
+8 to 8™.9; 25 April, 
+8™.5; 26 April to 
+28 April, 
+8.8 to 8.6; 2 May, 
+8™.1. 
+Holetschek reported for 2 May, 8™.6, 
+nucleus 10™, D=5 to 6'; 7 May to 10 May, 8™.7, nucleus 10™.3 to 10™.5, 
+D=4 to 5'; 22 May and 23 May, 8™.8; 
+14 June to 17 June, 
+8™.8 to 8™.7, 
+nuetetisys {ie sD 35a July, 927 2D aoe 4 July, L084, D2" 
+2.Onaky, 
+10™.6. 
+22 June, van Biesbroeck estimated m = 8™.0 (increase in brightness ?); 
+15 July, 97.0; 
+19 July, 9™.4. With the beginning of the war, systematic 
+observations of the comet apparently were discontinued. 
+12 Aug., van 
+Biesbroeck gave 
+m=11™.5; 
+14 Aug., 
+12™, nucleus 137.5, D=0'5; 30Aug., 
+13™, 
+22 Sept., Graff (Bergedorf) could barely observe the comet through 
+a 60-cm reflector (13™). 
+26 Sept., Palisa gave m=13™.6 through a 27-inch 
+refractor. 
+14 Nov., photographs taken at Bergedorf showed m=15™. Photo- 
+graphed last in Bergedorf on 14 Dec.; m=15™. 
+Reteranmces: AXN.--197-202:-M.N;, 75; .L.O.B. 977A. oi? Ann. 
+de Belgique, 1914. 
+Orbit: Chofardet. —A.N., 198: 213. 
+Holetschek's observations in V.I gave 
+y=12.7, Hp =9™.0, h=9™.9, yn = 
+=13.9; 
+in C.A.M., Hip =9™.3. 
+Making use of additional estimates for 
+August to December we obtain, Hig =9".4. 
+Bobrovnikoff making use of 46 
+estimates of Holetschek, van Biesbroeck et al., obtained 
+y=1.0, Hp =10™.4, 
+figures which do not accord with the actual variation in the comet's brightness, 
+since they give m =12™,3 for 14 Nov. and 13™.0 for 14 Dec., deviations of 
+403 
+
+
+2 to 3™ from the observed magnitudes. 
+In March and April, D=5'.6; 
+in 
+June and July, 2'.0 to 1.7. 
+29 March, S=0,017. 
+(r, 4): 28 March —(1.57, 0.77); 
+19 April —(1.41, 0.58); 
+17 May —(1.23, 
+0.50); 4 June —(1.20, 0.56); 4 July —(1.28, 0.66); 
+5 Aug. —(1.52, 0.74); 
+1 Sept. —(1.84, 0.90); 4 Oct. —(2.15, 1.22); 5 Nov. —(2.50, 1.82); 
+11 Dec.— 
+(2.90, 2.66).
+

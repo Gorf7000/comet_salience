@@ -1,0 +1,68 @@
+### ENTRY 104 | 1925 X (1925c) | book p.437 pdf p.256 | pdes=1925 W1 | basis=name (Biesbroeck) + year | conf=high
+discoverers: ['Baade', 'Pisces', 'Biesbroeck', 'Jeffers']
+BODY:
+1925 X (1925c). 
+The sixth recorded apparition of the short-period 
+Comet Wolf (1). Discovered according to Kamienski's ephemeris by Baade 
+(Bergedorf) on 13 July as a faint 15™ nebula. 
+Moved slowly in Pegasus till 
+the end of October, when it passed to Pisces (November, December). 
+18 July, van Biesbroeck (Yerkes Obs.) gave m=15™.5, D=0'.2. 
+Jeffers 
+(Lick Obs.), using the Crossley reflector, obtained 
+m=15™ in June and 
+August; 
+a faint 1' tail pointing south-west. 
+In December m=15™; faint 
+trace of a tail. 
+Van Biesbroeck on 18 Aug. to 22 Aug. gave 
+m=15™.5 to 
+15e) 
+Di= 02-28 Aug. 
+1475551 
+0. Octs. 
+o15™ yD i= 082, cnucleus! 1535-410 Nov. 
+to 12 Nov., 
+16™. 
+19 Dec., plates taken by O. L. Struve through a 24-inch 
+reflector gave 
+m=17™; 
+diffuse nebula at the visibility threshold. 
+Observed 
+also at Bergedorf and Heidelberg. 
+References: 
+B.Z., 7, 8; M.N., 86; Pop. Astr., 34; A.J., 36; 
+VES 
+OS 
+61162: 
+Orbit: 
+Kamienski. —Publ. Obs. Warsaw Univ., 
+1. 
+Kamiensky's study of the motion within Jupiter's sphere of influence 
+from 8 July to 15 Dec. 1922 indicated that the eccentricity should have 
+changed from 0.56 to 0.41, the period increased by 11/2 years, and q 
+increased by 1 a.u. 
+In M.N., 90: 713, Hioiay) 
+= 10™.6; same figure in C.A.M. 
+Bobrovnikoff, 
+Pop. Astr., 56(3), using an erroneous method of reduction obtained Hp=11™.2. 
+437 
+
+
+Kamienski, 
+A.J., 49: 164, found Hj)=10™3. 
+Vsekhsvyatskii, A. Zh., 
+Pate aL 
+1950, reappraising the entire problem of brightness variation, 
+gave for the 
+1925 apparition Hyo ay) = 10.34 with the extreme values 9.8 andy 112.35 
+In 
+July, D=0'.4; 
+in July and Aug., S=0.0006. 
+(rp A)e.13 July’ 
+(2 5'% 2203);010 Augs 
+= (2.54,01773) 
+07 Sept.ga (2247, 
+1.54); 4 Oct. —(2.45, 1.54); 8 Nov. —(2.43, 1.78); 
+19 Dec. —(2.45, 2.28).
+

@@ -1,0 +1,136 @@
+### ENTRY 065 | 1915 II (1915a) | book p.407 pdf p.226 | pdes=1915 C1 | basis=name (Mellish) + year + Roman position 2 | conf=medium
+discoverers: ['Mellish', 'Ophiuchus', 'Scutum', 'Sagittarius', 'Indus', 'Pictor', 'Columba', 'Major', 'Eridanus', 'Taurus', 'Thiele', 'Auzan', 'Holetschek', 'Nijland', 'Luther', 'Abetti', 'Biesbroeck', 'Castro', 'Vanderlinden']
+BODY:
+1915 II (1915a). 
+Discovered in Ophiuchus by Mellish (near Madison, 
+U.S.A.) on the morning of 9 Feb.; the cometary nature of the object was 
+established by the discoverer on 10 Feb. 
+Bright comet, D=3', 
+a very short 
+fan-shaped tail (8 to 9™). Moved south-west through Ophiuchus (February, 
+March), Serpens, Scutum (April, May), Sagittarius (May) and Indus (May, 
+June); then through Tucana, Hydra, Dorado, Pictor (July), Columba (July), 
+Canis Major (August, September), Orion, Eridanus (September) and Taurus 
+(December 1915 to May 1916). After conjunction with the Sun, observed in 
+Auriga in September 1916, 
+16 Feb. 1915, photograph by Thiele (Bergedorf) showed m =9™.17; in 
+February, Abetti estimated the nucleus at 107.0. 
+18 Feb., Auzan (Tashkent) 
+reported a distinct nucleus; no tail. 
+Beginning in March, the comet was 
+407 
+
+
+observed throughout the world. 
+Several estimates of intrinsic brightness 
+were obtained by Holetschek (Vienna), Nijland (Utrecht), Luther (Dusseldorf), 
+Abetti (Arcetri), van Biesbroeck (Uccle), Castro (Santiago), Vanderlinden 
+(Uccle) and others. 
+According to Holetschek and Nijland, 19 March, m= 7m.2; 20 March to 
+22 March, 
+7™.3 to 7.6, nucleus 8™.5 to 9", D=3!.5; 
+tail 20'; 23 March to 
+25 March, 
+7™.1 to 7.3, D=3', 
+tail 30'; 7 April to 9 April, 6™.9, nucleus 
+8™.5, D=3 to 4', tail 1°; 14 April, 67.4 to 6".7, D=4 to 5', tail 1% 222;April 
+to 27 April, 67.2 to 6.4, D=5', tail'30's 
+3¥May; 
+5™.4; 
+8 May to 11 May, 
+5s 4016 
+ia 
+ptanl 
+21°, 
+6 May, Banachiewicz (Englehardt Obs.) and Abetti (Arcetri) reported an 
+elongated double nucleus; 
+the second nucleus preceded the bright one by 
+0'.3 (P =278°). 
+4 May, Castro noticed a protuberance from the nucleus into 
+the coma (D=7') in the direction of the daily motion; 
+16 April, Palisa 
+(Vienna) saw the nucleus elongate. 
+Starting 10 May, a double nucleus was 
+observed throughout Europe; the distance between the two components 
+gradually increased. 
+21 May to 23 May, measurements made from 
+Lampland's photographs (Lowell Obs.) showed the distance between the two 
+components increase from 54 to 64". 
+12 May, Barnard measured two com- 
+ponents of the comet lying in one line. 
+14 May, van der Bilt reported the 
+nuclei to differ by 1™.5 inmagnitude. 16 May, Abetti gives 38"' for the distance 
+between the nuclei. 
+In the southern sky, the comet was photographed at Johannesburg, Sydney 
+and the Cape; measured in Cordoba and in Australia. 
+7 June, sailors saw 
+a 6° tail; bright object easily visible to the naked eye. 
+31 May, Castro 
+measured two faint nuclei (10 and 11™) distinct from the main 7™ nucleus 
+at a distance of 1'.6 and 0'.7 from the main nucleus; intrinsic brightness 4™. 
+5 June, distance of 2'.2 to the secondary nucleus which merged almost 
+totally with the bright coma. 
+12 June, the second nucleus could be observed 
+only intermittently. 
+According to Planau (Cordoba) the comet was already 
+visible to the naked eye on 23 July. 
+11 Aug., tail still visible; 
+16 Aug., 
+m=7™,2; bright coma. 
+17 Aug., 6.2; 
+3 Sept., very short tail. 
+Beginning 
+11 Sept., measured at the Lick Observatory; 
+satellites invisible. 
+13 Sept., 
+reappeared in Europe (nucleus 8™.5). According to Holetschek, 
+8 Nov., 
+m =8™.7; 
+11 Nov. and 12 Nov., 
+8 to 8™.5, nucleus 9%, D=4'!: 
+7 Dec., 9, 
+nucleus 9" 
+7, D=2\o3 
+14 Dect,” 
+9°25," Di=25 
+"26 Dec. 
+e10™2 
+31) Dect. Ww accord= 
+ing to Vanderlinden (Uccle), m=10™5. 
+24 Jan, 1916, photographed in Bergedorf as a faint small condensation 
+of 12™.0; in Uccle, estimated at 13™(on the visibility threshold of a 38-cm 
+refractor). 
+Photographed by Thiele (Bergedorf) up to 25 Sept. 
+References: 
+A: Ny, 2005210; M:N .,75-772 Aids, 29-31; Ann: de 
+Belgique, 14; Lowell Obs. Bull., 8(293). 
+Orbit: Rosenbaum, —Stockholm Iaktt, 10:5. 
+According to the observations of Holetschek and Nijland up to May 1915, 
+V.I gave y=-2.1, Hy=6™.9; 
+in C.A.M., according to numerous estimates, 
+Hip =3™.7. 
+From 78 estimates up to 30 Dec. 1915, Bobrovnikoff obtained 
+y =9.9, Hjp=4™.5, which is very close to our parameters. 
+In March to May 
+1915, D=5.5 to 6".5; 
+in Nov. and Dec? [#41,9"to 3145 (Si0y043ee'Tail mot 
+studied, though apparently it was of type I. 
+Spectrum observed at Lowell Observatory, L.O.B., 2: 151 and Pop. 
+Astr., 23: 309, and also by Glancy, Ap.J., 49: 196. 
+Similar to the spectrum 
+408 
+
+
+of comet 1911 V. Spectrum studied by Adel, P.A.S.P., 49: 254 and 
+Bobrovnikoff, Ap.J., 66: 452. 
+(r, 4): 10 Feb. —(2.57, 2.70); 
+10 March —(2.23, 2.19); 
+10 April — 
+(1.85, 1.33); 
+10 May —(1.50, 0.69); 
+13 June —(1.16, 0.42); 
+13 July —(1.01, 
+0.85); 16 Aug. —(1.12, 1.14); 13 Sept. —(1.38, 1.23); 8 Nov. —(2.04, 1.19); 
+26 Dec. 1915 —(2.62,; 1.80); 20 Feb. 1916’ — (3.27, 3,20);' 27 April —(4.00, 
+4.82); 25 Sept. —(5.49, 5.40).
+

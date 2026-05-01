@@ -1,0 +1,108 @@
+### ENTRY 016 | 1905 IV (1906b) | book p.363 pdf p.182 | pdes=1906 E1 | basis=name (Kopff) + year | conf=high
+discoverers: ['Kopff', 'Wolf', 'Wirtz', 'Graff', 'Barnard']
+BODY:
+1905 IV (1906b). 
+Discovered by Kopff (Konigstuhl) on 3 March 1906 ona 
+photograph of the Virgo-Leo region; 
+a conspicuous nebula with 10™,5 nucleus 
+and a 30' tail. 
+Moved slowly north-west, remaining in Leo; in May and 
+June, returned through Leo and Virgo. 
+In 1906, observed last on 22 June 
+at the Lick Obs. Wolf (Konigstuhl) spotted the comet according to Abell's 
+ephemeris on a plate taken on 14 Jan. 1905 (413 days before discovery), 
+when the comet was near B Tauri and was 12™. 
+It was also detected on two 
+plates taken on 10 Jan. 1904 (Weiss' ephemeris for the opposition of 1904); 
+located in Aries; 
+15™.5. 
+In 1906, spotted at various observatories. 
+Numerous estimates of 
+intrinsic and nuclear brightness were obtained by Wirtz (Strasbourg). 
+In 
+March, m=11™.0, D=0!.7, elongated at 
+P=270°; 
+in April, m=11™.5 to 
+12™.0; in May, 12™.5 to 13™.0, no noticeable fluctuations, 
+tail at P =270°, 
+D=0'.3 to 0.8. 
+12 June, Wirtz gave m=13™.0; nucleus invariably fainter 
+by 0.5; Holetschek estimated the brightness at 10.5 to 11” through a 6-inch 
+refractor. 
+20 March and 29 March, Graff (Hamburg) gave m =10".4 to 10™.5, 
+short fan-shaped tail at 
+P=280°; 
+1 April, 
+a tail well visible; 
+13 May, 
+m=12™.2. 
+17 March, Barnard (Yerkes Obs.), using a 40-inch refractor, 
+reported a faint condensation in front of the nucleus; 24 March, he sawa 
+second nucleus 5" from the first, at 
+P=300°, brightness 14 to 15™, i.e., 
+3 to 4™ fainter than the main nucleus; 
+31 March, 
+the distance between the 
+nuclei increased to 6", 
+. 
+7 March to 13 March, Guillaume (Lyon) and Millosewich (Rome) esti- 
+mated the comet at 10™5; 
+17 March and 18 March, photographic estimates: 
+m=10.5 to 10™.8; 
+15 March to 29 March, Abetti (Arcetri) observed 
+the comet 
+as a 10™.5 star surrounded by faint, hardly noticeable nebulosity. 
+10Sept. to 
+28 Sept., mx12™; 22 May to 25 May, 12™.5; 28 May, at the visibility 
+threshold of a 284-mm refractor. 
+13 May, Millosewich estimated 
+the nucleus 
+at 11” with small, asymmetric nebula; 
+15 June, 
+m=12™.5. 
+19 Sept., Rheden 
+(Vienna) gave m=10"™.5 through a 12-inch refractor, 
+faint coma, D=30". 
+30 March, considerably fainter than 11 to 12™; nebula elongated from the east 
+to the 
+west. 
+12 April, 
+nucleus 13™; 21 April, 
+m=11™.5 to 12™, nucleus 
+13™; 
+19 May, hardly visible (~12™.5); same estimates given in Algiers. 
+11 June, Guillaume gave m=12 to 13™. 
+14 June, observed at the Lick 
+Observatory as fairly bright and well visible through a 12-inch refractor. 
+In the 1907 opposition, 
+spotted photographically by Kopff (Heidelberg) as 
+a 13".8 object. 
+23 March, Javelle (Nice) observed faint comet; m= 14 to 
+15", D=1'.2. 
+20 April to 3 July, observed by Aitken (Lick Obs.) on the 36- 
+inch refractor; located belowa Virgonis. 20April, easily observed, m = 14™, 
+well-shaped nucleus of 15™.5. 
+In June and July, no nucleus, observations 
+difficult. 
+The comet was observed for a total of 40 months. 
+References: A.N., 170-177; B.A., 23-26; L.O.B., 120; A.J., 41; 
+A.N., 247; V.J.S., 42-44. 
+V.I obtained, according to Wirtz's observations, Hj)9=4™.2. 
+Most ob- 
+servers estimated the comet brighter by 0™.5, and therefore it would be 
+363 
+
+
+better to take Hj) =3™.7; from Wirtz, hig equalto4™.7. From estimates for 
+March to June 1907, m=13.8 to 15™; hence Hyg =2™.8 to 3™.5 which empha- 
+sizes that even at large distances the brightness varies in reasonably close 
+accordance with 
+y=10. 
+In March 1906, D,=1'.7; S=0.04. 
+(r, A): 10 Jan. 1904 —(6.43, 6.12); 
+14 Jan. 1905 —(4.20, 3.37); 3 March 
+1906 —(3.57, 2.60); 2 April —(3.67, 2.72); 
+4 May —(3.80, 3.12); 5 June — 
+(3.95, 3.67); 22 July —(4.04, 3.98); 21 March 1907 —(5.70, 4.97); 26 April— 
+(5.93, 4.93); 28 May —(6.14, 5.22); 3 July —(6.38, 5.82).
+

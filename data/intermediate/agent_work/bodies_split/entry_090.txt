@@ -1,0 +1,41 @@
+### ENTRY 090 | 1923 II (1923b) | book p.426 pdf p.245 | pdes=6P | basis=body scan token 'd'arrest' + year | conf=medium
+discoverers: ['Mellish', 'Aquarius', 'Cetus', 'Chofardet', 'Biesbroeck', 'Graff', 'Baade']
+BODY:
+1923 II (1923b). 
+The eighth recorded apparition of the short-period 
+Comet d'Arrest. 
+Spotted according to Cripps and Dubyago's ephemeris by 
+Reid on 1 Dec. 
+Later, spotted by Wood on plates taken in Johannesburg on 
+5 Sept. and 7 Sept., when the comet was in Ophiuchus (14™). 
+Detected for 
+the first time by Reid on 10 Nov. as a new comet: large 11™ object. 
+It was 
+later learned that Mellish (Wilmot, U.S.A.) saw the comet in Sagittarius 
+early in the morning of 5 Oct. 
+Moved parallel to the ecliptic in Aquarius 
+(December) and Cetus (January, February 1924). 
+6 Dec., Chofardet (Besancon) estimated the brightness at 12.5 to 13™ 
+(central condensation apparently). 
+On that night, van Biesbroeck (Yerkes 
+Obs.) observed the comet as a faint circular nebula, D = 45", m=13™ and 
+a central condensation of 14™.5. 
+10 Dec., Graff (Bergedorf) described the 
+comet as a very faint circular nebula D=1', no condensation, m= 12™. 
+28 Jan. 1924, Baade (Bergedorf) reported an extremely faint envelope; m=16™. 
+Ret@erence ss BaZa, Ge. 
+J es oscAn Ni 
+so a0 a VieINes 
+5641s 
+Veal seo. 
+Orbit: Cripps. —B.A.A.J., 33: 294. 
+Apparently a brightness flare after the perihelion passage. 
+For the period 
+of increasing brightness Vsekhsvyatskii, 
+M.N., 90: 712, gave Hy)=9™.8. 
+Making use of September estimates, and also of observations in December 
+1923 and January 1924, we obtain Hig= 10.0 to 13™.9 (11™.4 on the average). 
+In Dee:, DH On7: 
+(r, 4): 5 Sept. —(1.35, 0.73); 4 Oct: —(1.37, 0.86); 4 Nov. —(1.46,.1.08): 
+6 Dec. 1923 —(1.64, 1.45); 28 Jan. 1924 —(2.00, 2.21).
+

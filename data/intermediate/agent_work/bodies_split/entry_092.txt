@@ -1,0 +1,43 @@
+### ENTRY 092 | 1924 I (1924a) | book p.427 pdf p.246 | pdes=1924 F1 | basis=name (Reid) + year | conf=high
+discoverers: ['Reid', 'Eridanus', 'Orion', 'Monoceros', 'Minor', 'Cancer', 'Baade', 'Biesbroeck', 'Merton']
+BODY:
+1924 I (1924a). 
+Discovered by Reid (Rondebosch) on 25 March as a 
+nebulous 10™ star in Fornax. 
+Moved north-east through Eridanus (April, 
+May), Orion (May, June), Monoceros (June, July), Canis Minor (August) 
+and Cancer (September, October); 
+in June, disappeared in the solar rays; 
+spotted at the end of September after conjunction with the Sun. 
+28 March, photographed at the Cape as a large, bright, nebulous spot 
+with strong, 
+central condensation; m=8™; traces of a tail. 
+8 April, Castro described the comet as diffuse; m=10™. 
+Till 31 May, 
+observed through a 28-cm refractor (not fainter than 10 to 11™); in 
+Johannesburg, observed till 29 May. 
+27 Sept., spotted again on a plate 
+taken by Baade (Bergedorf); m=16™. 
+30 Sept., photographed by van 
+Biesbroeck (Yerkes Obs.) through a 24-inch reflector; described as a faint, 
+diffuse, circular nebula with D=0'.2 and 
+m=16™.0. 
+6 Oct., Merton 
+(Greenwich) last photographed the comet through a 30-inch reflector as a 
+14™.5 object. 
+25 Oct., a plate obtained at the Yerkes Observatory did not 
+show the comet among stars as faint as 17™. 
+Reher ence s-7 BYZ,. (63 MaNi853 2A. 236: avid 60622 
+Orbit: )Campaz— Ved. or 
+li: 
+In C.A.M., Hig =9™ (according to the estimates of Baade and van 
+Biesbroeck for Sept. and Oct.). 
+The estimates above give Hi9=4™.8 for the 
+initial visibility period, and Hj)=8™ for the final period; obvious decrease 
+in comet's brightness. 
+D=0'.7. 
+S> 0. 
+(r, A): 23 March —(1.76, 2.19); 
+8 April —(1.81, 2.20); 30 May —(2.11, 
+2.90); 27 Sept. —(2.98, 3.42); 6 Oct. —(3.08, 3.37).
+

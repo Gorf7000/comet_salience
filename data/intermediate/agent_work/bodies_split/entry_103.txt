@@ -1,0 +1,61 @@
+### ENTRY 103 | 1925 IX (1925g) | book p.437 pdf p.256 | pdes=1925 W1 | basis=name (Biesbroeck) + year | conf=high
+discoverers: ['Shain', "Al'bitskii", 'Biesbroeck', 'Jeffers']
+BODY:
+1925 IX (1925g). 
+The fifth recorded apparition of the short-period 
+Comet Brooks (2) (the 1918 apparition was overlooked). 
+Discovered by 
+G.A. Shain (Simeis) on a 9 Sept. plate as a 13™.1 object; cometary nature 
+confirmed from the plates taken by V.A. Al'bitskii (Simeis) on 21 Sept. and 
+24 Sept. 
+Spotted very close to Dubyago's ephemeris position. 
+Located in 
+Aquarius, 
+5° west of the vernal equinox; slowly retrogressed; 
+in November, 
+moved east; 
+in December 1925 and January 1926, moved between Pisces 
+and Cetus. 
+22 Nov. and 24 Nov., Al'bitskii gave 
+m=12™.5, 
+25 Sept., observed in 
+Bergedorf as a 13™,5 object. 
+9 Oct., estimated in Babelsberg at 12™, and 
+on 8 Oct. 
+in Simeis at 12™.0. 
+15 Oct., 
+H. Struve gave m=12™.8; 
+11 Nov., 
+Baade gave 13™. 
+10 Oct. van Biesbroeck (Yerkes Obs.) reported m = 13™.5, 
+nucleus 14™.5, nebula elongated at 
+P=130°% size 42"x24". 
+10 Nov., m=14™ 
+elongated at P= 80° 21 Nove, m=15™ 
+10-Dec., 
+15™/5; on that night, 
+plates taken by Jeffers (Lick Obs.) showed a clear 1' tail (P= 70°). 
+Photo- 
+graphed last at the Lick Obs. on 8 Jan. 1926, when m=16™. 
+Schorr's ob- 
+servations of 15 March were shown by Dubyago not to refer to Comet 
+Brooks (2). 
+References; A.N., 225-227; B.Z., 7, 8; M.N., 86; A.J., 36; 
+Ved 25-,,61;-62. 
+Orbit: Dubyago. —Publ. Obs. Engelhardt, 31, 1950. 
+In M.N., 90: 714, H, =10™1, H, =H, =9.3 to 10™9; same figures repro- 
+duced in C.A.M.; these parameters give m=14™.2 for January 1926, which 
+is slightly higher than van Biesbroeck's and Jeffer's estimates. 
+According 
+to V.P. Konopleva, 
+Publ. Kiev Obs., 
+5: 75, 1953, Hyo(av) = 10™. 4. 
+In Oct, , 
+D,=0'.7. 
+In Dec., S=0.0005. 
+(r, A): 9 Sept. —(1.95, 0,94); 
+.3 Oct. —(1.89, 0.93);. 
+19 Oct.. —(1.88, 
+0.99); 2 Nov. —(1.86, 1.09); 2 Dec. 1925 —(1.89, 1.34); 8 Jan. 1926 —(1.96, 
+1.76).
+

@@ -1,0 +1,56 @@
+### ENTRY 024 | 1906 VI (1906h) | book p.369 pdf p.188 | pdes=97P | basis=name (Metcalf) + year | conf=high
+discoverers: ['Metcalf', 'Wirtz', 'Hartwig', 'Rheden', 'Guillaume', 'Bianchi', 'Esclangon', 'Javelle']
+BODY:
+1906 VI (1906h). 
+Discovered photographically by Metcalf (Taunton, 
+U.S.A.) on 14 Nov. as an 11™ nebula 2' in diameter. 
+Located in Eridanus 
+moving slowly south-west; 
+at the end of December and in January retro- 
+gressed in Eridanus. 
+20 Nov., Wirtz (Strasbourg) and Hartwig (Bamberg) estimated m = 11.0, 
+D=4'.5 (through seeker). 
+20 Nov., Rheden (Vienna) estimated the central 
+condensation at 11™.5 (25 to 30™); 21 Nov., 
+12 to 12™.5, noticeable conden- 
+sation, no nucleus; 20 Nov., Guillaume (Lyon) gave m=11™; 
+22 Nov., 
+Millosewich and Bianchi (Rome) measured the comet as a faint object with 
+a circular 1' head and a 12™ nucleus situated not quite symmetrically; 
+23 Nov., 
+a definite 11.5 nucleus. 
+10 Dec., faint comet with 12™.5 nucleus. 
+11 Dec. and 15 Dec., observations very difficult; 
+18 Dec., comet excep- 
+tionally faint; 
+17 Dec., Wirtz gave m =12™.3, D=1'.5; 
+18 Dec., 
+13™, D=1'. 
+22 Nov., Esclangon (Bordeaux), with a 38-cm refractor, 
+saw two 
+nebulous objects somewhat removed from the comet, which were apparently 
+similar to the satellites of Comet Brooks (1889 V); 23 Nov., 
+satellites no 
+longer observed, and Esclangon discounted his previous report, attributing 
+the phenomenon to water having penetrated the space between the objective 
+lenses. 
+8 Jan. 1907, Barnard observed the comet through a 40-inch refrac- 
+tor; 5, 7 and 8 Jan., Javelle (Nice), using a 76-inch telescope, measured 
+the position (14 to 15™). 
+12 Jan., observed through an 18-inch refractor 
+at the Cape; last observation on 16 Jan. by Simonin (Nice) with a 38-cm 
+refractor (14™ ?). 
+“References: A.N., 173-175; B.A., 24-26; Pop. Astr., 15; V.J.S., 
+42, 44; A.J., 25. 
+Orbit: 
+Bianchi. —M.N., 82: 382. 
+V.I gave, according to Wirtz's observations, Hjg=7™.9, which however 
+is based on an erroneous ephemeris. 
+For the first visibility period the 
+estimates above yield Hjg=9™.5; for Dec. 1906 and Jan. 1907, Hj) =10™.4. 
+In Nov. and Dec. 1906, D,=1'.4. 
+(r, A): 14 Nov. —(1.67, 0.72); 
+11 Dec. 1906 —(1.75, 0.84); 
+1 Jan. 1907 — 
+(1.83, 1.01); 20 Jan. —(1.92, 1.23).
+

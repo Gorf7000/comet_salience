@@ -1,0 +1,73 @@
+### ENTRY 023 | 1906 V (1906d) | book p.368 pdf p.187 | pdes=22P | basis=name (Kopff) + year | conf=high
+discoverers: ['Kopff', 'Taurus', 'Gemini', 'Wirtz', 'Guillaume', 'Brunn', 'Abetti', 'Knopf', 'Rheden', 'Silbernagel', 'Holetschek']
+BODY:
+1906 V (1906d). 
+The third recorded apparition 
+of the short-period 
+Comet Finlay. 
+Discovered photographically according to Fayet's ephemeris 
+by Kopff (Heidelberg) on 16 July; later, detected on a plate taken on 14 July. 
+Located between Aquarius and Cetus, moving north-east; passed through 
+Cetus, Taurus (August), Gemini (September-Ocotber) and Cancer. 
+Upon discovery, bright object; Wirtz (Strasbourg) gave 
+m=9™, D=12'. 
+21 July, described by Guillaume (Lyon) as an 11.5 nebula with diffuse 
+edges (the brightness estimates obviously referred to the central conden- 
+sation). 
+29 July, Brunn (Heidelberg) reported two nuclei through a 12-inch 
+refractor. 
+The favorable position of the comet facilitated extensive observa- 
+tion, e.g., by Abetti (Arcetri), Knopf (Jena), Palisa and Rheden (Vienna), 
+Silbernagel (Munich), Wirtz and particularly Holetschek (Vienna). Hereare 
+selected m-and D-values from Holetschek's data*, 
+27July, 
+m=9™.5, D=10'- 
+13 Aug. to 16 Aug. 9%5; 
+19 Aug: to. 24 Aug....8 to. 9%. 2 Aug., 6 to Gea; 
+D=7 to 12™. 
+27 Aug., Knopf reported the comet equal in brightness to the 
+Andromeda Nebula (5™). 
+30 Aug. and 31 Aug., 6™.8, D=5 to 12'; 27 Sept. 
+ANG LAG OCDUetui 
+OotO nh oO, Di 3s el Go Oct a tOues OCtsanO eo 
+woEtO me sao OO cin. 
+HORE er OU 
+on NOVae 
+howe oe 
+As reported by Wirtz, the comet was invariably difficult to observe, 
+retaining the appearance of diffuse circular nebula without a nucleus and 
+with a very faint condensation; granular structure. 
+22 Oct., nebulaappeared 
+elongated along the parallel. 
+Estimates of brightness maximum made with 
+seeker differred by 1™.5 to 2™ from estimates made with refractor. 
+15 Nov., 
+Przybyllok with the 13-inch Konigsberg refractor described the comet as 
+too faint to observe with any certainty. 
+16 Nov., measured last in Algiers 
+as an exceptionally faint object. 
+Javelle (Nice) could still observe the 
+comet from 14 Dec. to 17 Dec. 1906 and on 5 Jan. and 7 Jan. 1907 witha 
+76-cm refractor (15 to 16™). 
+References: AN. 172-176, B.A., 24, 25: 
+Mi Noy 6%. I. , 25 
+V.J.S., 42, 44; Holetschek V, p. 81. 
+Orbit: Schulhof. —A.N., 172: 29, 
+Holetschek's data gave H,=9".3. 
+In M.N., 90: 713, H,=9™.9, H,=9™1 
+and H, = 12™.6. 
+InC.A.M., Higo=9™.9, 
+an apparent underestimate; 
+Hig = 9™.0 
+is in better agreement with the estimates above. 
+D=3',9 to 2'.3. No tail. 
+(r, A): 16 July —(1.25, 0.35); 
+16 Aug. —(1.03, 0.27); 8 Sept. —(0.97, 
+0.37); 28 Sept. —(1.00, 0.51); 30 Oct. —(1.22, 0.65); 
+1 Dec. 1906 —(1.44, 
+0.70); 7 Jan. 1907 —(1.70, 0.78). 
+* Considerable divergences in values are due to the large apparent size of the head {small A), differences 
+in magnification and methods of estimation. 
+> 
+368
+

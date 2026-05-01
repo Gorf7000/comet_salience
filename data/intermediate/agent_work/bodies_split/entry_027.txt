@@ -1,0 +1,58 @@
+### ENTRY 027 | 1907 II (1907b) | book p.371 pdf p.190 | pdes=1907 G1 | basis=name (Grigg) + year + Roman position 2 | conf=medium
+discoverers: ['Grigg', 'Mellish', 'Barnard', 'Price', 'Bianchi', 'Abetti', 'Javelle', 'Aitken', 'Wirtz']
+BODY:
+1907 II (1907b). 
+Apparently, 
+a return of comet 1742. 
+Discovered in 
+Caelum not far from a Columbae by Grigg (New Zealand) on 8 April. 
+Faint 
+object nearly 15' in diameter; because of poor sky, neither a clear nucleus 
+nor a tail was observed (6 to 7™). Discovered independently by Mellish 
+(Washburn Obs., U.S.A.) on 14 April in Monoceros as faint and diffuse 
+object; spotted by Barnard (Lick Obs.) on a photograph of 13 April. 
+At 
+that time, the comet moved rapidly north; 
+in the middle of April, located 
+in Lynx; in the middle of May, in Ursa Major. 
+15 April, Price (Washington) saw the comet with small instruments 
+(8 to 9™), 
+16 April, Bianchi (Rome) described the comet as faint and highly 
+diffuse; D&1' (apparently central condensation). 
+17 April, Abetti (Arcetri) 
+observed the comet with great difficulty on a poor sky as a small white spot, 
+hardly distinguishable in the field of vision (9 to 10™). 
+30 April, Javelle 
+(Nice) measured the comet with a 76-cm refractor as a diffuse nebula, 
+D=3 to 4'. Observed by Aitken (Lick Obs.) with a 12-inch refractor. 
+17 April, visible through a 3-inch seeker even after the near-by Moon had 
+risen; absence of a condensation made measurements difficult (8 to 9™). 
+16 April, D=2', almost circular comet with a wide V-shaped tail 8' long. 
+Rapidly grew faint. 
+7 May, difficult to observe through a 36-inch refractor; 
+7 May, Wirtz (Strasbourg) measured the comet as a diffuse nebulous spot 
+without a nucleus; 
+10 May, inner condensation 1'.5 in diameter; 
+7 May, 
+m=10™.9, D=3',3; 
+10May, 11™.5, 3'; 14 May, 
+12™.0, 
+2'.5. 
+7 May, plates 
+taken in Heidelberg showed the comet as a uniformly faint nebula with an 
+exceptionally faint eccentric nucleus; fainter than 12™.5. 
+References: A.N., 174-176; M.N., 68; L.O.B., 120; V.J.S., 44. 
+Orbit: Weiss. 
+— Denksch. Wiener Ak., 84:12. The probable identity with 
+comet 1742 was first suggested by Berberich. 
+Orbit calculated by assuming 
+a period of 165 years; encounter with the orbit of Saturn and the orbit of 
+Earth at the descending node. 
+V.I gave, according to Wirtz, y=21, Hjj)=9™.7; 
+in C.A.M., Hjg=10™.6; 
+from first estimates, we obtain Hjyg=10™.4, 
+In April and May, D,=4.5 to 3'; 
+in April, 5=0.0009a.u. 
+(r, 4): 8 April —(0.95, 0.30); 20 April —(1.02, 0.39); 2 May—(1.12, 0.77); 
+14 May —(1.24, 1.14).
+

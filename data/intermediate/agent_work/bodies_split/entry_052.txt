@@ -1,0 +1,24 @@
+### ENTRY 052 | 1913 I (1912d) | book p.397 pdf p.216 | pdes=15P | basis=Roman fallback unverified (#1 of 8) | conf=low
+discoverers: ['Lowe']
+BODY:
+1913 I (1912d). 
+Discovered in Virgo on 31 Dec. by Lowe (Laura, South 
+Australia) with a 3-inch telescope. 
+2 Jan, 1913, located near y Hydrae; 
+indetectible with the naked eye or binoculars. 
+Observed only by Lowe on 2, 
+4 Jan. and 5 Jan. 
+last observation on 9 Jan., when in Scorpio. 
+Misunder- 
+standing due to error in telegraphic notification ruled out observations in 
+Adelaide and Melbourne. 
+According to Lowe's descriptions, a typical comet 
+thus could have had a faint tail; not fainter than 8™, 
+References: A.N., 194; M.N., 74; V.J.S., 48; Ann. de Belgique, 
+LOOMS: 
+Orbit: Viljev. —A.N., 195: 415. 
+Taking m=9™on 31 Dec., S.K. Vsekhsvyatskii obtained Hj) =11", 
+better approximation: 
+Hj9=9™. 
+(r, A): 1 Jan, 1913 —(0.98, 0.83).
+

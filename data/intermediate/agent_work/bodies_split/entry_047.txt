@@ -1,0 +1,82 @@
+### ENTRY 047 | 1911 VIII (191le) | book p.393 pdf p.212 | pdes=24P | basis=name (Schaumasse) + year | conf=high
+discoverers: ['Schaumasse', 'Knox-Shaw', 'Perseus', 'Auriga', 'Lynx', 'Castro', 'Padova']
+BODY:
+1911 VIII (191le). 
+The second recorded apparition of the short-period 
+Comet Borrelly. 
+Discovered visually according to Fayet's ephemeris by 
+Knox-Shaw (Helwan) on 19 Sept.; discovered independently by Schaumasse 
+(Nice) on the same night; estimated at 13™, 
+Located between Fornax and 
+Eridanus; 
+in December, moved north-west through Eridanus; 
+in December, 
+crossed Cetus; 
+in January 1912, moved in Aries; then passed through 
+Perseus (February), Auriga (March) and Lynx (April). 
+Approaching both the Sun and the Earth the comet grew brighter. 
+22Sept., 
+nucleus estimated at 12™ in Algiers; 2 Oct., nebula elongatedby 3/4, nucleus 
+117.5; 
+19 Oct., nucleus 11™; 27 Oct., nucleus 10™.5, 
+D=3/4!. 
+In November 
+m =9.7 to 10™(Cordoba); 
+16 Nov., 
+in Nice estimated at 9™; 25 Nov., 
+8™.5; 
+nucleus estimated at 11” simultaneously in Athens and Besancon. 
+27 Nov., 
+Grandon and Castro (Santiago) gave m =9 to 10™, nucleus 117.5, D=3 
+to 4'; 
+26 Nov., tail less than 30' long; 
+11 Dec., m=9™.2 (Athens); 
+17 Dec. and 
+18 Dec.; m=9.5 to 8™.5, D=2.5 to 3' (Nice); 20 Dec. to 26 Dec., m=8.4 
+to 9™.3, central condensation 10", D=3 to 4' (Padua, Algiers, Milan). 
+Padova (Padua) measured the brightness with a wedge photometer; 
+8 Jan., 
+393 
+
+
+m=9",6; 
+10 Jan., 10.2. 
+These measurements are in good agreement with 
+estimates in Santiago, Nice and Algiers; 
+at that time, D=3 to 4'. 
+At the 
+end of January, m=11 to 11™.5 (Algiers); 
+9 Feb., m= 117.8; 
+19 Feb, , 12™. 
+At the end of March, grew fainter; 
+6 March to 11 March, m=12™.5 to 
+13™,3; 21 March, 
+13™.5 (Algiers); 4 April, 
+13™.2 (Nice); 
+3 May, m=14™ 
+(Algiers); 6 May to 8 May, still measured; fainter than 14", 
+In December, 
+tail reported in Santiago and Algiers and on 17 Jan., 
+in Leiden. 
+References: A.N., 189,194; B.A’, 30; M.N., 72; V.J.5., 47, 48; 
+Ann. de Belgique. 1914; Holetschek V, p. 110. 
+Orbit: Fayet. —J. Obs., 8:123. 
+Holetschek obtained from numerous brightness estimates H,; =9™.2 to 
+11™.5 and adopted 
+H=10™5. 
+B.A. Vorontsov-Vel'yaminov, ASG 
+23°84 
+found hg =10™.2; y=8.2. 
+C.A.M. obtained Hjj=9™.5 from the averages cal- 
+culated by Holetschek which are in good agreement with 
+y=10. 
+D,=2'.4 to 
+0'.8 and 0!.4 for central condensation. 
+S=0.002 to 0.005. 
+(r, A): 19 Sept.. —(1.72, 1.02); 
+19 Oct..—(1.56, 0.76); 20 Nov. —(1.44, 
+0.55); 
+18 Dec, 1911 —(1.40, 0.53); 23 Jan. 1912 —(1.46, 0.78); 20 Feb. — 
+(1.57, 1.10); 23 March —(1.75, 1.50); 
+8 May —(2.07, 2.14).
+

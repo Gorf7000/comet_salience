@@ -1,0 +1,33 @@
+### ENTRY 020 | 1906 II (1906c) | book p.366 pdf p.185 | pdes=1906 F1 | basis=name (Ross) + year | conf=high
+discoverers: ['Ross', 'Giacobini', 'Wirtz', 'Abetti']
+BODY:
+1906 II (1906c). 
+Discovered in Cetus by Ross (Melbourne) on 18 March. 
+17 March (according to universal time) as an 8™ circular object, D=3', 
+with small central condensation. 
+Moved north; at the beginning of April, 
+entered Aries. 
+19 March and 20 March observed by Giacobini (Nice) and estimated at 
+8™, 
+21 March, Wirtz (Strasbourg) saw the comet as a diffuse nebula with 
+D=2'5, m=10™1, 
+29 March and 31 March, Abetti (Arcetri) observed the 
+comet at an altitude of 5 to 8°. Observations discontinued on 3 April at 
+Washington and Lick Observatories because of poor visibility and proximity 
+to the Sun. 
+366 
+
+
+Rewsere nice 
+swA.N..4171,172:, B.A. 24; Aad... 25;..L...0.B.,..104; 
+Vode 
+teeter 
+Orbit: Lamson. —B.A.A., Mem., 26(2): 14. 
+In V.I, Hip 
+=10™.2; same figure given in C.A.M. 
+In March, D, = 41.5. 
+(r, 4): 5 March —(0.76, 1.32); 
+18 March —(0.83, 1.50); 
+3 April —(1.08, 
+82s
+

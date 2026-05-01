@@ -1,0 +1,24 @@
+Skipped entries (no usable numeric H10 in Big V text)
+======================================================
+
+1911 VII (1911h) — page 393 — modern_pdes 24P (Schaumasse first apparition)
+  Reason: No reliable numeric H10 cited. Vorontsov-Vel'yaminov derived
+  photometric parameters from 12 observations but Big V notes 'the mean
+  error in H0 is 4m.4, which exceeds the figure itself by a factor of 2.5'.
+  No C.A.M., V.I, V.II, E-II, E-I or other authority value cited. Per sec 3.5,
+  skip rather than guess.
+  Notes printed: D1=6'.2 in Dec 1911, 3'.1 in Feb 1912.
+
+1924 IV (1924d) — page 429 — modern_pdes 1924 R1 (WRONG; that's Finsler/entry 93)
+  Reason: Designation cannot be reliably resolved. JSONL Roman-fallback gave
+  1924 R1, but that is Finsler (entry 93). Body: discovered by Wolf
+  (Heidelberg) on plates 22 Dec 1924; very faint 16m cometary object;
+  Przybyllok orbit T=1925-Jan-10.957 q=2.428 e=0.371 P=7.59 yr — periodic.
+  Target list contains 113P/Spitaler 1924-07-08 (T=Jul 1924, six months earlier
+  — does not match) and 14P/Wolf 1925-11-08 (T=Nov 1925, ten months later —
+  does not match). No single-apparition designation in target list matches
+  T=Jan 1925 q=2.43. Could be a periodic comet not in the target list, or a
+  later-rejected single observation. C.A.M. H10=11m.8; Kanda H10=14m.0 y=5;
+  Big V H10=11m.4 y=10. Skip per sec 3.7 (designation unresolved); H10 value
+  available if designation is later resolved.
+

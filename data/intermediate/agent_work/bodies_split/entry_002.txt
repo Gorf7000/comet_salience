@@ -1,0 +1,45 @@
+### ENTRY 002 | 1901 II (1901b) | book p.353 pdf p.172 | pdes=2P | basis=body scan token 'encke' + year | conf=medium
+discoverers: ['Wilson', 'Gemini', 'Ophiuchus', 'Abetti', 'Cerulli', 'Tebbutt']
+BODY:
+1901 II (1901b). 
+The twenty ninth recorded apparition 
+of Comet Encke. 
+Spotted near Thonberg's ephemeris position by Wilson (Northsfield) on the 
+morning of 5 Aug. Located in Auriga, moved through Gemini (August), 
+Cancer (end of August) and Leo (beginning of September) and then passed 
+rapidly to Ophiuchus (October). 
+8 Aug., observers in Konigsberg and Heidelberg reported a very diffuse 
+comet lacking any sharp nucleus, D=1'; 9 Aug., central condensation, 
+. 
+nonhomogeneous nebula; 
+11 Aug., nucleus more obvious. 
+17 Aug., Abetti 
+(Arcetri) reported bright, apparently elongated comet; 
+19 Aug., nebula 
+with D=1'.5, as bright as an 8.0 comparison star. According to Holetschek, 
+18 Aug., m=8™,1; 
+19 Aug., 7™7; 22 Aug. and 23 Aug. 7™.5 to 77.6; 25Aug., 
+8™; 2 Sept., 
+in bright twilight, 
+6™.5. 
+At that time the nucleus increased in 
+brightness from 9™.5 to 8™, D=1'. 
+Brightness estimates were also made 
+in Strasbourg and Bamberg. 
+1 Sept., Cerulli (Teramo) reported traces of 
+a tail at 
+P=250°. 
+4 Sept., measured last in bright twilight, at Konigsberg. 
+At the beginning of October, Tebbutt (Windsor) failed to detect the comet 
+in evening twilight (fainter than 8 to 9™), 
+References: A.N., 156-158; A.J., 21; V.J-S., 37, 38; HoletschekIV, 
+p. 90: 
+Orbit: Backlund. —Mém. Acad. Petersburg, 8(2). 
+Holetschek, making use of his own estimates and those of other observers, 
+obtained H; =7™.6 to 8™.5; nucleus 9™.1 to 10™. 
+In C.A.M., Hj) =9™.1. 
+8 Aug. to 18 Aug., D,=1'.4 to 1.7; 22 Aug. to 24 Aug., 2'.5. 
+S>0. 
+(r, A): 5 Aug. —(0.98, 1.42); 15 Aug. —(0.81, 1.31); 25 Aug. —(0.63, 
+1.26); 4 Sept. —(0.46, 1.27).
+

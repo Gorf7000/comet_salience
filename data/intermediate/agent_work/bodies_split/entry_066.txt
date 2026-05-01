@@ -1,0 +1,41 @@
+### ENTRY 066 | 1915 III (1915b) | book p.409 pdf p.228 | pdes=7P | basis=body scan token 'winnecke' + year | conf=medium
+discoverers: ['Thiele', 'Castro']
+BODY:
+1915 Ill (1915b). 
+The ninth recorded apparition of the short-period 
+Comet Pons-Winnecke (nine apparitions were overlooked). 
+Spotted by Thiele 
+(Bergedorf) on a plate of 4 April; estimated at 16™; located in Leo Minor, 
+moving south, 
+In April and May, observed at Bergedorf. 
+July to October, measured at 
+southern observatories with reasonably large telescopes. 
+According to 
+Glancy's observations (Cordoba) with a 12-inch refractor, m=10™ in 
+September; circular comet, nucleus observed intermittently; 
+7 Oct., 
+m=9™.5, D=0'.7, faint eccentric nucleus; 
+28 Oct., 9™.3. 
+11 Oct., Castro 
+(Santiago), through a 24-cm refractor, saw a diffuse coma 2! in diameter. 
+According to estimates in Johannesburg, 
+2 Nov., an 11™ nucleus; 
+8 Nov., 
+12™, 
+11 Nov., measured with difficulty in moonlight at Cordoba (11 to 12™). 
+References: A.N., 200-203, 209; A.J., 31; IA.U.C., 32; Holetschek 
+V; Bp. 14. 
+Orbit: Hillebrand. —A.N., 200: 182. 
+The data for this apparition re- 
+sembled those of the 1886 apparition. 
+Holetschek estimated H, =10™.0; 
+in M.N., 90: 713, Vsekhsvyatskii ob- 
+tained he 92 one p 
+6 43, Ins. AM... Hig= Osta ADOC wn 
+pOgemceers 
+(r, A): 4 April —(2.14, 1.41); 
+11 May —(1.78, 1.47); 
+1 June —(1.30, 1.42); 
+24S epin —(daGans1, 02). 2eNOV os Kl 
+34 lo).
+

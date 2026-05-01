@@ -1,0 +1,82 @@
+### ENTRY 017 | 1905 V (1905b) | book p.364 pdf p.183 | pdes=1905 W1 | basis=name (Schaer) + year | conf=high
+discoverers: ['Schaer', 'Wolf', 'Bilt', 'Hartwig', 'Abetti', 'Holetschek']
+BODY:
+1905 V (1905b). 
+Discovered by Schaer (Geneva) on 17 Nov. 4° from the 
+north pole as a bright 7™ nebula with a diffuse 10 to 11” nucleus. 
+Moved 
+very rapidly through Cepheus, Cassiopeia, Andromeda and Pegasus; at 
+the beginning of December, passed through Pisces; in December, located 
+in Aquarius. 
+20 Nov. and 21 Nov., Wolf (Heidelberg) saw the comet with the naked 
+eye (5.5 to 6™.5); at that time, van der Bilt (Utrecht) 
+and Hartwig (Bamberg) 
+with binoculars and telescope estimated m =7™.0 to 7™.5*). 
+20 Nov. and 
+22 Nov., Nijland and Graff reportedm = 7.2, nucleus 10™.8 24 Nov., Ambronn 
+reported very diffuse, 
+m=7 to 7™.5, suggestion of a tail; 
+according to 
+Nijland, m=7™.3. 
+25 Nov., Abetti (Arcetri) gave m 
+7™ through binoculars 
+and 8 to 9™ through a refractor. 
+26 June, Millosewich estimated the conden- 
+sation at 8™.5; tail at 
+P=45°; at that time, observers in Copenhagen and 
+Berlin estimated the brightness at 97.0 to 9™.5 (central condensation). Photo- 
+graphs taken by Wolf (Heidelberg) on 21 Nov. showed several rays anda 
+narrow, 
+faint, irregular tail 1°33' long. 
+2 Dec., Abetti compared the comet 
+to a nebulous 10™ star. 
+14 Dec., m=11™, rarefied nebula with a very small 
+nucleus occasionally visible. 
+15 Dec. to 16 Dec., m#12™ with a variable 
+nucleus of 12.5 to 13™ which repeatedly disappeared; 
+17 Dec. to 21 Dec., 
+at the visibility threshold (12 to 13™). 
+According to Holetschek (Vienna) with a 6-inch refractor: 
+23 Nov., 
+m = 8™.2, D=5 to 6', nucleus 9 to 97.5; 25 Nov., m=7™.7, 
+D=6!', nucleus 
+97.5; 26 Nov., m=8™.0 to 8™.2; 
+18 Dec., m=10™.7; 
+25 Nov., Wirtz 
+(Strasbourg) reported a change in the appearance of the central condensation. 
+27Nov. and28Nov., gossamer tail at 
+P= 70°; 25 Nov. to 29Nov., m= 8™.6to 
+87.9, D=10 to 15'; 17 Dec., m=12™,.0, D=1'.5; 
+14 Jan. 1906, not detected 
+in good transparency and dark sky. 
+In December 1905, bright comet; 
+14 Dec., Przybyllok (Konigsberg) described it as diffuse nebulous mass 
+without nucleus. 
+15 Dec. and 16 Dec., Howe (Denver) saw a tiny starlike 
+nucleus through a 24-inch refractor; 25 Dec. and 28 Dec., nucleus still 
+visible. 
+Measured last on 29 Dec. at the Lick Obs. and on 30 Dec. 
+in Nice. 
+References; A.N., 169-174; M.N., 66;B.A., 23-25; ViEde Seen 4 Ln 2 
+Orbit: Zappa. —A.N., 174: 187. 
+V.I gave, according to Wirtz and Nijland, y=18.5, H)j=9™.5, hyp = 12™.4; 
+in C.A.M., Hijp=10™.3. 
+Making use of Wolf's estimates and other binocular 
+observations for 20 Dec. to 22 Dec., we obtain Hjg=8™.9. 
+In Nov., D, = 3.6 
+to 4.0 (Wirtz) or 2'.0 (Holetschek). 
+21 Nov., S=0.0097. 
+K.D. Pokrovskii, A.N., 170: 223, considering the deviation measured 
+by Wolf of the tail from the extension of the radius-vector (5°.7), classified 
+the tail as type II. The presence of ray systems and the general appearance 
+of the tail rather suggests type I. 
+* This divergence is explained by the fact that, at small A and considerable angular dimensions of the comet, 
+application of different observational means reduces the apparent brightness. 
+364 
+
+
+Cea A) sel 
+teNowe G12; 0.26); 20 Nov. —Nulnt2 0.24) BOMNOven-tle2s 
+0.46); 
+14 Dec. —(1.33, 0.94); 30 Dec. —(1.50, 1.49).
+

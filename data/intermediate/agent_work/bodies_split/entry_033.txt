@@ -1,0 +1,195 @@
+### ENTRY 033 | 1908 III (1908c) | book p.375 pdf p.194 | pdes=1908 R1 | basis=body scan token 'morehouse' + year | conf=medium
+discoverers: ['Borrelly', 'Moines', 'Cepheus', 'Lyra', 'Aquila', 'Sagittarius', 'Telescopium', 'Chamaeleon', 'Vela', 'Pyxis', 'Holetschek', 'Nijland', 'Wirtz', 'Biesbroeck', 'Abetti', 'Buttner']
+BODY:
+1908 III (1908c). 
+Discovered at the Des Moines (Iowa) University 
+Observatory on 1 Sept. by Morehouse on a photograph showing the comet 
+as a 9™ object with a long tail. 
+Discovered independently by Borrelly 
+(Marseilles) on 3 Sept. 
+One of the remarkable comets of the 20th century that played a particular 
+role in the evolution of our knowledge of the processes in cometary heads 
+and tails. 
+Located in Camelopardus; moved through Cassiopeia, Cepheus 
+(September), Cygnus, Lyra (October), Hercules, Aquila (November), 
+Scutum and Sagittarius (December) approaching conjunction with the Sun. 
+At the northern observatories, observed till 14 Dec. (Rome and Lick Obs.); 
+in the southern hemisphere, observed from 22 Jan. 1909. 
+Passed through 
+Corona Australis, Telescopium (February 1909), Pavo, Apus, Chamaeleon 
+(March), Carina, Vela (April) and Pyxis (May). 
+Favorable celestial position and considerable brightness of the comet 
+enabled numerous observers to obtain prolonged series of photometric, 
+photographic and spectrographic observations. 
+The most important were 
+the estimates of intrinsic and nuclear brightness and size of head and tail 
+undertaken by Holetschek (Vienna) 13 Sept. to 5 Dec., Nijland (Utrecht, 
+375 
+
+
+14 Sept. to 19 Nov.), Wirtz (Strasbourg), 
+5 Sept. to 8 Dec., van Biesbroeck 
+(Uccle), 30 Sept. to 11 Dec., Abetti (Arcetri), 28 Sept. to 27 Oct., and 
+Buttner (Breslau), 
+13 Oct. to 13 Dec. 
+Plate XXXI, Comet 1908 III (Morehouse). Photographed by S. K. Kostinskii on 
+23 Oct., exposure 2 hours 
+In September, 
+the intrinsic brightness increased from 9 to 6™; D#&5'; 
+tail traced visually over 1°5; brightness fluctuated by 1™ within few hours. 
+In the middle and the end of October, m#5™; D=3'.5; 
+tail 4.5 long. 
+In 
+November, m=5.2 to 5.4; D=4 to 3'; tail 3 to 5° long. 
+15 Sept. to 28 Nov., 
+Bemporad made observations with a wedge photometer. 
+In December, 
+m =5™,4 to 57.8; 30 Jan. 1909, Prager gave m=6™.3; silvery-white comet. 
+Remarkable photographs were taken by Barnard (Yerkes Obs. ), and many others. 
+Numerous photographs were taken in February and March 1909 by Curtis 
+in Santiago (Lick Obs. expedition). The photographs revealed the complicated 
+ray structure of the head and the tail, and rapid changes occurring in the 
+376 
+
+
+envelopes and the tail. 
+The most remarkable cases of motion of tail con- 
+densations occurred on 16, 29 to 30 Sept.; 
+1 Oct. 
+to 2 Oct.; 
+6 Oct. to 
+7 Oct.; 
+15 Oct. to 17 Oct. 
+At the end of September, 
+the tail was 6 to 8° 
+long; 
+in October, 
+9 to 11°; in November, 
+8 to 11°. 
+Observers, 
+particularly 
+Barnard and Wolf, studied the numerous instances of high activity of the 
+comet and interesting cases of ''waves'"' in the tail. Enormous accelerations 
+were determined by Eddington who studied the motion of the envelopes and 
+the rays. 
+Measuredfirst on 10 May 1909 by Ristenpart (Santiago) witha 24-cm refractor. 
+References: A.N., 178-184; B.A., 26-28; M.N., 69, 70; Ap.J., 
+28, 2O29AGI. 
+(267) By AGAIN 
+119; Pop.’ Astr. ,.16;5V.7.8. 9 44<48;, LO. By, 
+161, 163; Mitt. Pulkovo, 3(27). 
+Orbit studied by van Biesbroeck, 
+Publ. Yerkes Obs., 8(5): 17. 
+Photometric parameter obtained for the first time by S. V. Orlov, A.N., 
+189: 1. From the observations of Holetschek, Nijland, Wirtz, 
+et al., we 
+obtain y=8.8, Hp =4™.3, hp =4™.2. InC.A.M., Hjg=4™”.2. Bobrovnikoff obtained 
+from 110 estimates y=12.5, Hy=4™.0 and y= 12.9, Hg = 3™.94; °D, = 3'.8, nucleus 
+0'".7 in diameter. 
+S=0.19. 
+Numerous investigations were based om the observations of this remark- 
+able comet. 
+Eddington, M.N., 70: 442, analyzing Greenwich plates to deter- 
+mine repulsive accelerations 
+of the order of 800 to 2300, and even 6500 
+relative 
+to the acceleration 
+of solar attraction. 
+S.V. Orlov, 
+Publ. 
+Russ. 
+Astr. Soc., 3, 1909, 2, 1910, showed that the cometary tail was of type I; 
+the motion of condensations yielded 
+1+u=72 and 162. 
+A new method for 
+the determination of orbits of condensations was developed by A.J. Orlow 
+in application to Comet Morehouse, Publ. Yurev Univ. Obs., 21(3), according 
+to his data 
+1+u4=60. 
+Motion of cloud formations studied by K. D. Pokrovskii, 
+A.N., 184: 3 (1+M=105); Bobrovnikoff, L.O.B., 398 (1+ 
+=88-151); 
+Carrington, 
+Aa J., 1002, 1003 (1 +u=60-1367) and.s. V. Orlov, A: Zh. .1: 73, 
+Sabo 
+one 
+Spectrum observed and investigated by Baldet, Ann. Meudon, 7:24; de 
+la Baume Pluvinel, Ap.J., 
+34:89; Campbell and Albrecht, Ap.J., 29: 84; 
+Fowler, Ap.J., 35: 85; Frost and Parkhurst, Ap.J., 29:55; Rosenberg, 
+Ap.J., 30: 267; Curtis, L.O.B., 5:135; Deslandres, Barnard and Bosler, 
+C.R., 147: 774, 951 and 148: 805; Hartman, A.N., 181: 21; Konkoly, A.N., 
+188, 189; Pickering, A.N., 179: 383; Riccd, Mem. Spec. It., 38: 41; 
+S.V. Orlov, A.N., 225: 397; Bobrovnikoff, Ap.J., 66:440. 
+The cometary 
+emission was characterized, according to Fowler, by an almost total ab- 
+sence of the continuous spectrum and by a strong tail system of CO II and 
+Ne II doublets. 
+G.A. Tikhov, Publ. Pulkovo Obs., 3: 94, 1909, determined 
+the color-index of the comet and its variation with the time; he also deter- 
+mined the brightness of the head and the tail in various spectral bands. 
+(r, A): 1 Sept. —(2.00, 1.65); 8 Oct. —(1.61, 1.06): 24 Oct. —(1.41, 1.07); 
+SeNover— (leet linen) comNOVve 
+“(i Ure laa4) Tec. —=(0L0G, Lava): s2onoeck 
+1908 —(0.95, 1.88); 4 Jan. 1909 —(0.96, 1.94); 
+1 Feb. —(1.15, 1.79); 
+1 March 
+= 
+40, 1 45)° 82 ADC + (t,55, lao), 
+10 May (2.95, 2.02): 
+19091(1909a). Discoverednear o Trianguliby Borrelly (Marseilles) on 14 
+June and independently by Daniel(Princeton)on15June. Visible through small 
+telescope (9 to 9™.5), moving rapidly north-east. 
+Passed through Andromeda 
+and Perseus; from the beginning of July, moved in Camelopardus; July and 
+August, a subpolar luminary. 
+377 
+
+
+16 June, Wirtz (Strasbourg) estimated m = 10™,3. 
+17 June, Hartwig 
+(Bamberg) gave 
+11™.0; circular faint,, eccentric condensation DH 2's 
+At 
+that time, Millosewich (Rome) reported a bright circular head and an 11” 
+nucleus (9 to 10™), 
+23 June, van Biesbroeck (Uccle) gave 
+m=10™.5, central 
+condensation; 
+22 June, Holetschek (Vienna) estimated m =9™.5 with a 6-inch 
+refractor, 
+but considering the low altitude m =9™.0. 24June,m=9™; D=1'.3; 
+on that day, Kritzinger reported a 10™.5 condensation. 
+25 June, Kritzinger 
+saw a 5! jet; 28 June, Abetti estimated the comet at 9™; 
+1 July, hardly 
+visible in moonlight (11™). 
+1 July, in moonlight, Javelle (Nice), with a 76-cm refractor, reported 
+a whitish spot, From 8 July, D=1.5 to 2'; grew considerably fainter. 
+16 July, D=1'; visible through seeker (10™), 
+28 July, hazy whitish glow. 
+11 July and 19 July, measured by Schiller (Bothkamp) 
+with a 29-cm refractor; 
+diffuse comet with granular condensation (11 to 12™), 
+23 July, observed with 
+a 12-inch telescope at the Detroit Obs. 
+20 July and 27 July, measured by 
+Palisa (Vienna) with a 72-cm refractor; on the last day, extremely difficult 
+to observe (no: nucleus, 
+no condensation). 
+Last measured visually inAlgiers 
+on 30 July. 
+19 Aug., on two plates taken by Wolf (Heidelberg), comet was 
+considerably fainter than Halley's comet photographed on 28 June (fainter 
+than 16™). 
+References: A.N., 181-187; B.A., 26; Wien Stw Ann., 
+22; A.J., 
+27; 
+V.J.S5., 45, 46. 
+Orbit: Gabba. —R. Oss. Brera, 
+57. 
+In V.I, Hip =10™9; same figure inC.A.M. 
+In June, D,=1'.9. 
+(r, A): 14 June —(0.86, 0.90); 4 July —(1.00, 1.12); 24 July —(1.22, 1.38); 
+19 Aug. —(1.56, 1.67).
+

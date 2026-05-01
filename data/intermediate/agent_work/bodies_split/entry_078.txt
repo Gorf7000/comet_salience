@@ -1,0 +1,89 @@
+### ENTRY 078 | 1919 III (1919b) | book p.418 pdf p.237 | pdes=15P | basis=Roman fallback unverified (#3 of 7) | conf=low
+discoverers: ['Metcalf', 'Giacobini', 'Leiner', 'Ostrovlev', 'Selivanov', 'Hydra', 'Holetschek', 'Nijland', 'Hopmann', 'Wirtz', 'Hellerich', 'Ebell', 'Luther', 'Abetti', 'Nabokov', 'Barnard', 'Vanderlinden']
+BODY:
+1919 III (1919b). 
+The second recorded apparition of the periodic Comet 
+Brorsen-Metcalf (1847 V). Discovered by Metcalf (South Hero, U.S.A.). 
+on 20 Aug. as a bright 8™ nebula in Pegasus. 
+21 Aug., discovered independ- 
+ently by Giacobini (Nice), 27 Aug., by Leiner (Constance), 28 Aug. , by 
+Ostrovlev (Feodosiya), 
+1 Sept., Selivanov (Petrograd). 
+First orbit calcula- 
+tions indicated identity with Comet Brorsen. 
+Moving very rapidly north, passed through Lacerta; 
+31 Aug., located 
+in Cepheus; at the beginning of September, traversed Cepheus, Draco and 
+Ursa Minor, passing 13° from the pole; passed through the dipper of Ursa 
+Major; 
+in the second half of September, descended south; moved between 
+Ursa Major and Canes Venatici; passed through Coma Berenices (beginning 
+of October), Virgo, Hydra (October, November); located in Centaurus in 
+December. 
+Observations of physical features and brightness estimates were due to 
+Holetschek (Vienna), Nijland (Utrecht), Hopmann (Boni), Jost(Johannesburg), 
+Wirtz (Kiel), Hellerich (Kiel), Ebell (Kiel), Luther (Dusseldorf), Abetti 
+(Arcetri), Selivanov (Petrograd), Nabokov (Pugachev), van Biesbroeck and 
+Barnard (Yerkes Obs.), Vanderlinden (Uccle) and others. 
+The comet evolved as follows: 
+24 Aug. and 25 Aug., irregular diffuse 
+nebulous spot of 7 to 8™, no nucleus (Abetti). 
+27 Aug. and 29 Aug., m=7.5 
+to 8™; D=8 to 10' (Holetschek, Abetti). 
+1 Sept., visible to the naked eye, 
+m =5™,8 (Chofardet), 
+D=12', m=5™,68(Nijland); 
+4 Sept. to 6 Sept., m=5™.3 
+(Chofardet), 
+57.28 and D=25! (Nijland, D=15' (Holetschek); 
+15 Sept. to 
+17 Sept., m=5.0 to 5™,1 (Chofardet), 
+57.1 to 5™.5 (Holetschek), 
+5™.00 
+(Nijland), D=10 to 12'; faint tail 15' long at 
+P=18° (Nijland). 
+In Konigsberg, 
+a narrow ray 1°.5 long was observed on 15 Sept. 
+Till the middle of October, 
+visible to the naked eye. 
+23 Sept. to 25 Sept., m=4.7 to 4™.8 (Chofardet), 
+5™ and D=8! (Holetschek), tail directed north; 29 Sept. , m=4™.6 (Chofardet); 
+5 Oct., straight 1° tail at P =332°, visible to the naked eye; 
+7 Oct., m=4™.5 
+(Chofardet). 
+18 Oct., Abetti described the comet as brighter than 6 to 7™, 
+tail extended north. 
+22 Oct., a considerably smaller nebula, aclear nucleus. 
+Observed under unfavorable conditions: low in the morning sky. 
+6 Sept., photographed in Heidelberg; 
+15 Sept. to 20 Oct., photographed 
+at the Yerkes Observatory. 
+20 Oct., sudden variation in the tail, witha 
+new tail forming at a 12° angle to the old one. 
+Van Biesbroeck observed 
+the comet till 30 Nov. 
+Nelewences2¢ BaZ. hy 255 AaMNg2l0relG: A.J... 32,139t00..Oba, 
+135 43 
+Obs., 42, 43; Ap.J., 36. 
+Orbit: Duckert. —A.N., 215: 208. 
+S. Selivanov, Lesgaft Inst., 1922, making use of 22 estimates from 
+1 Sept. to 7 Oct., gave 
+y=12.6, Hy =8™.7; in V. II, Hip =9™.6, from observa- 
+- 
+tions of Holetschek, Nijland et al. 
+Bobrovnikoff, from 64 estimates from 
+26 Aug. to 5 Oct., obtained 
+y=13.8, Hy =10™.4; these parameters, however, 
+give 
+m=7™.1 at the beginning of September, -a difference of 2™ from the 
+observed value. 
+In Sept., D;=3'.0 to 4.8 andS > 0.007. 
+Tail clearly of 
+type I. 
+Spectrum photographed by Tikhov, Izv. Lesgaft Inst., 1: 235. 1921, and 
+Slipher, P.A.S.P., 31: 303; essential similarity with the spectrum of 19141. 
+(r, A): 20 Aug. —(1.36, 0.36); 1 Sept. —(1.11, 0.21); 15 Sept. —(0.87, 
+0.26); 1 Oct. —(0.62, 0.51); 17 Oct. —(0.49, 0.88); 2 Nov. —(0.63, 1.24); 
+18 Nov. —(0.88, 1.52); 30 Nov. —(1.09, 1.67), 
+418
+

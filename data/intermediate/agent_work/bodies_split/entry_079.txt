@@ -1,0 +1,24 @@
+### ENTRY 079 | 1919 IV (1919e) | book p.419 pdf p.238 | pdes=24P | basis=name (Schaumasse) + year | conf=high
+discoverers: ['Schaumasse', 'Biesbroeck', 'Chofardet']
+BODY:
+1919 IV (1919e). 
+The second recorded apparition of the short-period 
+Comet Schaumasse. 
+Discovered by Schaumasse (Nice) on 29 Oct. in Virgo, 
+6° from the ephemeris position as calculated from Mahnkopf's elements; 
+visible through a small telescope (10 to 11™); moved east. 
+In November, 
+observed by van Biesbroeck (Yerkes Obs.). 
+30 Nov., Chofardet (Besancon) 
+gave m =12™ through a 33-cm refractor; 
+0'.5x0'.7 nebula; disappeared at 
+the first hint of morning glow. Observed last by van Biesbroeckon 1 Jan. 1920. 
+Riefer’encesAON;, 210; B24 lsA.J.; 83;,J..Obs,,.4, 5. 
+Orbit: Merton. —M.N., 
+87: 567. 
+In A. Zh. , 7:217, Hyp =10™9; D,=1'.5. 
+ry A929 Oct. 1216,.1555)e 
+29, Nov; (1.33; 1.88)5, 
+31. Deas =—( 4.48, 
+1.92).
+

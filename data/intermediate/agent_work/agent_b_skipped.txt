@@ -1,0 +1,36 @@
+Agent B (1881-1900) skipped entries
+====================================
+
+Skipped entirely (no row in agent_b_rows.csv):
+
+1. 1884 II (1884c) — Barnard 16 July 1884 disc. PDF page 271-272 (book 271-272).
+   Body explicitly says "the short-period nature of the orbit established first by Finlay and Morrison" and "Absolute magnitude estimated first by S. Vsekhsvyatskii M.N., 90:720, ... H10=8m.9".
+   This is D/1884 O1 (Barnard) — a lost periodic comet.
+   Not in target list (target list 1884 has only 12P, 14P, 5D, 6P).
+   OUT OF SCOPE per commission §3.7. M1=8.9 not extracted.
+
+2. 1886 V (1886a) — Brooks 27 April 1886 disc, peri ~end of May 1886. PDF page 282-283 (book 282-283).
+   Brooks's 27 April 1886 discovery, perihelion ~May 30 (r=0.37). Likely C/1886 G1 (Brooks) in modern designation.
+   Body cites E-III H10=7m.5; orbit Klumpke 274yr.
+   Not in target list (target list has only 1886 H1 and 1886 J1 for 1886 non-periodic Brooks comets; G1 is missing).
+   OUT OF SCOPE per commission §3.7. M1=7.5 not extracted.
+
+3. 1895 II (1895a) — E. Swift Echo Mountain 20 Aug 1895 disc. PDF page 326-327 (book 326-327).
+   Body cites M.N. 90:720 H10=11; In C.A.M., H10=12; Big V's preferred H10=11.4±0.3.
+   Modern designation likely C/1895 Q1 (Swift); not in target list.
+   OUT OF SCOPE per commission §3.7. M1=11.4 not extracted.
+
+Note: Big V also had a "1885 II" entry listed twice (paren 1885b and 1885e) due to a numbering quirk in Big V itself.
+The second one (paren 1885e, Brooks/Common 31 Aug disc, 1885 R1) was correctly written as "1885 III" in the
+output CSV per the printed page header (the JSONL had a script segmentation OCR error labeling it II not III).
+
+Skip rows produced WITHOUT M1 value (entries are in CSV but M1 cell is empty):
+
+a. 1881 VI (1881e) — Barnard 17 Sept 1881 disc → C/1881 S1 (Barnard).
+   Body says "Absolute magnitude H10 after E-III. D1=2.0 to 2'.2" — references E-III but no
+   numeric H10 value cited. Per commission §3.5 entry retained with empty M1 + low confidence.
+
+b. 1891 I (1891b) — Barnard 29 March + Denning 30 March 1891 disc → C/1891 F1 (Barnard-Denning).
+   Body says "Absolute magnitude determined in E-III. Absolute magnitude of the nucleus h10=10m.4"
+   — only the nuclear h10 is cited; no comet H10 value. Per commission §3.5 entry retained
+   with empty M1 + low confidence.

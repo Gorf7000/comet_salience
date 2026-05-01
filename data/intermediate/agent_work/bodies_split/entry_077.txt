@@ -1,0 +1,111 @@
+### ENTRY 077 | 1919 I (1919a) | book p.416 pdf p.235 | pdes=22P | basis=body scan token 'kopff' + year | conf=medium
+discoverers: ['Wolf', 'Palisa', 'Nijland', 'Silbernagel', 'Abetti', 'Chofardet', 'Biesbroeck']
+BODY:
+1919 1 (1919a). 
+The second recorded apparition of the short-period 
+Comet Kopff (1906 IV). 
+Discovered according to Ebell's ephemeris by Wolf 
+(Konigstuhl) on 30 July. Upon discovery, 10.5, D=5'. 
+Located in Aquila, 
+moving Slowly north-east; 
+in December, observed in Aquarius, 
+416 
+
+
+4 Aug., Palisa (Vienna) gave m =12™ through a 27-inch refractor; nucleus 
+13™.0; 
+D=1'.5. 
+15 Aug., measured by Nijland (Utrecht) in moonlight. 21 Aug., 
+m =11™.2 through a 3-inch seeker; 24 Aug., well visible through a seeker 
+(10™.8), 
+2 Sept., very faint because of moonlight and a decrease in intrinsic 
+brightness, 
+26 Aug., Silbernagel (Munich) gave 9™; 27 Aug., through 
+seeker, estimated at 9.5 to 10™.0. 
+In the middle of August, Abetti (Arcetri) 
+gave 11 to 11™.5; 29 Aug., 
+117.5, 
+18 Aug., Chofardet (Besancon) gave 
+m=10™.5, 
+D=1'.5, 
+diffuse; 25 Sept., m=12™.5 (on the visibility threshold 
+of a 33-cm telescope). 
+12 Sept., van Biesbroeck (Yerkes Obs.) gave m=11™.5 
+through a 12-inch refractor; nucleus 12™.5; D=3'. 
+20 Deptieg ele aCe Ds ae 
+Observed at Algiers, Greenwich, Bergedorf, Heidelberg, Lyon, 
+Marseilles, Nice, Paris, Barcelona, Babelsberg, Padua, Northsfield, 
+Rome, Uccle, Athens, Munich and the Lick Observatory. 
+In October, 
+ob- 
+served at Nice, Northsfield and Babelsberg. 
+Rhekernences: 
+A Noe, 210-214 Buzs 159 J,Obss, 2-5) Aly anS2.ea5. 
+Orbit: Ebell. —A.N., 209: 383. 
+In V.1, Hyg =8™.9; in C.A.M., Hyp = 8.6; 
+In Sept., D, =3'. 
+tr, 4): 
+930 July —(1773,0.74);,.15 Aug. (1,770. 83) 
+#3, Aug (1,81, 
+0.95); 
+16 Sept. —(1.86, 1.11); 2 Oct. —(1,92, 1.29); 22 Oct. —(2.01, 1.56); 
+bivDec.- —=(222 652.32), 
+1919 If (1919d). 
+The fourth recorded apparition of the short-period 
+Comet Finlay. 
+Discovered by Sasaki (Kyoto, Japan) on 25 Oct. as a new 
+comet. 
+A 9™ object near y Capricorni. 
+Moving north-east, 
+traversed 
+Aquarius; 
+at the end of November, passed near § Piscium; 
+in December, 
+traversing Aries. 
+Beginning 9 Nov., observed in Europe and America. 
+In November, 
+Chofardet (Besancon) reported m =9™, Circular coma 4 to 5' in diameter, 
+eccentric ill-shaped nucleus. 
+In Washington, Bower reported m=9™, 
+Ac- 
+cording to van Biesbroeck (Yerkes Obs.), using 12- and 40-inch refractors, 
+m = 8™,5 on 13 Nov., D=5', 
+distinct central condensation; 
+18 Nov., 
+8™.5; 
+22 Nov., 8.5, nucleus 12™; 
+14 Dec., 
+11”, D=2', blurred nucleus; 28 Dec., 
+faint 13" nebula. 
+13 Dec., Barnard (Yerkes Obs.) with a 40-inch refractor, 
+gave m=13™.5, D=2 to 3'; 10 Dec., Chofardet gave m=10".5, 
+indefinite 
+nucleus. 
+22 Nov., Holetschek (Vienna) gave m=8 to 9™, D=3 to 4'. 
+17 Dec., 
+apparently fainter than 11”; 23 Dec. and 26 Dec., not located with a 6-inch 
+refractor. 
+Hoffmeister (Sonneberg), 
+using a 5-inch refractor, reported 
+m =10™,5 on 29 Nov. ina poor sky, whereas Jeffers (Lick Obs.) gave m=9™.5 
+on 28 Nov. through a 12-inch refractor. 
+Measured in Bergedorf, Bordeaux, 
+Heidelberg, Marseilles, Minneapolis, Nice, Northsfield, Paris, Barcelona, 
+Berlin, Babelsberg, Fabra, La Plata, Athens and other places. 
+Photo- 
+graphed by Wolf on 7 Feb. (16™) and by Baade (Bergedorf) on 8, 19 and 20 
+Feb. (18™). 
+References: A’N.; 210-212:°A.J., 32, 33; J. Obs. 3-5; 
+B. Z-,' 1, 2. 
+Orbit: Chimino. —Atti Acad. Lincei, 27(6): 674. 
+V.II gave, according to van Biesbroeck and others, Hjj=11™.0; 
+in M.N., 
+90: 713, H,,=10™.9, H, =10™.8, H, =11™; in C.A.M., Hig=10™9. 
+In Nov., 
+D=1!'.7. 
+(r, A): 25 Oct. —(1.02, 1.07); 13 Nov. —(1.09, 0.35); 28 Nov. —(1.17, 
+0.28); 14 Dec. —(1.32, 0.42); 29 Dec. 1919 —(1.47, 0.59); 10 Feb. 1920 — 
+(1.85, 1,29); 
+13 March —(2.16, 1.93). 
+417
+

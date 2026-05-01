@@ -1,0 +1,29 @@
+### ENTRY 031 | 1908 I (1908b) | book p.374 pdf p.193 | pdes=2P | basis=body scan token 'encke' + year | conf=medium
+discoverers: ['Wolf', 'Holetschek', 'Woodgate', 'Ross']
+BODY:
+1908 I (1908b). 
+The thirty-first recorded apparition of the short-period 
+Comet Encke-Backlund. 
+Not detected before the perihelion passage, 
+in 
+spite of the search undertaken in December 1907 and January 1908 by Wolf 
+(Heidelberg) and in March and May 1908 by Holetschek (Vienna). 
+The object 
+detected by Wolf on 2 Jan. 1908 cannot be identified with Comet Encke, 
+374 
+
+
+Discovered according to Kamienski's ephemeris by Woodgate (Cape) on 
+27 May; observed photographically till 5 June when located in Eridanus 
+and Cetus; very faint on plates. 
+3 June to 8 June, measured by Ross 
+(Melbourne) on a 12-inch reflector; 
+he estimated m=9™, D=3', 
+References; A.N., 177, 178; B.A:A.J., 18; V.J.S., 44; Holetschek 
+LVG po 9Gr 
+Orbit: Backlund. —Mém. Acad. Petersburg, 8(2). 
+Holetschek took m = 8™ at the beginning of June and obtained H, = 10™.6; 
+in C.A.M., Hy=10™.8. 
+2 June to 7 June D=1'.0. 
+(r, A): 27 May —(0.72, 0.39); 8 June —(0-793, 0.34).
+

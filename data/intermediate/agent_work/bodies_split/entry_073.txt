@@ -1,0 +1,70 @@
+### ENTRY 073 | 1918 I (1917c) | book p.414 pdf p.233 | pdes=2P | basis=body scan token 'encke' + year | conf=medium
+discoverers: ['Schorr', 'Biesbroeck']
+BODY:
+1918 1(1917c). 
+The thirty-fourth recorded apparition of the short-period 
+Comet Encke. 
+Located according to Viljev's ephemeris by Schorr (Bergedorf) 
+on plates taken with a reflector on 30 Dec. 1917; a 15™ nucleus; D=20". 
+Located in Pisces, moving east; at the end of February 1918, located near 
+yn Piscium; moved through Aquarius after the perihelion passage on 24 March. 
+Photographed in Bergedorf. 
+14 Jan. 1918, two condensations observed 
+in the coma; the fainter one 15" south-east of the main one. 
+16 Feb., 
+a 
+diffuse 117.5 nucleus; D=0'.7. 
+25 Feb., visible through a seeker (10™). 
+Schorr observed the comet with a 26-cm refractor. 
+5 March, diffuse 9™.5 
+nucleus; 
+D=0!'.7. 
+14 March, diffuse 77.5 nucleus; 
+15 March and 16 March, 
+m=7™5; low in the sky, observed through tree branches. 
+1 March and 
+2 March, van Biesbroeck (Yerkes Obs.) saw a circular nebula D=0!.9 
+(central condensation ?); m=7™.8 through a 3-inch seeker. 
+In March, ob- 
+served in Greenwich. 
+1 March, D=2'. 
+9 March, more condensed; m=8".3. 
+12 March, 
+m=7™.7; D=1'.5. 
+In January, observed in Tacubaya. 
+After the perihelion passage, observed in Melbourne from 17 April to 
+21 April; 
+17 April, no definite nucleus; 
+20 April, faint and diffuse. 
+References: A.N., 204-207; A.J., 32; M.N., 
+78; Pulkovo Bull., 
+14 12/3), 
+Orbit: 
+Viljev. —A.N., 205: 124. 
+InC.A.M., Hjo=10™.6. When r=0.6, Hj 9=9™.9 according to Vsekhsvyatskii. — 
+A. Zh., 31: 286. 
+In March, D, =2"5. 
+(r, A):) 30 Dec. 1917 —(1.60,°1167)3) 
+14 Jan: 19178 
+— (247, 1966): Satebr — 
+(1.11, 1.56); 
+19 Feb. —(0.85, 1.39); 7 March —(0.56, 1.12); 
+15 March — 
+(0.42, 0.93); 
+16 April —(0.66, 0.74); 28 April —(0.87, 0.84). 
+1918 If (1918a). 
+Discovered by Reid (Cape of Good Hope) on the evening 
+of 12 June as a faint, circular nebula of 10 to 11™. 
+Located belowa Hydri, 
+moving south. 
+Observed at Johannesburg and the Cape.on 19 June; 18June, 
+described in Johannesburg as a 14™ object (?). 
+Retenences: AN. 207, 200; .PsA.So.P., 34: 1,0 tien 44,45. 
+Orbit: Wood. —A.N., 208: 131. 
+In C.A.M., Hj =13™ according to Johannesburg estimate. 
+Taking m =10 
+to 11" on 12 June, we obtain Hj) =9™.5 to 10™,5, which is obviously a better 
+approximation. 
+(r, A): 12 June —(1.11, 1.04); 19 July —(1.13, 1.06). 
+414
+

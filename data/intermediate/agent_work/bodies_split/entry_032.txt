@@ -1,0 +1,42 @@
+### ENTRY 032 | 1908 II (1908d) | book p.375 pdf p.194 | pdes=64P | basis=body scan + year + Roman position 2 | conf=low
+discoverers: ['Javelle', 'Barnard']
+BODY:
+1908 II (1908d). 
+The fourth (and apparently the last) recorded apparition 
+of Comet Tempel (3)- Swift. 
+Discovered on 29 Sept. by Javelle (Nice) ac- 
+cording to Maubant's ephemeris. 
+Located in Gemini, moving south-east. 
+Upon discovery, estimated at 14™, D=2'; 2 Oct. to 7 Oct., observed 
+by Javelle on a 76-cm refractor; brighter than upon discovery; 26 Oct., 
+visible through seeker, D=1.5 to 2', a small 14™ nucleus occasionally ob- 
+served; 27 Oct. and 28 Oct., more easily visible through seeker (12™). 
+5 Nov., considerable decrease in brightness, D=1'; 
+1 Nov. and 2 Nov., 
+at the visibility threshold, D=1'. 
+5 Nov., Giacobini measured the comet 
+on the visibility threshold of a 40-cm refractor. 
+29 Oct., Rembaut and 
+Sy (Algiers) saw the comet through a 32-cm refractor as a very faint cir- 
+cular nebula with 
+D=2'. 
+25 Nov. and 28 Nov., exceptionally faint in clear 
+sky (13 to 14™). 
+In December, when located in Leo, observed by Barnard 
+(Yerkes Obs.); 
+1 Dec., m=16™; 20 Dec., 
+16™5, 
+D=0'.3; 24 Dec., 16™5, 
+D=0'.2. 
+References: A.N., 179; A.J., 26; V.J.S., 44; Holetschek V, p. 57. 
+Orbit: Maubant. —A.N., 179: 79. 
+Holetschek obtained from the estimates above H, =14™.5 to 16™.5; 
+in 
+C.A.M., Hig =15™.1; 
+in October, we obtain m =12 to 13™, hence Hip = 12™.8. 
+In September, D,=1'.3. 
+(r,. A): 
+930) Sept, —(1/15;-0569); 
+1 Dec= —(1236,,0.66); 28 Decs —(1.55, 
+0.68).
+

@@ -1,0 +1,76 @@
+### ENTRY 075 | 1918 IV (1918c) | book p.415 pdf p.234 | pdes=4P | basis=name (Fayet) + year | conf=high
+discoverers: ['Fayet', 'Auriga', 'Camelopardus', 'Biesbroeck', 'Burton', 'Vanderlinden']
+BODY:
+1918 IV (1918c). 
+The third recorded apparition of the short-period 
+Comet Borelly (1). Discovered according to Tolnay's ephemeris by Fayet 
+(Nice) on 7 Aug. as a 13™ nebula. 
+Located in Eridanus moving east; in 
+October, passed through Orion and, ascending north, traversed Gemini, 
+Auriga (December), Lynx and Camelopardus (January, February 1919), 
+when position was favorable for observations. 
+31 Aug. 1918 to 19 Jan. 1919, observed by Barnard and van Biesbroeck 
+(Yerkes Obs.) through a 40-inch refractor, and in January and February 
+1919 through a 12-inch refractor. 
+31 Aug., m=13™; 
+a 36'' sunward tail 
+at 
+P=95°; nucleus elongated toward the sun. 
+28 Sept., 
+12™, nucleus 14™,5. 
+6 Oct;;, 11°.5-nucieus 13”, a.1'.5 tail (jet?) at P =90°; 
+13 Oct. and 16,Oct:, 
+tail visible; 
+10 Nov., 
+10™.5, a 4' tail at 
+P=100°; 24 Nov., 
+117, nucleus 
+12™, 
+3 Dec., 97.1 (through a 3-inch seeker); nebula symmetrically elon- 
+gated 2' east and west, and 1' to 30" north and south. 
+1 Jan, 1919, elongated 
+nebula with 5:1 axes; major axis at 
+P=50°. 
+24 Jan., 
+m=12™; 31 Jan., 
+Pi Snuclteusrl25: 
+723 Heb. 137523 March, 
+13".5. 
+Burton (Washington Obs.), using a 26-inch refractor, reported: 1 Nov., 
+visible through a 5-inch seeker (10 to 11™); 25 Nov., nucleus 105; 6 Feb., 
+m= 12" 5-_ 24;heb., 
+to-26; Feb.) 43°0;221eMarch, 
+13.5; 21 April, 
+147-0; 
+29 Oct., Vanderlinden (Uccle) estimated the comet at 9™,2 through-an 8-cm 
+seeker, 
+a 13™ condensation. 
+9 Nov., elongated east-west, m=10™, nucleus 
+11™, 
+22 Jan. and 23 Jan., m=11.5 to 12™. 
+23 Nov., Chofardet (Besancon) 
+gave m=9™.5. 
+6 Dec., 9™; circular head, D=1'.5, well-shaped central 
+nucleus, tail extending 3' east. 
+21 Oct., m=10™; 4 Feb., 
+12™., 
+Observed also at Barcelona, Lyon, Algiers, Athens and Nice up to 
+22 March; apparently last measurement attempted on 21 April in Washington; 
+the same night, photographed in Bergedorf (14™.0). 
+References: A.N., 207, 208; A.J., 31-33; J.Obs., 3-5. 
+Orbit: Schaumasse. —J.Obs., 14: 147. 
+V.I gave, from observations at Yerkes and Washington Observatories, 
+y =11.0, Hy =107.0, hig=11".3. 
+In C.A.M., Hjg=10™2. 
+This gives m =13™.6 
+upon discovery (y=10). 
+In Dec. 1918 and Jan, 1919, D,=0'.7; S=0,0005; an 
+anomalous tail of apparently the same length. 
+(r, A): 7 Aug. —(1.79, 1.53); 4 Sept. —(1.62, 1.21); 6 Oct. —(1.48, 0.88); 
+3 Nov. —(1.41, 0.63); 17 Nov. —(1.40, 0.52); 2 Dec. 1918 —(1.45, 0.51); 
+415 
+
+
+20 Jan. 1919 —(1.57, 0.73); 20 Feb. —(1.75, 1.08); 23 March —(1.95, 1.57); 
+21 April —(2.17, 2.05).
+
