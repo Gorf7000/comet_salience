@@ -21,6 +21,11 @@ data/raw/
 data/intermediate/horizons_cache/
 *.cache
 
+# The raw daily light-curve CSV is >100 MB (GitHub hard limit). A
+# gzipped copy at the same path with .gz suffix is committed instead.
+# Re-run scripts/run_overnight.py or gunzip the .gz to recreate.
+data/processed/comet_daily_light_curves.csv
+
 # OS
 .DS_Store
 Thumbs.db
