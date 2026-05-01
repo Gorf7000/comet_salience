@@ -132,12 +132,26 @@ def main():
     logging.info("Wrote morning summary -> %s", morning)
 
     # ------------------------------------------------------------------
-    # Git commit + push
+    # Gzip the daily CSV (>100 MB raw exceeds GitHub's hard limit; we
+    # commit a gzipped copy and gitignore the raw).
+    # ------------------------------------------------------------------
+    import gzip, shutil
+    raw_csv = ROOT / "data" / "processed" / "comet_daily_light_curves.csv"
+    gz_csv = raw_csv.with_suffix(".csv.gz")
+    if raw_csv.exists():
+        with open(raw_csv, "rb") as fi, gzip.open(gz_csv, "wb", compresslevel=9) as fo:
+            shutil.copyfileobj(fi, fo, length=1024 * 1024)
+        logging.info("Gzipped %s -> %s (%.1f MB)", raw_csv.name, gz_csv.name,
+                     gz_csv.stat().st_size / 1e6)
+
+    # ------------------------------------------------------------------
+    # Git commit + push. Each step's exit code is logged; push failure
+    # is logged at ERROR level so the monitor catches it.
     # ------------------------------------------------------------------
     files_to_commit = [
         "data/processed/comet_apparitions_coded.csv",
         "data/processed/comet_brightness_summary.csv",
-        "data/processed/comet_daily_light_curves.csv",
+        "data/processed/comet_daily_light_curves.csv.gz",
         "data/intermediate/aerith_apparitions_raw.csv",
         "reports/comet_visibility_audit.md",
         "reports/morning_summary.md",
@@ -145,15 +159,27 @@ def main():
         "figures/comet_visibility_diagnostics/",
     ]
     env_extras = ["-c", "user.email=grfaith@gmail.com", "-c", "user.name=Gorf7000"]
-    add_cmd = ["git", "-C", str(ROOT)] + env_extras + ["add"] + files_to_commit
-    subprocess.run(add_cmd, check=False)
+    add = subprocess.run(["git", "-C", str(ROOT)] + env_extras + ["add"] + files_to_commit,
+                         capture_output=True, text=True)
+    if add.returncode != 0:
+        logging.error("git add failed (%d): %s", add.returncode, add.stderr.strip())
     msg = (f"Overnight pipeline run: {result['n_with_curves']}/{result['n_apparitions']} "
            f"apparitions with light curves\n\n"
            f"Elapsed: {elapsed:.0f}s. Validation findings: {len(result['validation_findings'])}.\n"
            f"\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>")
-    subprocess.run(["git", "-C", str(ROOT)] + env_extras + ["commit", "-m", msg], check=False)
-    subprocess.run(["git", "-C", str(ROOT), "push"], check=False)
-    logging.info("Git push complete")
+    commit = subprocess.run(["git", "-C", str(ROOT)] + env_extras + ["commit", "-m", msg],
+                            capture_output=True, text=True)
+    if commit.returncode != 0:
+        # exit 1 is normal "nothing to commit" — only flag higher codes
+        if "nothing to commit" not in commit.stdout:
+            logging.error("git commit failed (%d): %s\n%s",
+                          commit.returncode, commit.stdout.strip(), commit.stderr.strip())
+    push = subprocess.run(["git", "-C", str(ROOT), "push"], capture_output=True, text=True)
+    if push.returncode != 0:
+        logging.error("GIT PUSH FAILED (%d). stdout: %s | stderr: %s",
+                      push.returncode, push.stdout.strip(), push.stderr.strip())
+    else:
+        logging.info("Git push complete")
 
 
 if __name__ == "__main__":
