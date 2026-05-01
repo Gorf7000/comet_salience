@@ -1,47 +1,257 @@
-2026-05-01 09:51:46,042 INFO root: Overnight pipeline start at 2026-05-01T13:51:46.042400
-2026-05-01 09:51:46,042 INFO src.comet_visibility.pipeline: Pipeline start
-2026-05-01 09:51:46,206 INFO src.comet_visibility.scaffold: SBDB non-periodic: 235 raw rows -> 231 after fragment merge
-2026-05-01 09:51:46,445 INFO src.comet_visibility.pipeline: Scaffold rows: 644 -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\data\processed\comet_apparitions_coded.csv
-2026-05-01 09:51:46,452 INFO src.comet_visibility.light_curves: Loaded 0 manual M1/K1 entries from manual_M1K1.csv
-2026-05-01 09:51:47,829 INFO src.comet_visibility.pipeline: Progress 25/644 (4%): 25 successful curves, elapsed 1.8s
-2026-05-01 09:51:48,929 INFO src.comet_visibility.pipeline: Progress 50/644 (8%): 50 successful curves, elapsed 2.9s
-2026-05-01 09:51:50,074 INFO src.comet_visibility.pipeline: Progress 75/644 (12%): 75 successful curves, elapsed 4.0s
-2026-05-01 09:51:51,342 INFO src.comet_visibility.pipeline: Progress 100/644 (16%): 100 successful curves, elapsed 5.3s
-2026-05-01 09:51:52,607 INFO src.comet_visibility.pipeline: Progress 125/644 (19%): 125 successful curves, elapsed 6.6s
-2026-05-01 09:51:54,020 INFO src.comet_visibility.pipeline: Progress 150/644 (23%): 150 successful curves, elapsed 8.0s
-2026-05-01 09:51:55,720 INFO src.comet_visibility.pipeline: Progress 175/644 (27%): 175 successful curves, elapsed 9.7s
-2026-05-01 09:51:56,997 INFO src.comet_visibility.pipeline: Progress 200/644 (31%): 200 successful curves, elapsed 11.0s
-2026-05-01 09:51:58,307 INFO src.comet_visibility.pipeline: Progress 225/644 (35%): 225 successful curves, elapsed 12.3s
-2026-05-01 09:51:59,996 INFO src.comet_visibility.pipeline: Progress 250/644 (39%): 250 successful curves, elapsed 14.0s
-2026-05-01 09:52:01,059 INFO src.comet_visibility.pipeline: Progress 275/644 (43%): 275 successful curves, elapsed 15.0s
-2026-05-01 09:52:02,013 INFO src.comet_visibility.pipeline: Progress 300/644 (47%): 300 successful curves, elapsed 16.0s
-2026-05-01 09:52:02,961 INFO src.comet_visibility.pipeline: Progress 325/644 (50%): 323 successful curves, elapsed 16.9s
-2026-05-01 09:52:04,307 INFO src.comet_visibility.pipeline: Progress 350/644 (54%): 347 successful curves, elapsed 18.3s
-2026-05-01 09:52:05,192 INFO src.comet_visibility.pipeline: Progress 375/644 (58%): 365 successful curves, elapsed 19.1s
-2026-05-01 09:52:06,303 INFO src.comet_visibility.pipeline: Progress 400/644 (62%): 390 successful curves, elapsed 20.3s
-2026-05-01 09:52:07,480 INFO src.comet_visibility.pipeline: Progress 425/644 (66%): 403 successful curves, elapsed 21.4s
-2026-05-01 09:52:07,890 INFO src.comet_visibility.pipeline: Progress 450/644 (70%): 403 successful curves, elapsed 21.8s
-2026-05-01 09:52:08,472 INFO src.comet_visibility.pipeline: Progress 475/644 (74%): 403 successful curves, elapsed 22.4s
-2026-05-01 09:52:08,994 INFO src.comet_visibility.pipeline: Progress 500/644 (78%): 404 successful curves, elapsed 23.0s
-2026-05-01 09:52:09,685 INFO src.comet_visibility.pipeline: Progress 525/644 (82%): 404 successful curves, elapsed 23.6s
-2026-05-01 09:52:10,094 INFO src.comet_visibility.pipeline: Progress 550/644 (85%): 406 successful curves, elapsed 24.1s
-2026-05-01 09:52:10,428 INFO src.comet_visibility.pipeline: Progress 575/644 (89%): 407 successful curves, elapsed 24.4s
-2026-05-01 09:52:11,091 INFO src.comet_visibility.pipeline: Progress 600/644 (93%): 415 successful curves, elapsed 25.0s
-2026-05-01 09:52:11,422 INFO src.comet_visibility.pipeline: Progress 625/644 (97%): 416 successful curves, elapsed 25.4s
-2026-05-01 09:52:12,239 INFO src.comet_visibility.pipeline: Progress 644/644 (100%): 427 successful curves, elapsed 26.2s
-2026-05-01 09:52:12,321 INFO src.comet_visibility.pipeline: Summary rows: 644 -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\data\processed\comet_brightness_summary.csv
-2026-05-01 09:52:29,382 INFO src.comet_visibility.pipeline: Daily light-curve rows: 154147 -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\data\processed\comet_daily_light_curves.csv
-2026-05-01 09:52:30,141 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\01_peak_mag_histogram.png
-2026-05-01 09:52:30,291 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\02_peak_vs_duration.png
-2026-05-01 09:52:30,446 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\03_integrated_vs_spectacle_mag.png
-2026-05-01 09:52:30,611 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\04_mag_vs_flux_families.png
-2026-05-01 09:52:30,795 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\05_event_case_counts.png
-2026-05-01 09:52:30,948 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\06_main_sample_candidate.png
-2026-05-01 09:52:31,414 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\07a_top_by_integrated_mag.png
-2026-05-01 09:52:31,838 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\07b_top_by_spectacle_mag.png
-2026-05-01 09:52:32,252 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\07c_top_by_flux.png
-2026-05-01 09:52:32,297 INFO src.comet_visibility.pipeline: Audit -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\reports\comet_visibility_audit.md
-2026-05-01 09:52:32,384 INFO root: Pipeline complete in 46.3s
-2026-05-01 09:52:35,065 INFO root: Wrote morning summary -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\reports\morning_summary.md
-2026-05-01 09:52:43,434 INFO root: Gzipped comet_daily_light_curves.csv -> comet_daily_light_curves.csv.gz (37.0 MB)
-2026-05-01 09:53:59,962 INFO root: Git push complete
+2026-05-01 12:43:41,897 INFO root: Overnight pipeline start at 2026-05-01T16:43:41.897353
+2026-05-01 12:43:41,897 INFO src.comet_visibility.pipeline: Pipeline start
+2026-05-01 12:43:42,099 INFO src.comet_visibility.scaffold: SBDB non-periodic: 235 raw rows -> 231 after fragment merge
+2026-05-01 12:43:42,319 INFO src.comet_visibility.pipeline: Scaffold rows: 644 -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\data\processed\comet_apparitions_coded.csv
+2026-05-01 12:43:42,383 INFO src.comet_visibility.light_curves: Loaded 270 manual M1/K1 entries from manual_M1K1.csv
+2026-05-01 12:43:43,400 INFO src.comet_visibility.pipeline: Progress 25/644 (4%): 25 successful curves, elapsed 1.5s
+2026-05-01 12:43:44,312 INFO src.comet_visibility.pipeline: Progress 50/644 (8%): 50 successful curves, elapsed 2.4s
+2026-05-01 12:43:45,285 INFO src.comet_visibility.pipeline: Progress 75/644 (12%): 75 successful curves, elapsed 3.4s
+2026-05-01 12:43:46,228 INFO src.comet_visibility.pipeline: Progress 100/644 (16%): 100 successful curves, elapsed 4.3s
+2026-05-01 12:43:47,271 INFO src.comet_visibility.pipeline: Progress 125/644 (19%): 125 successful curves, elapsed 5.4s
+2026-05-01 12:43:48,088 INFO src.comet_visibility.pipeline: Progress 150/644 (23%): 150 successful curves, elapsed 6.2s
+2026-05-01 12:43:48,846 INFO src.comet_visibility.pipeline: Progress 175/644 (27%): 175 successful curves, elapsed 6.9s
+2026-05-01 12:43:49,665 INFO src.comet_visibility.pipeline: Progress 200/644 (31%): 200 successful curves, elapsed 7.8s
+2026-05-01 12:43:50,441 INFO src.comet_visibility.pipeline: Progress 225/644 (35%): 225 successful curves, elapsed 8.5s
+2026-05-01 12:43:51,408 INFO src.comet_visibility.pipeline: Progress 250/644 (39%): 250 successful curves, elapsed 9.5s
+2026-05-01 12:43:52,467 INFO src.comet_visibility.pipeline: Progress 275/644 (43%): 275 successful curves, elapsed 10.6s
+2026-05-01 12:43:53,342 INFO src.comet_visibility.pipeline: Progress 300/644 (47%): 300 successful curves, elapsed 11.4s
+2026-05-01 12:43:55,190 WARNING src.comet_visibility.source_jpl: Horizons query failed for DES=73P;CAP<1936; [1935-05-11..1936-05-05]: Ambiguous target name; provide unique id:
+    Record #  Epoch-yr  >MATCH DESIG<  Primary Desig  Name  
+    --------  --------  -------------  -------------  -------------------------
+    90000733    1930    73P            73P             Schwassmann-Wachmann 3
+    90000740    1995    73P-A          73P-A           Schwassmann-Wachmann 3
+    90000741    1995    73P-B          73P-B           Schwassmann-Wachmann 3
+    90000744    1995    73P-C          73P-C           Schwassmann-Wachmann 3
+    90000747    2001    73P-E          73P-E           Schwassmann-Wachmann 3
+    90000748    2006    73P-G          73P-G           Schwassmann-Wachmann 3
+    90000749    2006    73P-H          73P-H           Schwassmann-Wachmann 3
+    90000750    2006    73P-J          73P-J           Schwassmann-Wachmann 3
+    90000751    2006    73P-K          73P-K           Schwassmann-Wachmann 3
+    90000752    2006    73P-L          73P-L           Schwassmann-Wachmann 3
+    90000753    2006    73P-M          73P-M           Schwassmann-Wachmann 3
+    90000754    2006    73P-N          73P-N           Schwassmann-Wachmann 3
+    90000755    2006    73P-P          73P-P           Schwassmann-Wachmann 3
+    90000756    2006    73P-Q          73P-Q           Schwassmann-Wachmann 3
+    90000757    2006    73P-R          73P-R           Schwassmann-Wachmann 3
+    90000758    2006    73P-S          73P-S           Schwassmann-Wachmann 3
+    90000759    2007    73P-T          73P-T           Schwassmann-Wachmann 3
+    90000760    2006    73P-U          73P-U           Schwassmann-Wachmann 3
+    90000761    2006    73P-V          73P-V           Schwassmann-Wachmann 3
+    90000762    2006    73P-W          73P-W           Schwassmann-Wachmann 3
+    90000763    2006    73P-X          73P-X           Schwassmann-Wachmann 3
+    90000764    2006    73P-Y          73P-Y           Schwassmann-Wachmann 3
+    90000765    2006    73P-Z          73P-Z           Schwassmann-Wachmann 3
+    90000766    2006    73P-AA         73P-AA          Schwassmann-Wachmann 3
+    90000767    2006    73P-AB         73P-AB          Schwassmann-Wachmann 3
+    90000768    2006    73P-AC         73P-AC          Schwassmann-Wachmann 3
+    90000769    2006    73P-AD         73P-AD          Schwassmann-Wachmann 3
+    90000770    2006    73P-AE         73P-AE          Schwassmann-Wachmann 3
+    90000771    2006    73P-AF         73P-AF          Schwassmann-Wachmann 3
+    90000772    2006    73P-AG         73P-AG          Schwassmann-Wachmann 3
+    90000773    2006    73P-AH         73P-AH          Schwassmann-Wachmann 3
+    90000774    2006    73P-AI         73P-AI          Schwassmann-Wachmann 3
+    90000775    2006    73P-AJ         73P-AJ          Schwassmann-Wachmann 3
+    90000776    2006    73P-AK         73P-AK          Schwassmann-Wachmann 3
+    90000777    2006    73P-AL         73P-AL          Schwassmann-Wachmann 3
+    90000778    2006    73P-AM         73P-AM          Schwassmann-Wachmann 3
+    90000779    2006    73P-AN         73P-AN          Schwassmann-Wachmann 3
+    90000780    2006    73P-AO         73P-AO          Schwassmann-Wachmann 3
+    90000781    2006    73P-AP         73P-AP          Schwassmann-Wachmann 3
+    90000782    2006    73P-AQ         73P-AQ          Schwassmann-Wachmann 3
+    90000783    2006    73P-AR         73P-AR          Schwassmann-Wachmann 3
+    90000784    2006    73P-AS         73P-AS          Schwassmann-Wachmann 3
+    90000785    2006    73P-AT         73P-AT          Schwassmann-Wachmann 3
+    90000786    2006    73P-AU         73P-AU          Schwassmann-Wachmann 3
+    90000787    2006    73P-AV         73P-AV          Schwassmann-Wachmann 3
+    90000788    2006    73P-AW         73P-AW          Schwassmann-Wachmann 3
+    90000789    2006    73P-AX         73P-AX          Schwassmann-Wachmann 3
+    90000790    2006    73P-AY         73P-AY          Schwassmann-Wachmann 3
+    90000791    2006    73P-AZ         73P-AZ          Schwassmann-Wachmann 3
+    90000792    2006    73P-BA         73P-BA          Schwassmann-Wachmann 3
+    90000793    2006    73P-BB         73P-BB          Schwassmann-Wachmann 3
+    90000794    2006    73P-BC         73P-BC          Schwassmann-Wachmann 3
+    90000795    2006    73P-BD         73P-BD          Schwassmann-Wachmann 3
+    90000796    2006    73P-BE         73P-BE          Schwassmann-Wachmann 3
+    90000797    2006    73P-BF         73P-BF          Schwassmann-Wachmann 3
+    90000798    2006    73P-BG         73P-BG          Schwassmann-Wachmann 3
+    90000799    2006    73P-BH         73P-BH          Schwassmann-Wachmann 3
+    90000800    2006    73P-BI         73P-BI          Schwassmann-Wachmann 3
+    90000801    2006    73P-BJ         73P-BJ          Schwassmann-Wachmann 3
+    90000802    2006    73P-BK         73P-BK          Schwassmann-Wachmann 3
+    90000803    2006    73P-BL         73P-BL          Schwassmann-Wachmann 3
+    90000804    2006    73P-BM         73P-BM          Schwassmann-Wachmann 3
+    90000805    2006    73P-BN         73P-BN          Schwassmann-Wachmann 3
+    90000806    2006    73P-BO         73P-BO          Schwassmann-Wachmann 3
+    90000807    2006    73P-BP         73P-BP          Schwassmann-Wachmann 3
+    90000808    2006    73P-BQ         73P-BQ          Schwassmann-Wachmann 3
+    90000809    2006    73P-BR         73P-BR          Schwassmann-Wachmann 3
+    90000810    2006    73P-BS         73P-BS          Schwassmann-Wachmann 3
+    90000811    2017    73P-BT         73P-BT          Schwassmann-Wachmann 3
+    90000812    2022    73P-BU         73P-BU          Schwassmann-Wachmann 3
+    90000813    2022    73P-BV         73P-BV          Schwassmann-Wachmann 3
+    90000814    2022    73P-BW         73P-BW          Schwassmann-Wachmann 3
+    90000815    2022    73P-BX         73P-BX          Schwassmann-Wachmann 3
+    90000816    2022    73P-BY         73P-BY          Schwassmann-Wachmann 3
+
+2026-05-01 12:43:56,147 WARNING src.comet_visibility.source_jpl: Horizons query failed for DES=73P;CAP<1931; [1929-12-16..1930-12-11]: Ambiguous target name; provide unique id:
+    Record #  Epoch-yr  >MATCH DESIG<  Primary Desig  Name  
+    --------  --------  -------------  -------------  -------------------------
+    90000733    1930    73P            73P             Schwassmann-Wachmann 3
+    90000740    1995    73P-A          73P-A           Schwassmann-Wachmann 3
+    90000741    1995    73P-B          73P-B           Schwassmann-Wachmann 3
+    90000744    1995    73P-C          73P-C           Schwassmann-Wachmann 3
+    90000747    2001    73P-E          73P-E           Schwassmann-Wachmann 3
+    90000748    2006    73P-G          73P-G           Schwassmann-Wachmann 3
+    90000749    2006    73P-H          73P-H           Schwassmann-Wachmann 3
+    90000750    2006    73P-J          73P-J           Schwassmann-Wachmann 3
+    90000751    2006    73P-K          73P-K           Schwassmann-Wachmann 3
+    90000752    2006    73P-L          73P-L           Schwassmann-Wachmann 3
+    90000753    2006    73P-M          73P-M           Schwassmann-Wachmann 3
+    90000754    2006    73P-N          73P-N           Schwassmann-Wachmann 3
+    90000755    2006    73P-P          73P-P           Schwassmann-Wachmann 3
+    90000756    2006    73P-Q          73P-Q           Schwassmann-Wachmann 3
+    90000757    2006    73P-R          73P-R           Schwassmann-Wachmann 3
+    90000758    2006    73P-S          73P-S           Schwassmann-Wachmann 3
+    90000759    2007    73P-T          73P-T           Schwassmann-Wachmann 3
+    90000760    2006    73P-U          73P-U           Schwassmann-Wachmann 3
+    90000761    2006    73P-V          73P-V           Schwassmann-Wachmann 3
+    90000762    2006    73P-W          73P-W           Schwassmann-Wachmann 3
+    90000763    2006    73P-X          73P-X           Schwassmann-Wachmann 3
+    90000764    2006    73P-Y          73P-Y           Schwassmann-Wachmann 3
+    90000765    2006    73P-Z          73P-Z           Schwassmann-Wachmann 3
+    90000766    2006    73P-AA         73P-AA          Schwassmann-Wachmann 3
+    90000767    2006    73P-AB         73P-AB          Schwassmann-Wachmann 3
+    90000768    2006    73P-AC         73P-AC          Schwassmann-Wachmann 3
+    90000769    2006    73P-AD         73P-AD          Schwassmann-Wachmann 3
+    90000770    2006    73P-AE         73P-AE          Schwassmann-Wachmann 3
+    90000771    2006    73P-AF         73P-AF          Schwassmann-Wachmann 3
+    90000772    2006    73P-AG         73P-AG          Schwassmann-Wachmann 3
+    90000773    2006    73P-AH         73P-AH          Schwassmann-Wachmann 3
+    90000774    2006    73P-AI         73P-AI          Schwassmann-Wachmann 3
+    90000775    2006    73P-AJ         73P-AJ          Schwassmann-Wachmann 3
+    90000776    2006    73P-AK         73P-AK          Schwassmann-Wachmann 3
+    90000777    2006    73P-AL         73P-AL          Schwassmann-Wachmann 3
+    90000778    2006    73P-AM         73P-AM          Schwassmann-Wachmann 3
+    90000779    2006    73P-AN         73P-AN          Schwassmann-Wachmann 3
+    90000780    2006    73P-AO         73P-AO          Schwassmann-Wachmann 3
+    90000781    2006    73P-AP         73P-AP          Schwassmann-Wachmann 3
+    90000782    2006    73P-AQ         73P-AQ          Schwassmann-Wachmann 3
+    90000783    2006    73P-AR         73P-AR          Schwassmann-Wachmann 3
+    90000784    2006    73P-AS         73P-AS          Schwassmann-Wachmann 3
+    90000785    2006    73P-AT         73P-AT          Schwassmann-Wachmann 3
+    90000786    2006    73P-AU         73P-AU          Schwassmann-Wachmann 3
+    90000787    2006    73P-AV         73P-AV          Schwassmann-Wachmann 3
+    90000788    2006    73P-AW         73P-AW          Schwassmann-Wachmann 3
+    90000789    2006    73P-AX         73P-AX          Schwassmann-Wachmann 3
+    90000790    2006    73P-AY         73P-AY          Schwassmann-Wachmann 3
+    90000791    2006    73P-AZ         73P-AZ          Schwassmann-Wachmann 3
+    90000792    2006    73P-BA         73P-BA          Schwassmann-Wachmann 3
+    90000793    2006    73P-BB         73P-BB          Schwassmann-Wachmann 3
+    90000794    2006    73P-BC         73P-BC          Schwassmann-Wachmann 3
+    90000795    2006    73P-BD         73P-BD          Schwassmann-Wachmann 3
+    90000796    2006    73P-BE         73P-BE          Schwassmann-Wachmann 3
+    90000797    2006    73P-BF         73P-BF          Schwassmann-Wachmann 3
+    90000798    2006    73P-BG         73P-BG          Schwassmann-Wachmann 3
+    90000799    2006    73P-BH         73P-BH          Schwassmann-Wachmann 3
+    90000800    2006    73P-BI         73P-BI          Schwassmann-Wachmann 3
+    90000801    2006    73P-BJ         73P-BJ          Schwassmann-Wachmann 3
+    90000802    2006    73P-BK         73P-BK          Schwassmann-Wachmann 3
+    90000803    2006    73P-BL         73P-BL          Schwassmann-Wachmann 3
+    90000804    2006    73P-BM         73P-BM          Schwassmann-Wachmann 3
+    90000805    2006    73P-BN         73P-BN          Schwassmann-Wachmann 3
+    90000806    2006    73P-BO         73P-BO          Schwassmann-Wachmann 3
+    90000807    2006    73P-BP         73P-BP          Schwassmann-Wachmann 3
+    90000808    2006    73P-BQ         73P-BQ          Schwassmann-Wachmann 3
+    90000809    2006    73P-BR         73P-BR          Schwassmann-Wachmann 3
+    90000810    2006    73P-BS         73P-BS          Schwassmann-Wachmann 3
+    90000811    2017    73P-BT         73P-BT          Schwassmann-Wachmann 3
+    90000812    2022    73P-BU         73P-BU          Schwassmann-Wachmann 3
+    90000813    2022    73P-BV         73P-BV          Schwassmann-Wachmann 3
+    90000814    2022    73P-BW         73P-BW          Schwassmann-Wachmann 3
+    90000815    2022    73P-BX         73P-BX          Schwassmann-Wachmann 3
+    90000816    2022    73P-BY         73P-BY          Schwassmann-Wachmann 3
+
+2026-05-01 12:43:56,148 INFO src.comet_visibility.pipeline: Progress 325/644 (50%): 323 successful curves, elapsed 14.3s
+2026-05-01 12:43:56,891 INFO src.comet_visibility.pipeline: Progress 350/644 (54%): 347 successful curves, elapsed 15.0s
+2026-05-01 12:43:58,082 WARNING src.comet_visibility.source_jpl: Horizons query failed for DES=205P;CAP<1937; [1935-09-21..1936-09-15]: Ambiguous target name; provide unique id:
+    Record #  Epoch-yr  >MATCH DESIG<  Primary Desig  Name  
+    --------  --------  -------------  -------------  -------------------------
+    90001157    2008    205P           205P            Giacobini
+    90001159    2008    205P-A         205P-A          Giacobini
+    90001160    2008    205P-B         205P-B          Giacobini
+    90001161    2008    205P-C         205P-C          Giacobini
+
+2026-05-01 12:43:59,031 WARNING src.comet_visibility.source_jpl: Horizons query failed for DES=205P;CAP<1930; [1929-03-30..1930-03-25]: Ambiguous target name; provide unique id:
+    Record #  Epoch-yr  >MATCH DESIG<  Primary Desig  Name  
+    --------  --------  -------------  -------------  -------------------------
+    90001157    2008    205P           205P            Giacobini
+    90001159    2008    205P-A         205P-A          Giacobini
+    90001160    2008    205P-B         205P-B          Giacobini
+    90001161    2008    205P-C         205P-C          Giacobini
+
+2026-05-01 12:43:59,989 WARNING src.comet_visibility.source_jpl: Horizons query failed for DES=205P;CAP<1924; [1922-10-17..1923-10-12]: Ambiguous target name; provide unique id:
+    Record #  Epoch-yr  >MATCH DESIG<  Primary Desig  Name  
+    --------  --------  -------------  -------------  -------------------------
+    90001157    2008    205P           205P            Giacobini
+    90001159    2008    205P-A         205P-A          Giacobini
+    90001160    2008    205P-B         205P-B          Giacobini
+    90001161    2008    205P-C         205P-C          Giacobini
+
+2026-05-01 12:44:00,938 WARNING src.comet_visibility.source_jpl: Horizons query failed for DES=205P;CAP<1917; [1916-03-23..1917-03-18]: Ambiguous target name; provide unique id:
+    Record #  Epoch-yr  >MATCH DESIG<  Primary Desig  Name  
+    --------  --------  -------------  -------------  -------------------------
+    90001157    2008    205P           205P            Giacobini
+    90001159    2008    205P-A         205P-A          Giacobini
+    90001160    2008    205P-B         205P-B          Giacobini
+    90001161    2008    205P-C         205P-C          Giacobini
+
+2026-05-01 12:44:01,891 WARNING src.comet_visibility.source_jpl: Horizons query failed for DES=205P;CAP<1911; [1909-08-06..1910-08-01]: Ambiguous target name; provide unique id:
+    Record #  Epoch-yr  >MATCH DESIG<  Primary Desig  Name  
+    --------  --------  -------------  -------------  -------------------------
+    90001157    2008    205P           205P            Giacobini
+    90001159    2008    205P-A         205P-A          Giacobini
+    90001160    2008    205P-B         205P-B          Giacobini
+    90001161    2008    205P-C         205P-C          Giacobini
+
+2026-05-01 12:44:02,852 WARNING src.comet_visibility.source_jpl: Horizons query failed for DES=205P;CAP<1904; [1902-12-21..1903-12-16]: Ambiguous target name; provide unique id:
+    Record #  Epoch-yr  >MATCH DESIG<  Primary Desig  Name  
+    --------  --------  -------------  -------------  -------------------------
+    90001157    2008    205P           205P            Giacobini
+    90001159    2008    205P-A         205P-A          Giacobini
+    90001160    2008    205P-B         205P-B          Giacobini
+    90001161    2008    205P-C         205P-C          Giacobini
+
+2026-05-01 12:44:03,829 WARNING src.comet_visibility.source_jpl: Horizons query failed for DES=205P;CAP<1897; [1896-05-01..1897-04-26]: Ambiguous target name; provide unique id:
+    Record #  Epoch-yr  >MATCH DESIG<  Primary Desig  Name  
+    --------  --------  -------------  -------------  -------------------------
+    90001157    2008    205P           205P            Giacobini
+    90001159    2008    205P-A         205P-A          Giacobini
+    90001160    2008    205P-B         205P-B          Giacobini
+    90001161    2008    205P-C         205P-C          Giacobini
+
+2026-05-01 12:44:04,147 INFO src.comet_visibility.pipeline: Progress 375/644 (58%): 365 successful curves, elapsed 22.2s
+2026-05-01 12:44:04,895 INFO src.comet_visibility.pipeline: Progress 400/644 (62%): 390 successful curves, elapsed 23.0s
+2026-05-01 12:44:46,083 INFO src.comet_visibility.pipeline: Progress 425/644 (66%): 414 successful curves, elapsed 64.2s
+2026-05-01 12:46:16,724 INFO src.comet_visibility.pipeline: Progress 450/644 (70%): 439 successful curves, elapsed 154.8s
+2026-05-01 12:47:32,336 INFO src.comet_visibility.pipeline: Progress 475/644 (74%): 460 successful curves, elapsed 230.4s
+2026-05-01 12:48:46,463 INFO src.comet_visibility.pipeline: Progress 500/644 (78%): 482 successful curves, elapsed 304.6s
+2026-05-01 12:50:13,446 INFO src.comet_visibility.pipeline: Progress 525/644 (82%): 506 successful curves, elapsed 391.5s
+2026-05-01 12:51:34,253 INFO src.comet_visibility.pipeline: Progress 550/644 (85%): 530 successful curves, elapsed 472.4s
+2026-05-01 12:52:57,386 INFO src.comet_visibility.pipeline: Progress 575/644 (89%): 554 successful curves, elapsed 555.5s
+2026-05-01 12:53:52,418 INFO src.comet_visibility.pipeline: Progress 600/644 (93%): 577 successful curves, elapsed 610.5s
+2026-05-01 12:55:17,856 INFO src.comet_visibility.pipeline: Progress 625/644 (97%): 602 successful curves, elapsed 696.0s
+2026-05-01 12:55:39,442 INFO src.comet_visibility.pipeline: Progress 644/644 (100%): 619 successful curves, elapsed 717.5s
+2026-05-01 12:55:39,501 INFO src.comet_visibility.pipeline: Summary rows: 644 -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\data\processed\comet_brightness_summary.csv
+2026-05-01 12:55:59,402 INFO src.comet_visibility.pipeline: Daily light-curve rows: 223459 -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\data\processed\comet_daily_light_curves.csv
+2026-05-01 12:56:00,330 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\01_peak_mag_histogram.png
+2026-05-01 12:56:00,552 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\02_peak_vs_duration.png
+2026-05-01 12:56:00,708 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\03_integrated_vs_spectacle_mag.png
+2026-05-01 12:56:00,852 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\04_mag_vs_flux_families.png
+2026-05-01 12:56:01,030 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\05_event_case_counts.png
+2026-05-01 12:56:01,152 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\06_main_sample_candidate.png
+2026-05-01 12:56:01,671 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\07a_top_by_integrated_mag.png
+2026-05-01 12:56:02,208 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\07b_top_by_spectacle_mag.png
+2026-05-01 12:56:02,650 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\07c_top_by_flux.png
+2026-05-01 12:56:02,686 INFO src.comet_visibility.pipeline: Audit -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\reports\comet_visibility_audit.md
+2026-05-01 12:56:02,834 INFO root: Pipeline complete in 740.9s
+2026-05-01 12:56:05,886 INFO root: Wrote morning summary -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\reports\morning_summary.md

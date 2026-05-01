@@ -1,18 +1,20 @@
-# Morning Summary  (run 2026-05-01 13:52 UTC)
+# Morning Summary  (run 2026-05-01 16:56 UTC)
 
-Pipeline elapsed: **46 s**
+Pipeline elapsed: **741 s**
 
 ## Run summary
 
 - Total apparitions in scope: **644**
-- Successful daily light curves: **427**
-- Apparitions with peak_mag <= 6.0: **21**
-- Daily light-curve rows: **154147**
+- Successful daily light curves: **619**
+- Apparitions with peak_mag <= 6.0: **146**
+- Daily light-curve rows: **223459**
 
 ## Magnitude provenance breakdown
 
-- horizons_tmag: 427
-- failed: 217
+- manual_curated_override: 373
+- manual_curated: 201
+- horizons_tmag: 54
+- failed: 16
 
 ## event_case breakdown
 
@@ -26,61 +28,61 @@ Pipeline elapsed: **46 s**
 
 | comet_name | year | peak_mag | days <= 6 | event_case | provenance |
 |---|---|---|---|---|---|
-| C/1917 F1 (Mellish) | 1917 | -1.00 | 25 | unexpected_seen | horizons_tmag |
-| 1P/Halley | 1910 | 1.00 | 79 | expected_seen | horizons_tmag |
-| 109P/Swift-Tuttle | 1862 | 1.97 | 75 | unexpected_seen | horizons_tmag |
-| 12P/Pons-Brooks | 1884 | 2.60 | 89 | expected_seen | horizons_tmag |
-| 3D/Biela | 1886 | 3.56 | 100 | expected_not_seen | horizons_tmag |
-| 3D/Biela | 1866 | 3.71 | 99 | expected_not_seen | horizons_tmag |
-| C/1939 H1 (Jurlof-Achmarof-Hassel) | 1939 | 3.97 | 47 | unexpected_seen | horizons_tmag |
-| 5D/Brorsen | 1901 | 4.00 | 48 | expected_not_seen | horizons_tmag |
-| 5D/Brorsen | 1912 | 4.00 | 49 | expected_not_seen | horizons_tmag |
-| 5D/Brorsen | 1928 | 4.00 | 49 | expected_not_seen | horizons_tmag |
+| C/1882 R1 (Great September comet) | 1882 | -13.13 | 185 | unexpected_seen | manual_curated |
+| C/1887 B1 (Great southern comet) | 1887 | -12.38 | 62 | unexpected_seen | manual_curated |
+| C/1865 B1 (Great southern comet) | 1865 | -11.32 | 77 | unexpected_seen | manual_curated |
+| C/1880 C1 (Great southern comet) | 1880 | -9.10 | 50 | unexpected_seen | manual_curated |
+| C/1882 F1 (Wells) | 1882 | -7.95 | 90 | unexpected_seen | manual_curated |
+| C/1931 P1 (Ryves) | 1931 | -5.04 | 39 | unexpected_seen | manual_curated |
+| C/1910 A1 (Great January comet) | 1910 | -3.77 | 53 | unexpected_seen | manual_curated |
+| C/1927 X1 (Skjellerup-Maristany) | 1927 | -2.65 | 65 | unexpected_seen | manual_curated |
+| C/1901 G1 (Great comet) | 1901 | -2.32 | 86 | unexpected_seen | manual_curated |
+| C/1895 W1 (Perrine) | 1895 | -2.26 | 60 | unexpected_seen | manual_curated |
 
 ## Top 10 by integrated_mag6_excess
 
 | comet_name | year | integrated_mag6_excess | peak_mag | event_case |
 |---|---|---|---|---|
-| 12P/Pons-Brooks | 1884 | 182 | 2.60 | expected_seen |
-| 1P/Halley | 1910 | 172 | 1.00 | expected_seen |
-| 109P/Swift-Tuttle | 1862 | 157 | 1.97 | unexpected_seen |
-| 3D/Biela | 1886 | 149 | 3.56 | expected_not_seen |
-| 3D/Biela | 1866 | 138 | 3.71 | expected_not_seen |
-| 3D/Biela | 1938 | 98.6 | 4.14 | expected_not_seen |
-| C/1917 F1 (Mellish) | 1917 | 88.8 | -1.00 | unexpected_seen |
-| 3D/Biela | 1905 | 87.6 | 4.21 | expected_not_seen |
-| 23P/Brorsen-Metcalf | 1919 | 70 | 4.30 | expected_seen |
-| 5D/Brorsen | 1928 | 61.7 | 4.00 | expected_not_seen |
+| C/1882 R1 (Great September comet) | 1882 | 654 | -13.13 | unexpected_seen |
+| C/1913 Y1 (Delavan) | 1914 | 398 | 2.61 | unexpected_seen |
+| C/1858 L1 (Donati) | 1858 | 352 | -0.19 | unexpected_seen |
+| C/1881 K1 (Great comet) | 1881 | 344 | 0.03 | unexpected_seen |
+| C/1861 J1 (Great comet) | 1861 | 338 | -0.99 | unexpected_seen |
+| C/1882 F1 (Wells) | 1882 | 323 | -7.95 | unexpected_seen |
+| C/1915 C1 (Mellish) | 1915 | 301 | 2.45 | unexpected_seen |
+| C/1901 G1 (Great comet) | 1901 | 300 | -2.32 | unexpected_seen |
+| C/1907 L2 (Daniel) | 1907 | 291 | 1.38 | unexpected_seen |
+| C/1865 B1 (Great southern comet) | 1865 | 277 | -11.32 | unexpected_seen |
 
 ## Top 10 by spectacle_mag6_excess
 
 | comet_name | year | spectacle_mag6_excess | peak_mag | event_case |
 |---|---|---|---|---|
-| 1P/Halley | 1910 | 531 | 1.00 | expected_seen |
-| 12P/Pons-Brooks | 1884 | 475 | 2.60 | expected_seen |
-| 109P/Swift-Tuttle | 1862 | 446 | 1.97 | unexpected_seen |
-| C/1917 F1 (Mellish) | 1917 | 438 | -1.00 | unexpected_seen |
-| 3D/Biela | 1886 | 280 | 3.56 | expected_not_seen |
-| 3D/Biela | 1866 | 244 | 3.71 | expected_not_seen |
-| 3D/Biela | 1938 | 143 | 4.14 | expected_not_seen |
-| 3D/Biela | 1905 | 121 | 4.21 | expected_not_seen |
-| 5D/Brorsen | 1928 | 101 | 4.00 | expected_not_seen |
-| 5D/Brorsen | 1912 | 94.6 | 4.00 | expected_not_seen |
+| C/1882 R1 (Great September comet) | 1882 | 4.33e+03 | -13.13 | unexpected_seen |
+| C/1882 F1 (Wells) | 1882 | 2e+03 | -7.95 | unexpected_seen |
+| C/1865 B1 (Great southern comet) | 1865 | 1.87e+03 | -11.32 | unexpected_seen |
+| C/1901 G1 (Great comet) | 1901 | 1.61e+03 | -2.32 | unexpected_seen |
+| C/1858 L1 (Donati) | 1858 | 1.52e+03 | -0.19 | unexpected_seen |
+| C/1861 J1 (Great comet) | 1861 | 1.42e+03 | -0.99 | unexpected_seen |
+| C/1881 K1 (Great comet) | 1881 | 1.39e+03 | 0.03 | unexpected_seen |
+| C/1927 X1 (Skjellerup-Maristany) | 1927 | 1.21e+03 | -2.65 | unexpected_seen |
+| C/1887 B1 (Great southern comet) | 1887 | 1.19e+03 | -12.38 | unexpected_seen |
+| C/1895 W1 (Perrine) | 1895 | 1.12e+03 | -2.26 | unexpected_seen |
 
 ## Top 10 by integrated_visible_relative_flux_mag6
 
 | comet_name | year | integrated_visible_relative_flux_mag6 | peak_mag | event_case |
 |---|---|---|---|---|
-| C/1917 F1 (Mellish) | 1917 | 3.27e+03 | -1.00 | unexpected_seen |
-| 1P/Halley | 1910 | 1.42e+03 | 1.00 | expected_seen |
-| 109P/Swift-Tuttle | 1862 | 931 | 1.97 | unexpected_seen |
-| 12P/Pons-Brooks | 1884 | 879 | 2.60 | expected_seen |
-| 3D/Biela | 1886 | 489 | 3.56 | expected_not_seen |
-| 3D/Biela | 1866 | 435 | 3.71 | expected_not_seen |
-| 3D/Biela | 1938 | 280 | 4.14 | expected_not_seen |
-| 3D/Biela | 1905 | 247 | 4.21 | expected_not_seen |
-| 5D/Brorsen | 1928 | 189 | 4.00 | expected_not_seen |
-| 23P/Brorsen-Metcalf | 1919 | 188 | 4.30 | expected_seen |
+| C/1882 R1 (Great September comet) | 1882 | 4.87e+07 | -13.13 | unexpected_seen |
+| C/1887 B1 (Great southern comet) | 1887 | 2.25e+07 | -12.38 | unexpected_seen |
+| C/1865 B1 (Great southern comet) | 1865 | 8.76e+06 | -11.32 | unexpected_seen |
+| C/1880 C1 (Great southern comet) | 1880 | 1.11e+06 | -9.10 | unexpected_seen |
+| C/1882 F1 (Wells) | 1882 | 5.89e+05 | -7.95 | unexpected_seen |
+| C/1931 P1 (Ryves) | 1931 | 5.12e+04 | -5.04 | unexpected_seen |
+| C/1910 A1 (Great January comet) | 1910 | 3.41e+04 | -3.77 | unexpected_seen |
+| C/1901 G1 (Great comet) | 1901 | 2.27e+04 | -2.32 | unexpected_seen |
+| C/1927 X1 (Skjellerup-Maristany) | 1927 | 1.98e+04 | -2.65 | unexpected_seen |
+| C/1895 W1 (Perrine) | 1895 | 1.51e+04 | -2.26 | unexpected_seen |
 
 ## Validation findings
 
