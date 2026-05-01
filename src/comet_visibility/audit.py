@@ -83,8 +83,41 @@ def write_audit_report(scaffold: pd.DataFrame, summary: pd.DataFrame,
 
     add("## Manual / SBDB conflicts")
     add()
-    add(f"- Apparitions where manual M1/K1 entry was overridden by SBDB (per spec §8.2): "
+    add(f"- Apparitions where manual M1/K1 entry was overridden by SBDB "
+        f"(active-coma SBDB fit takes precedence): "
         f"{summary.get('manual_sbdb_conflict', pd.Series(dtype=bool)).fillna(False).astype(bool).sum()}")
+    add(f"- Apparitions where manual entry overrides nuclear-biased SBDB fit "
+        f"(K1 < {config.NUCLEAR_FIT_K1_THRESHOLD}, manual wins): "
+        f"{(summary.get('magnitude_provenance', pd.Series(dtype=str)) == 'manual_curated_override').sum()}")
+    add()
+
+    add("## Nuclear-biased SBDB fits (K1 below threshold)")
+    add()
+    add(f"SBDB sometimes stores (M1, K1) values that look like nuclear/asteroidal")
+    add(f"photometry rather than total cometary magnitude — typically a low K1 value")
+    add(f"(< {config.NUCLEAR_FIT_K1_THRESHOLD}, where active comae have K1 ~ 8-15).")
+    add(f"Apparitions in this state will systematically underestimate peak brightness")
+    add(f"by 5-10 magnitudes near perihelion. Add a row to `data/inputs/manual_M1K1.csv`")
+    add(f"to override with values from a published reference; the override engages")
+    add(f"automatically (provenance = `manual_curated_override`).")
+    add()
+    nuclear = summary[summary.get("sbdb_nuclear_biased", False).fillna(False).astype(bool)].copy()
+    nuclear = nuclear.sort_values(["comet_id", "apparition_year"])
+    add(f"Total apparitions affected: **{len(nuclear)}** "
+        f"(across {nuclear['comet_id'].nunique()} unique comets if any)")
+    add()
+    if not nuclear.empty:
+        add("| comet_id | year | sbdb_M1 | sbdb_K1 | provenance | peak_mag | event_case |")
+        add("|---|---|---|---|---|---|---|")
+        for _, row in nuclear.iterrows():
+            sm1 = row.get("sbdb_M1")
+            sk1 = row.get("sbdb_K1")
+            sm1s = f"{sm1:.2f}" if pd.notna(sm1) else "-"
+            sk1s = f"{sk1:.2f}" if pd.notna(sk1) else "-"
+            pm = pd.to_numeric(row.get("peak_mag"), errors="coerce")
+            pms = f"{pm:.2f}" if pd.notna(pm) else "-"
+            add(f"| {row['comet_id']} | {int(row['apparition_year'])} | {sm1s} | {sk1s} | "
+                f"{row.get('magnitude_provenance')} | {pms} | {row.get('event_case')} |")
     add()
 
     add("## Manual M1/K1 candidates (Tier 3 non-periodics)")

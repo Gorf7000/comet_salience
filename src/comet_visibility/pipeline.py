@@ -57,7 +57,8 @@ def _validate(scaffold: pd.DataFrame, summary: pd.DataFrame, daily: pd.DataFrame
         if unknown:
             errs.append(f"daily light curves reference {len(unknown)} apparition_ids not in summary")
     # provenance must be from allowed set
-    allowed = {"horizons_tmag", "manual_curated", "assumed_default_K1"}
+    allowed = {"horizons_tmag", "manual_curated", "manual_curated_override",
+               "assumed_default_K1"}
     if not daily.empty:
         bad = set(daily["magnitude_model_provenance"].dropna().unique()) - allowed
         if bad:

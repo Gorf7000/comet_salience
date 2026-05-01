@@ -50,6 +50,12 @@ NAKED_EYE_MAG_THRESHOLD = 6.0
 # ----------------------------------------------------------------------
 DEFAULT_K1 = 10.0  # active-comet activity slope, equivalent to n=4
 
+# Below this K1 value, SBDB's stored (M1, K1) are treated as a nuclear /
+# asteroidal fit rather than total cometary photometry, and a manual
+# Tier 1.5 override is permitted (and preferred). Active comae have K1 ~ 8-15;
+# inert asteroidal bodies have K1 ~ 5. See validation_results.md for context.
+NUCLEAR_FIT_K1_THRESHOLD = 6.0
+
 # ----------------------------------------------------------------------
 # Caching and reproducibility (spec §15)
 # ----------------------------------------------------------------------

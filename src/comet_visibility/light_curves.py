@@ -67,11 +67,16 @@ def _load_manual_M1K1() -> dict[str, dict]:
 class MagModel:
     M1: float | None
     K1: float | None
-    provenance: str          # 'horizons_tmag' | 'manual_curated' | 'assumed_default_K1' | 'failed'
+    # 'horizons_tmag' | 'manual_curated' | 'manual_curated_override'
+    # | 'assumed_default_K1' | 'failed'
+    provenance: str
     source_citation: str = ""
+    sbdb_M1: float | None = None    # what SBDB stored, regardless of which we use
+    sbdb_K1: float | None = None
     sbdb_M2: float | None = None    # for audit: presence of nuclear params
     sbdb_K2: float | None = None
     conflict_with_sbdb: bool = False  # for audit if manual entry overlaps SBDB
+    sbdb_nuclear_biased: bool = False  # SBDB K1 below NUCLEAR_FIT_K1_THRESHOLD
 
 
 def resolve_magnitude_model(query_pdes: str, sbdb_pdes: str = "") -> MagModel:
@@ -97,30 +102,57 @@ def resolve_magnitude_model(query_pdes: str, sbdb_pdes: str = "") -> MagModel:
     manual = _load_manual_M1K1()
     manual_entry = manual.get((sbdb_pdes or query_pdes).strip())
 
-    # Tier 1: Horizons T-mag (SBDB has both M1 and K1)
-    if sbdb_M1 is not None and sbdb_K1 is not None:
-        # Conflict check: does manual override exist?
+    sbdb_nuclear = (sbdb_K1 is not None
+                    and sbdb_K1 < config.NUCLEAR_FIT_K1_THRESHOLD)
+
+    # Tier 1: SBDB has both M1 and K1 with an active-coma slope.
+    # Spec §8.2 rule 3: SBDB wins on conflict — except where SBDB looks
+    # nuclear-biased (K1 < threshold), in which case manual overrides.
+    if sbdb_M1 is not None and sbdb_K1 is not None and not sbdb_nuclear:
         conflict = manual_entry is not None
         return MagModel(M1=sbdb_M1, K1=sbdb_K1,
                         provenance="horizons_tmag",
+                        sbdb_M1=sbdb_M1, sbdb_K1=sbdb_K1,
                         sbdb_M2=M2, sbdb_K2=K2,
-                        conflict_with_sbdb=conflict)
+                        conflict_with_sbdb=conflict,
+                        sbdb_nuclear_biased=False)
 
-    # Tier 1.5: manual curated
+    # Tier 1.5 override: SBDB has values but they're nuclear-biased,
+    # and a manual entry exists. Manual wins; provenance tagged distinctly.
+    if sbdb_nuclear and manual_entry is not None:
+        return MagModel(M1=manual_entry["M1"], K1=manual_entry["K1"],
+                        provenance="manual_curated_override",
+                        source_citation=manual_entry["source_citation"],
+                        sbdb_M1=sbdb_M1, sbdb_K1=sbdb_K1,
+                        sbdb_M2=M2, sbdb_K2=K2,
+                        sbdb_nuclear_biased=True)
+
+    # SBDB nuclear-biased but no manual entry: stuck with SBDB but flagged.
+    if sbdb_M1 is not None and sbdb_K1 is not None and sbdb_nuclear:
+        return MagModel(M1=sbdb_M1, K1=sbdb_K1,
+                        provenance="horizons_tmag",
+                        sbdb_M1=sbdb_M1, sbdb_K1=sbdb_K1,
+                        sbdb_M2=M2, sbdb_K2=K2,
+                        sbdb_nuclear_biased=True)
+
+    # Tier 1.5 gap-fill: SBDB has nothing usable, manual entry exists.
     if manual_entry is not None:
         return MagModel(M1=manual_entry["M1"], K1=manual_entry["K1"],
                         provenance="manual_curated",
                         source_citation=manual_entry["source_citation"],
+                        sbdb_M1=sbdb_M1, sbdb_K1=sbdb_K1,
                         sbdb_M2=M2, sbdb_K2=K2)
 
     # Tier 2: SBDB has M1 only
     if sbdb_M1 is not None:
         return MagModel(M1=sbdb_M1, K1=config.DEFAULT_K1,
                         provenance="assumed_default_K1",
+                        sbdb_M1=sbdb_M1, sbdb_K1=sbdb_K1,
                         sbdb_M2=M2, sbdb_K2=K2)
 
     # Tier 3: nothing usable
     return MagModel(M1=None, K1=None, provenance="failed",
+                    sbdb_M1=sbdb_M1, sbdb_K1=sbdb_K1,
                     sbdb_M2=M2, sbdb_K2=K2)
 
 
@@ -244,8 +276,10 @@ def generate_for_apparition(row: pd.Series, refresh: bool = False) -> tuple[pd.D
         "no_light_curve_window": False,
         "audit_notes": "",
         "magnitude_quality": "failed",
+        "sbdb_M1": None, "sbdb_K1": None,
         "sbdb_M2_present": False, "sbdb_K2_present": False,
         "manual_sbdb_conflict": False,
+        "sbdb_nuclear_biased": False,
     }
 
     try:
@@ -265,9 +299,12 @@ def generate_for_apparition(row: pd.Series, refresh: bool = False) -> tuple[pd.D
     mag_model = resolve_magnitude_model(row["query_pdes"], sbdb_pdes)
     meta["magnitude_provenance"] = mag_model.provenance
     meta["manual_curated_source_citation"] = mag_model.source_citation
+    meta["sbdb_M1"] = mag_model.sbdb_M1
+    meta["sbdb_K1"] = mag_model.sbdb_K1
     meta["sbdb_M2_present"] = mag_model.sbdb_M2 is not None
     meta["sbdb_K2_present"] = mag_model.sbdb_K2 is not None
     meta["manual_sbdb_conflict"] = mag_model.conflict_with_sbdb
+    meta["sbdb_nuclear_biased"] = mag_model.sbdb_nuclear_biased
 
     if mag_model.provenance == "failed":
         meta["missing_magnitude_model"] = True
@@ -277,8 +314,9 @@ def generate_for_apparition(row: pd.Series, refresh: bool = False) -> tuple[pd.D
 
     # Quality label
     if mag_model.provenance == "horizons_tmag":
-        meta["magnitude_quality"] = "high"
-    elif mag_model.provenance in ("manual_curated", "assumed_default_K1"):
+        meta["magnitude_quality"] = "low" if mag_model.sbdb_nuclear_biased else "high"
+    elif mag_model.provenance in ("manual_curated", "manual_curated_override",
+                                   "assumed_default_K1"):
         meta["magnitude_quality"] = "medium"
 
     # Build Horizons id and query
