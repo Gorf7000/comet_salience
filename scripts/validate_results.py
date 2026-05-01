@@ -51,7 +51,6 @@ logging.getLogger("astroquery").setLevel(logging.ERROR)
 REFERENCE_PEAKS = [
     # (comet_id, apparition_year, observed_peak_mag, source/notes)
     ("1P",  1910, 0.0,  "Halley 1910; Kronk: peak ~0, briefly -0.5 in early May"),
-    ("1P",  1835, 1.0,  "Halley 1835; Kronk: peak ~+1"),
     ("109P", 1862, 2.0, "Swift-Tuttle 1862 discovery; Kronk: peak ~+2"),
     ("12P", 1884, 3.0,  "Pons-Brooks 1884; Kronk: peak +3 to +3.5"),
     ("2P",  1898, 6.0,  "Encke 1898; mid-range estimate, Encke varies +5 to +7"),
@@ -60,6 +59,11 @@ REFERENCE_PEAKS = [
     ("23P", 1919, 5.0,  "Brorsen-Metcalf 1919; Kronk: peak ~+5"),
     ("8P",  1858, 7.0,  "Tuttle 1858 discovery; Kronk: peak ~+7"),
     ("17P", 1892, 5.0,  "Holmes 1892; famous outburst, peak ~+5 (M1/K1 model will not capture)"),
+    # Famous non-periodics that should now be in the dataset post-Big V promotion
+    ("C/1858 L1", 1858, -1.0, "Donati 1858; widely reported peak ~-1"),
+    ("C/1861 J1", 1861,  0.0, "Tebbutt 1861; widely reported peak ~0"),
+    ("C/1882 R1", 1882, -10.0, "Great September Comet 1882; sungrazer, peak ~-17 in daylight (single-law model will under-predict)"),
+    ("C/1910 A1", 1910, -1.0, "Great January Comet 1910; widely reported peak ~-1 to -5"),
 ]
 
 
@@ -94,29 +98,41 @@ def check1_external_peaks(summary: pd.DataFrame) -> tuple[list[str], pd.DataFram
 
 
 def check2_hand_calc(daily: pd.DataFrame) -> list[str]:
-    """Hand-calculate magnitude for a Tier 1 row and confirm match."""
+    """Hand-calculate magnitude for a Tier-1-or-1.5 row and confirm match.
+
+    After Big V promotion most periodic comets get their M1/K1 from the manual
+    CSV (provenance=manual_curated_override). Pick whatever path Halley 1910
+    is on now; whichever (M1, K1) was used, the formula has to match.
+    """
     msgs = []
-    # Pick a Halley 1910 row
-    halley = daily[(daily["apparition_id"] == "1P_1910") &
-                   (daily["magnitude_model_provenance"] == "horizons_tmag")]
+    halley = daily[daily["apparition_id"] == "1P_1910"]
     if halley.empty:
-        return ["Hand-calc skipped: no 1P_1910 horizons_tmag rows"]
-    # Use the perihelion row (days_from_perihelion closest to 0)
+        return ["Hand-calc skipped: no 1P_1910 rows"]
     halley = halley.copy()
     halley["dfp"] = pd.to_numeric(halley["days_from_perihelion"], errors="coerce").abs()
     near_peri = halley.sort_values("dfp").iloc[0]
     r = float(near_peri["heliocentric_distance_au"])
     delta = float(near_peri["geocentric_distance_au"])
     pipeline_mag = float(near_peri["apparent_mag"])
+    provenance = near_peri["magnitude_model_provenance"]
 
-    # Tier 1 (horizons_tmag) values come from Horizons using SBDB-stored M1/K1.
-    # Fetch SBDB M1/K1 and compute by hand using the same formula.
-    payload = lookup_sbdb("1P")
-    M1, K1 = extract_M1_K1(payload)
+    # Determine which (M1, K1) the pipeline used.
+    if provenance == "manual_curated_override" or provenance == "manual_curated":
+        manual = _load_manual_M1K1()
+        entry = manual.get("1P")
+        if entry is None:
+            return [f"Hand-calc skipped: 1P provenance is {provenance} but no manual entry"]
+        M1, K1 = entry["M1"], entry["K1"]
+        source_desc = f"manual_M1K1.csv (provenance={provenance})"
+    else:
+        payload = lookup_sbdb("1P")
+        M1, K1 = extract_M1_K1(payload)
+        source_desc = f"SBDB lookup (provenance={provenance})"
+
     by_hand = M1 + 5 * math.log10(delta) + K1 * math.log10(r)
     diff = pipeline_mag - by_hand
 
-    msgs.append(f"Hand-calc on 1P_1910 near-perihelion row:")
+    msgs.append(f"Hand-calc on 1P_1910 near-perihelion row ({source_desc}):")
     msgs.append(f"  date={near_peri['date']}, days_from_perihelion={near_peri['days_from_perihelion']}")
     msgs.append(f"  r={r:.6f} AU, Δ={delta:.6f} AU")
     msgs.append(f"  SBDB M1={M1}, K1={K1}")

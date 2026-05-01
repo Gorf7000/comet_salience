@@ -369,19 +369,22 @@ For apparitions where Horizons does not return a usable T-mag, apply the followi
 
 | Tier | Provenance tag | Condition | Action |
 |---|---|---|---|
-| 1 | `horizons_tmag` | Horizons returns T-mag with active-coma slope (SBDB `K1 >= NUCLEAR_FIT_K1_THRESHOLD`) | Use it directly |
-| 1.5 (override) | `manual_curated_override` | SBDB has values but `K1 < NUCLEAR_FIT_K1_THRESHOLD` (nuclear-biased fit) AND `pdes` matches a row in `data/inputs/manual_M1K1.csv` | Use the (M1, K1) from the curated CSV |
-| 1.5 (gap-fill) | `manual_curated` | SBDB has nothing usable AND `pdes` matches a row in `data/inputs/manual_M1K1.csv` | Use the (M1, K1) from the curated CSV |
+| 1.5 | `manual_curated` or `manual_curated_override` | `pdes` matches a row in `data/inputs/manual_M1K1.csv` | Use the (M1, K1) from the curated CSV. Provenance is `manual_curated_override` if SBDB also had values (any K1), else `manual_curated` |
+| 1 | `horizons_tmag` | Horizons returns T-mag (SBDB has both M1 and K1) | Use it directly |
 | 2 | `assumed_default_K1` | SBDB has `M1` but not `K1` | Compute manually using `DEFAULT_K1` |
-| 3 | `failed` | Neither `M1` nor `K1` available, and no manual entry | Skip light curve; set `missing_magnitude_model = true` and `failed_light_curve = true` |
+| 3 | `failed` | Nothing available | Skip light curve; set `missing_magnitude_model = true` and `failed_light_curve = true` |
 
-Each daily light-curve row must record `magnitude_model_provenance` with one of: `horizons_tmag`, `manual_curated`, `manual_curated_override`, `assumed_default_K1`, `failed`.
+Each daily light-curve row must record `magnitude_model_provenance` with one of: `manual_curated`, `manual_curated_override`, `horizons_tmag`, `assumed_default_K1`, `failed`.
 
-The curated CSV (Tier 1.5) serves two purposes: (a) gap-fill for historically observed comets that JPL has not parameterized — typically pre-1950 non-periodic comets — and (b) override of nuclear-biased SBDB fits (see below). Required columns: `pdes`, `M1`, `K1`, `source_citation`, `notes`. The `source_citation` must reference a published photometric reference (e.g., Vsekhsvyatskij 1958, Marsden & Williams *Catalogue of Cometary Magnitudes*) and is recorded per daily row in `manual_curated_source_citation`.
+**Tier precedence rule.** A row in `manual_M1K1.csv` always takes precedence over SBDB. This is the right precedence for a 1850–1940-focused chapter because era-appropriate published photometric references (Vsekhsvyatskij 1958, Marsden & Williams *Catalogue of Cometary Magnitudes*) are anchored against contemporary visual observations from the apparitions themselves. SBDB fits are typically integrated across all known returns and are weighted toward modern, well-observed apparitions where activity may have evolved. For comets observed only post-1958, SBDB remains the default.
 
-**Nuclear-biased SBDB fits.** SBDB sometimes stores `(M1, K1)` values fitted from observations dominated by the bare nucleus at large heliocentric distances (e.g., 2P/Encke, 8P/Tuttle). These show K1 ~ 4–5 (asteroidal slope, n ≈ 1.6–2) instead of the active-coma range K1 ~ 8–15 (n ≈ 3.2–6). When K1 falls below `NUCLEAR_FIT_K1_THRESHOLD` (default 6.0), Horizons' T-mag systematically underestimates total cometary brightness near perihelion by 5–10 magnitudes. In this regime, a manual entry in the curated CSV **overrides** the SBDB values; the override is recorded with provenance `manual_curated_override` and audited per row. If no manual entry exists for a nuclear-biased apparition, the SBDB values are used (with `magnitude_quality = low` and the apparition listed in the audit's "Nuclear-biased SBDB fits" section).
+The curated CSV serves two purposes:
+- **Gap-fill** (provenance `manual_curated`): for comets where SBDB has nothing usable — typically pre-1950 non-periodic comets — the manual entry provides the only available photometric values.
+- **Override** (provenance `manual_curated_override`): for comets where SBDB does have values but a published reference is preferred. The audit records both the SBDB and manual values so the override is traceable and auditable.
 
-**Tier precedence rule.** SBDB takes precedence on conflict *when its fit is active-coma quality* (`K1 >= NUCLEAR_FIT_K1_THRESHOLD`). For nuclear-biased SBDB fits, the manual CSV takes precedence. The audit report records both kinds of override (manual-overridden-by-SBDB and nuclear-biased-overridden-by-manual) with separate counts.
+Required columns in `manual_M1K1.csv`: `pdes`, `M1`, `K1`, `source_citation`, `notes`. The `source_citation` must reference a published photometric reference (e.g., `Vsekhsvyatskij 1958, C.A.M.`) and is recorded per daily row in `manual_curated_source_citation`.
+
+**Nuclear-biased SBDB fits (diagnostic flag, not a gate).** SBDB sometimes stores `(M1, K1)` values fitted from observations dominated by the bare nucleus at large heliocentric distances (e.g., 2P/Encke, 8P/Tuttle). These show K1 ~ 4–5 (asteroidal slope, n ≈ 1.6–2) instead of the active-coma range K1 ~ 8–15 (n ≈ 3.2–6). When K1 falls below `NUCLEAR_FIT_K1_THRESHOLD` (default 6.0), Horizons' T-mag systematically underestimates total cometary brightness near perihelion by 5–10 magnitudes. **The threshold is now a diagnostic flag only** — it does not gate the override decision (manual entries always win regardless of SBDB's K1). The audit report still lists nuclear-biased apparitions in their dedicated section so the reviewer knows which SBDB-only rows are particularly suspect and would benefit most from manual entry.
 
 Configuration:
 

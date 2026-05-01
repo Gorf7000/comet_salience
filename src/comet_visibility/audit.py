@@ -83,11 +83,10 @@ def write_audit_report(scaffold: pd.DataFrame, summary: pd.DataFrame,
 
     add("## Manual / SBDB conflicts")
     add()
-    add(f"- Apparitions where manual M1/K1 entry was overridden by SBDB "
-        f"(active-coma SBDB fit takes precedence): "
-        f"{summary.get('manual_sbdb_conflict', pd.Series(dtype=bool)).fillna(False).astype(bool).sum()}")
-    add(f"- Apparitions where manual entry overrides nuclear-biased SBDB fit "
-        f"(K1 < {config.NUCLEAR_FIT_K1_THRESHOLD}, manual wins): "
+    add(f"- Manual gap-fill entries (provenance = `manual_curated`, SBDB had nothing): "
+        f"{(summary.get('magnitude_provenance', pd.Series(dtype=str)) == 'manual_curated').sum()}")
+    add(f"- Manual override entries (provenance = `manual_curated_override`, "
+        f"SBDB had values but manual is preferred per spec §8.2): "
         f"{(summary.get('magnitude_provenance', pd.Series(dtype=str)) == 'manual_curated_override').sum()}")
     add()
 

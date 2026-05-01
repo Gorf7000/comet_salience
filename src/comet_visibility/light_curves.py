@@ -105,43 +105,31 @@ def resolve_magnitude_model(query_pdes: str, sbdb_pdes: str = "") -> MagModel:
     sbdb_nuclear = (sbdb_K1 is not None
                     and sbdb_K1 < config.NUCLEAR_FIT_K1_THRESHOLD)
 
-    # Tier 1: SBDB has both M1 and K1 with an active-coma slope.
-    # Spec §8.2 rule 3: SBDB wins on conflict — except where SBDB looks
-    # nuclear-biased (K1 < threshold), in which case manual overrides.
-    if sbdb_M1 is not None and sbdb_K1 is not None and not sbdb_nuclear:
-        conflict = manual_entry is not None
-        return MagModel(M1=sbdb_M1, K1=sbdb_K1,
-                        provenance="horizons_tmag",
-                        sbdb_M1=sbdb_M1, sbdb_K1=sbdb_K1,
-                        sbdb_M2=M2, sbdb_K2=K2,
-                        conflict_with_sbdb=conflict,
-                        sbdb_nuclear_biased=False)
-
-    # Tier 1.5 override: SBDB has values but they're nuclear-biased,
-    # and a manual entry exists. Manual wins; provenance tagged distinctly.
-    if sbdb_nuclear and manual_entry is not None:
-        return MagModel(M1=manual_entry["M1"], K1=manual_entry["K1"],
-                        provenance="manual_curated_override",
-                        source_citation=manual_entry["source_citation"],
-                        sbdb_M1=sbdb_M1, sbdb_K1=sbdb_K1,
-                        sbdb_M2=M2, sbdb_K2=K2,
-                        sbdb_nuclear_biased=True)
-
-    # SBDB nuclear-biased but no manual entry: stuck with SBDB but flagged.
-    if sbdb_M1 is not None and sbdb_K1 is not None and sbdb_nuclear:
-        return MagModel(M1=sbdb_M1, K1=sbdb_K1,
-                        provenance="horizons_tmag",
-                        sbdb_M1=sbdb_M1, sbdb_K1=sbdb_K1,
-                        sbdb_M2=M2, sbdb_K2=K2,
-                        sbdb_nuclear_biased=True)
-
-    # Tier 1.5 gap-fill: SBDB has nothing usable, manual entry exists.
+    # Tier 1.5: manual entry wins whenever present. Provenance distinguishes
+    # gap-fill (no SBDB data) from override (SBDB had values but manual
+    # is preferred — typically because the apparition predates JPL's modern
+    # photometric reductions and an era-appropriate reference like
+    # Vsekhsvyatskij 1958 or Marsden & Williams is anchored against the
+    # actual contemporary observations).
     if manual_entry is not None:
+        sbdb_had_anything = (sbdb_M1 is not None) or (sbdb_K1 is not None)
+        provenance = "manual_curated_override" if sbdb_had_anything else "manual_curated"
         return MagModel(M1=manual_entry["M1"], K1=manual_entry["K1"],
-                        provenance="manual_curated",
+                        provenance=provenance,
                         source_citation=manual_entry["source_citation"],
                         sbdb_M1=sbdb_M1, sbdb_K1=sbdb_K1,
-                        sbdb_M2=M2, sbdb_K2=K2)
+                        sbdb_M2=M2, sbdb_K2=K2,
+                        sbdb_nuclear_biased=sbdb_nuclear)
+
+    # Tier 1: SBDB has both M1 and K1 — use Horizons T-mag.
+    # nuclear-biased flag is preserved as a diagnostic; the audit lists
+    # affected apparitions as candidates for manual override.
+    if sbdb_M1 is not None and sbdb_K1 is not None:
+        return MagModel(M1=sbdb_M1, K1=sbdb_K1,
+                        provenance="horizons_tmag",
+                        sbdb_M1=sbdb_M1, sbdb_K1=sbdb_K1,
+                        sbdb_M2=M2, sbdb_K2=K2,
+                        sbdb_nuclear_biased=sbdb_nuclear)
 
     # Tier 2: SBDB has M1 only
     if sbdb_M1 is not None:
