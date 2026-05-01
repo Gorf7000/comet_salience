@@ -1,46 +1,45 @@
-2026-04-30 18:53:37,187 INFO root: Overnight pipeline start at 2026-04-30T22:53:37.187829
-2026-04-30 18:53:37,188 INFO src.comet_visibility.pipeline: Pipeline start
-2026-04-30 18:53:37,339 INFO src.comet_visibility.scaffold: SBDB non-periodic: 235 raw rows -> 231 after fragment merge
-2026-04-30 18:53:37,494 INFO src.comet_visibility.pipeline: Scaffold rows: 644 -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\data\processed\comet_apparitions_coded.csv
-2026-04-30 18:53:37,497 INFO src.comet_visibility.light_curves: Loaded 0 manual M1/K1 entries from manual_M1K1.csv
-2026-04-30 18:55:03,025 INFO src.comet_visibility.pipeline: Progress 25/644 (4%): 25 successful curves, elapsed 85.8s
-2026-04-30 18:56:32,869 INFO src.comet_visibility.pipeline: Progress 50/644 (8%): 50 successful curves, elapsed 175.7s
-2026-04-30 18:58:00,806 INFO src.comet_visibility.pipeline: Progress 75/644 (12%): 75 successful curves, elapsed 263.6s
-2026-04-30 18:59:30,981 INFO src.comet_visibility.pipeline: Progress 100/644 (16%): 100 successful curves, elapsed 353.8s
-2026-04-30 19:01:01,770 INFO src.comet_visibility.pipeline: Progress 125/644 (19%): 125 successful curves, elapsed 444.6s
-2026-04-30 19:02:34,624 INFO src.comet_visibility.pipeline: Progress 150/644 (23%): 150 successful curves, elapsed 537.4s
-2026-04-30 19:04:06,644 INFO src.comet_visibility.pipeline: Progress 175/644 (27%): 175 successful curves, elapsed 629.5s
-2026-04-30 19:05:38,413 INFO src.comet_visibility.pipeline: Progress 200/644 (31%): 200 successful curves, elapsed 721.2s
-2026-04-30 19:07:16,031 INFO src.comet_visibility.pipeline: Progress 225/644 (35%): 225 successful curves, elapsed 818.8s
-2026-04-30 19:08:54,662 INFO src.comet_visibility.pipeline: Progress 250/644 (39%): 250 successful curves, elapsed 917.5s
-2026-04-30 19:10:34,918 INFO src.comet_visibility.pipeline: Progress 275/644 (43%): 275 successful curves, elapsed 1017.7s
-2026-04-30 19:12:10,654 INFO src.comet_visibility.pipeline: Progress 300/644 (47%): 300 successful curves, elapsed 1113.5s
-2026-04-30 19:13:41,900 INFO src.comet_visibility.pipeline: Progress 325/644 (50%): 323 successful curves, elapsed 1204.7s
-2026-04-30 19:15:19,451 INFO src.comet_visibility.pipeline: Progress 350/644 (54%): 347 successful curves, elapsed 1302.3s
-2026-04-30 19:16:36,569 INFO src.comet_visibility.pipeline: Progress 375/644 (58%): 365 successful curves, elapsed 1379.4s
-2026-04-30 19:18:16,221 INFO src.comet_visibility.pipeline: Progress 400/644 (62%): 390 successful curves, elapsed 1479.0s
-2026-04-30 19:19:18,431 INFO src.comet_visibility.pipeline: Progress 425/644 (66%): 403 successful curves, elapsed 1541.2s
-2026-04-30 19:19:42,449 INFO src.comet_visibility.pipeline: Progress 450/644 (70%): 403 successful curves, elapsed 1565.3s
-2026-04-30 19:20:07,156 INFO src.comet_visibility.pipeline: Progress 475/644 (74%): 403 successful curves, elapsed 1590.0s
-2026-04-30 19:20:33,707 INFO src.comet_visibility.pipeline: Progress 500/644 (78%): 404 successful curves, elapsed 1616.5s
-2026-04-30 19:20:52,857 INFO src.comet_visibility.pipeline: Progress 525/644 (82%): 404 successful curves, elapsed 1635.7s
-2026-04-30 19:21:19,252 INFO src.comet_visibility.pipeline: Progress 550/644 (85%): 406 successful curves, elapsed 1662.1s
-2026-04-30 19:21:44,198 INFO src.comet_visibility.pipeline: Progress 575/644 (89%): 407 successful curves, elapsed 1687.0s
-2026-04-30 19:22:35,689 INFO src.comet_visibility.pipeline: Progress 600/644 (93%): 415 successful curves, elapsed 1738.5s
-2026-04-30 19:23:01,486 INFO src.comet_visibility.pipeline: Progress 625/644 (97%): 416 successful curves, elapsed 1764.3s
-2026-04-30 19:23:57,921 INFO src.comet_visibility.pipeline: Progress 644/644 (100%): 427 successful curves, elapsed 1820.7s
-2026-04-30 19:23:57,980 INFO src.comet_visibility.pipeline: Summary rows: 644 -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\data\processed\comet_brightness_summary.csv
-2026-04-30 19:24:12,035 INFO src.comet_visibility.pipeline: Daily light-curve rows: 154147 -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\data\processed\comet_daily_light_curves.csv
-2026-04-30 19:24:12,724 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\01_peak_mag_histogram.png
-2026-04-30 19:24:12,849 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\02_peak_vs_duration.png
-2026-04-30 19:24:12,987 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\03_integrated_vs_spectacle_mag.png
-2026-04-30 19:24:13,126 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\04_mag_vs_flux_families.png
-2026-04-30 19:24:13,279 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\05_event_case_counts.png
-2026-04-30 19:24:13,382 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\06_main_sample_candidate.png
-2026-04-30 19:24:13,749 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\07a_top_by_integrated_mag.png
-2026-04-30 19:24:14,105 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\07b_top_by_spectacle_mag.png
-2026-04-30 19:24:14,458 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\07c_top_by_flux.png
-2026-04-30 19:24:14,486 INFO src.comet_visibility.pipeline: Audit -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\reports\comet_visibility_audit.md
-2026-04-30 19:24:14,609 INFO root: Pipeline complete in 1837.4s
-2026-04-30 19:24:16,907 INFO root: Wrote morning summary -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\reports\morning_summary.md
-2026-04-30 19:24:32,019 INFO root: Git push complete
+2026-05-01 09:51:46,042 INFO root: Overnight pipeline start at 2026-05-01T13:51:46.042400
+2026-05-01 09:51:46,042 INFO src.comet_visibility.pipeline: Pipeline start
+2026-05-01 09:51:46,206 INFO src.comet_visibility.scaffold: SBDB non-periodic: 235 raw rows -> 231 after fragment merge
+2026-05-01 09:51:46,445 INFO src.comet_visibility.pipeline: Scaffold rows: 644 -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\data\processed\comet_apparitions_coded.csv
+2026-05-01 09:51:46,452 INFO src.comet_visibility.light_curves: Loaded 0 manual M1/K1 entries from manual_M1K1.csv
+2026-05-01 09:51:47,829 INFO src.comet_visibility.pipeline: Progress 25/644 (4%): 25 successful curves, elapsed 1.8s
+2026-05-01 09:51:48,929 INFO src.comet_visibility.pipeline: Progress 50/644 (8%): 50 successful curves, elapsed 2.9s
+2026-05-01 09:51:50,074 INFO src.comet_visibility.pipeline: Progress 75/644 (12%): 75 successful curves, elapsed 4.0s
+2026-05-01 09:51:51,342 INFO src.comet_visibility.pipeline: Progress 100/644 (16%): 100 successful curves, elapsed 5.3s
+2026-05-01 09:51:52,607 INFO src.comet_visibility.pipeline: Progress 125/644 (19%): 125 successful curves, elapsed 6.6s
+2026-05-01 09:51:54,020 INFO src.comet_visibility.pipeline: Progress 150/644 (23%): 150 successful curves, elapsed 8.0s
+2026-05-01 09:51:55,720 INFO src.comet_visibility.pipeline: Progress 175/644 (27%): 175 successful curves, elapsed 9.7s
+2026-05-01 09:51:56,997 INFO src.comet_visibility.pipeline: Progress 200/644 (31%): 200 successful curves, elapsed 11.0s
+2026-05-01 09:51:58,307 INFO src.comet_visibility.pipeline: Progress 225/644 (35%): 225 successful curves, elapsed 12.3s
+2026-05-01 09:51:59,996 INFO src.comet_visibility.pipeline: Progress 250/644 (39%): 250 successful curves, elapsed 14.0s
+2026-05-01 09:52:01,059 INFO src.comet_visibility.pipeline: Progress 275/644 (43%): 275 successful curves, elapsed 15.0s
+2026-05-01 09:52:02,013 INFO src.comet_visibility.pipeline: Progress 300/644 (47%): 300 successful curves, elapsed 16.0s
+2026-05-01 09:52:02,961 INFO src.comet_visibility.pipeline: Progress 325/644 (50%): 323 successful curves, elapsed 16.9s
+2026-05-01 09:52:04,307 INFO src.comet_visibility.pipeline: Progress 350/644 (54%): 347 successful curves, elapsed 18.3s
+2026-05-01 09:52:05,192 INFO src.comet_visibility.pipeline: Progress 375/644 (58%): 365 successful curves, elapsed 19.1s
+2026-05-01 09:52:06,303 INFO src.comet_visibility.pipeline: Progress 400/644 (62%): 390 successful curves, elapsed 20.3s
+2026-05-01 09:52:07,480 INFO src.comet_visibility.pipeline: Progress 425/644 (66%): 403 successful curves, elapsed 21.4s
+2026-05-01 09:52:07,890 INFO src.comet_visibility.pipeline: Progress 450/644 (70%): 403 successful curves, elapsed 21.8s
+2026-05-01 09:52:08,472 INFO src.comet_visibility.pipeline: Progress 475/644 (74%): 403 successful curves, elapsed 22.4s
+2026-05-01 09:52:08,994 INFO src.comet_visibility.pipeline: Progress 500/644 (78%): 404 successful curves, elapsed 23.0s
+2026-05-01 09:52:09,685 INFO src.comet_visibility.pipeline: Progress 525/644 (82%): 404 successful curves, elapsed 23.6s
+2026-05-01 09:52:10,094 INFO src.comet_visibility.pipeline: Progress 550/644 (85%): 406 successful curves, elapsed 24.1s
+2026-05-01 09:52:10,428 INFO src.comet_visibility.pipeline: Progress 575/644 (89%): 407 successful curves, elapsed 24.4s
+2026-05-01 09:52:11,091 INFO src.comet_visibility.pipeline: Progress 600/644 (93%): 415 successful curves, elapsed 25.0s
+2026-05-01 09:52:11,422 INFO src.comet_visibility.pipeline: Progress 625/644 (97%): 416 successful curves, elapsed 25.4s
+2026-05-01 09:52:12,239 INFO src.comet_visibility.pipeline: Progress 644/644 (100%): 427 successful curves, elapsed 26.2s
+2026-05-01 09:52:12,321 INFO src.comet_visibility.pipeline: Summary rows: 644 -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\data\processed\comet_brightness_summary.csv
+2026-05-01 09:52:29,382 INFO src.comet_visibility.pipeline: Daily light-curve rows: 154147 -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\data\processed\comet_daily_light_curves.csv
+2026-05-01 09:52:30,141 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\01_peak_mag_histogram.png
+2026-05-01 09:52:30,291 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\02_peak_vs_duration.png
+2026-05-01 09:52:30,446 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\03_integrated_vs_spectacle_mag.png
+2026-05-01 09:52:30,611 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\04_mag_vs_flux_families.png
+2026-05-01 09:52:30,795 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\05_event_case_counts.png
+2026-05-01 09:52:30,948 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\06_main_sample_candidate.png
+2026-05-01 09:52:31,414 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\07a_top_by_integrated_mag.png
+2026-05-01 09:52:31,838 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\07b_top_by_spectacle_mag.png
+2026-05-01 09:52:32,252 INFO src.comet_visibility.diagnostics: saved C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics\07c_top_by_flux.png
+2026-05-01 09:52:32,297 INFO src.comet_visibility.pipeline: Audit -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\reports\comet_visibility_audit.md
+2026-05-01 09:52:32,384 INFO root: Pipeline complete in 46.3s
+2026-05-01 09:52:35,065 INFO root: Wrote morning summary -> C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\reports\morning_summary.md

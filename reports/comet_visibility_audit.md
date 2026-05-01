@@ -1,5 +1,5 @@
 # Comet Visibility Audit Report
-_Generated 2026-04-30 23:24 UTC_
+_Generated 2026-05-01 13:52 UTC_
 
 ## Summary counts
 
@@ -30,8 +30,9 @@ _Generated 2026-04-30 23:24 UTC_
 
 ## Magnitude quality (per apparition)
 
-- high: 427
+- high: 281
 - failed: 217
+- low: 146
 
 ## Adaptive window statistics
 
@@ -45,7 +46,169 @@ _Generated 2026-04-30 23:24 UTC_
 
 ## Manual / SBDB conflicts
 
-- Apparitions where manual M1/K1 entry was overridden by SBDB (per spec §8.2): 0
+- Apparitions where manual M1/K1 entry was overridden by SBDB (active-coma SBDB fit takes precedence): 0
+- Apparitions where manual entry overrides nuclear-biased SBDB fit (K1 < 6.0, manual wins): 0
+
+## Nuclear-biased SBDB fits (K1 below threshold)
+
+SBDB sometimes stores (M1, K1) values that look like nuclear/asteroidal
+photometry rather than total cometary magnitude — typically a low K1 value
+(< 6.0, where active comae have K1 ~ 8-15).
+Apparitions in this state will systematically underestimate peak brightness
+by 5-10 magnitudes near perihelion. Add a row to `data/inputs/manual_M1K1.csv`
+to override with values from a published reference; the override engages
+automatically (provenance = `manual_curated_override`).
+
+Total apparitions affected: **146** (across 21 unique comets if any)
+
+| comet_id | year | sbdb_M1 | sbdb_K1 | provenance | peak_mag | event_case |
+|---|---|---|---|---|---|---|
+| 10P | 1873 | 14.70 | 4.50 | horizons_tmag | 14.42 | unexpected_seen |
+| 10P | 1878 | 14.70 | 4.50 | horizons_tmag | 14.74 | expected_seen |
+| 10P | 1883 | 14.70 | 4.50 | horizons_tmag | 16.70 | expected_not_seen |
+| 10P | 1889 | 14.70 | 4.50 | horizons_tmag | 17.11 | expected_not_seen |
+| 10P | 1894 | 14.70 | 4.50 | horizons_tmag | 16.44 | expected_seen |
+| 10P | 1899 | 14.70 | 4.50 | horizons_tmag | 13.21 | expected_seen |
+| 10P | 1904 | 14.70 | 4.50 | horizons_tmag | 16.64 | expected_seen |
+| 10P | 1910 | 14.70 | 4.50 | horizons_tmag | 17.05 | expected_not_seen |
+| 10P | 1915 | 14.70 | 4.50 | horizons_tmag | 16.54 | expected_seen |
+| 10P | 1920 | 14.70 | 4.50 | horizons_tmag | 15.12 | expected_seen |
+| 10P | 1925 | 14.70 | 4.50 | horizons_tmag | 12.77 | expected_seen |
+| 10P | 1930 | 14.70 | 4.50 | horizons_tmag | 15.69 | expected_seen |
+| 10P | 1935 | 14.70 | 4.50 | horizons_tmag | 16.83 | expected_not_seen |
+| 14P | 1884 | 15.60 | 4.50 | horizons_tmag | 16.08 | unexpected_seen |
+| 14P | 1891 | 15.60 | 4.50 | horizons_tmag | 16.11 | expected_seen |
+| 14P | 1898 | 15.60 | 4.50 | horizons_tmag | 17.73 | expected_seen |
+| 14P | 1905 | 15.60 | 4.50 | horizons_tmag | 18.54 | expected_not_seen |
+| 14P | 1912 | 15.60 | 4.50 | horizons_tmag | 18.32 | expected_seen |
+| 14P | 1918 | 15.60 | 4.50 | horizons_tmag | 16.80 | expected_seen |
+| 14P | 1925 | 15.60 | 4.50 | horizons_tmag | 18.26 | expected_seen |
+| 14P | 1934 | 15.60 | 4.50 | horizons_tmag | 19.04 | expected_seen |
+| 26P | 1853 | 16.50 | 5.50 | horizons_tmag | 16.70 | retrospective_not_observed |
+| 26P | 1858 | 16.50 | 5.50 | horizons_tmag | 16.66 | retrospective_not_observed |
+| 26P | 1863 | 16.50 | 5.50 | horizons_tmag | 16.62 | retrospective_not_observed |
+| 26P | 1868 | 16.50 | 5.50 | horizons_tmag | 16.58 | retrospective_not_observed |
+| 26P | 1873 | 16.50 | 5.50 | horizons_tmag | 16.38 | retrospective_not_observed |
+| 26P | 1878 | 16.50 | 5.50 | horizons_tmag | 15.80 | retrospective_not_observed |
+| 26P | 1883 | 16.50 | 5.50 | horizons_tmag | 15.10 | retrospective_not_observed |
+| 26P | 1888 | 16.50 | 5.50 | horizons_tmag | 16.56 | retrospective_not_observed |
+| 26P | 1892 | 16.50 | 5.50 | horizons_tmag | 17.05 | retrospective_not_observed |
+| 26P | 1897 | 16.50 | 5.50 | horizons_tmag | 17.00 | retrospective_not_observed |
+| 26P | 1902 | 16.50 | 5.50 | horizons_tmag | 15.60 | retrospective_pre_discovery |
+| 26P | 1907 | 16.50 | 5.50 | horizons_tmag | 15.01 | retrospective_not_observed |
+| 26P | 1912 | 16.50 | 5.50 | horizons_tmag | 14.83 | retrospective_not_observed |
+| 26P | 1917 | 16.50 | 5.50 | horizons_tmag | 14.31 | retrospective_not_observed |
+| 26P | 1922 | 16.50 | 5.50 | horizons_tmag | 13.57 | unexpected_seen |
+| 26P | 1927 | 16.50 | 5.50 | horizons_tmag | 12.93 | expected_seen |
+| 26P | 1932 | 16.50 | 5.50 | horizons_tmag | 13.38 | expected_seen |
+| 26P | 1937 | 16.50 | 5.50 | horizons_tmag | 14.39 | expected_seen |
+| 289P | 1850 | 22.00 | 4.50 | horizons_tmag | 18.81 | expected_not_seen |
+| 289P | 1856 | 22.00 | 4.50 | horizons_tmag | 22.86 | expected_not_seen |
+| 289P | 1861 | 22.00 | 4.50 | horizons_tmag | 23.22 | expected_not_seen |
+| 289P | 1866 | 22.00 | 4.50 | horizons_tmag | 16.00 | expected_not_seen |
+| 289P | 1872 | 22.00 | 4.50 | horizons_tmag | 22.47 | expected_not_seen |
+| 289P | 1877 | 22.00 | 4.50 | horizons_tmag | 23.27 | expected_not_seen |
+| 289P | 1882 | 22.00 | 4.50 | horizons_tmag | 22.82 | expected_not_seen |
+| 289P | 1887 | 22.00 | 4.50 | horizons_tmag | 19.98 | expected_not_seen |
+| 289P | 1893 | 22.00 | 4.50 | horizons_tmag | 21.34 | expected_not_seen |
+| 289P | 1898 | 22.00 | 4.50 | horizons_tmag | 23.16 | expected_not_seen |
+| 289P | 1903 | 22.00 | 4.50 | horizons_tmag | 22.29 | expected_not_seen |
+| 289P | 1909 | 22.00 | 4.50 | horizons_tmag | 23.22 | expected_not_seen |
+| 289P | 1914 | 22.00 | 4.50 | horizons_tmag | 22.55 | expected_not_seen |
+| 289P | 1919 | 22.00 | 4.50 | horizons_tmag | 15.00 | expected_not_seen |
+| 289P | 1925 | 22.00 | 4.50 | horizons_tmag | 22.51 | expected_not_seen |
+| 289P | 1930 | 22.00 | 4.50 | horizons_tmag | 23.29 | expected_not_seen |
+| 289P | 1935 | 22.00 | 4.50 | horizons_tmag | 22.80 | expected_not_seen |
+| 289P | 1940 | 22.00 | 4.50 | horizons_tmag | 19.25 | expected_not_seen |
+| 28P | 1913 | 13.20 | 4.50 | horizons_tmag | 12.75 | unexpected_seen |
+| 28P | 1931 | 13.20 | 4.50 | horizons_tmag | 15.68 | expected_seen |
+| 29P | 1908 | 10.10 | 4.50 | horizons_tmag | 16.69 | retrospective_pre_discovery |
+| 29P | 1925 | 10.10 | 4.50 | horizons_tmag | 16.68 | unexpected_seen |
+| 2P | 1852 | 15.60 | 4.50 | horizons_tmag | 13.00 | expected_seen |
+| 2P | 1855 | 15.60 | 4.50 | horizons_tmag | 13.83 | expected_seen |
+| 2P | 1858 | 15.60 | 4.50 | horizons_tmag | 13.93 | expected_seen |
+| 2P | 1862 | 15.60 | 4.50 | horizons_tmag | 13.00 | expected_seen |
+| 2P | 1865 | 15.60 | 4.50 | horizons_tmag | 12.84 | expected_seen |
+| 2P | 1868 | 15.60 | 4.50 | horizons_tmag | 14.07 | expected_seen |
+| 2P | 1871 | 15.60 | 4.50 | horizons_tmag | 12.86 | expected_seen |
+| 2P | 1875 | 15.60 | 4.50 | horizons_tmag | 13.00 | expected_seen |
+| 2P | 1878 | 15.60 | 4.50 | horizons_tmag | 14.00 | expected_seen |
+| 2P | 1881 | 15.60 | 4.50 | horizons_tmag | 13.61 | expected_seen |
+| 2P | 1885 | 15.60 | 4.50 | horizons_tmag | 13.00 | expected_seen |
+| 2P | 1888 | 15.60 | 4.50 | horizons_tmag | 13.85 | expected_seen |
+| 2P | 1891 | 15.60 | 4.50 | horizons_tmag | 13.94 | expected_seen |
+| 2P | 1895 | 15.60 | 4.50 | horizons_tmag | 13.00 | expected_seen |
+| 2P | 1898 | 15.60 | 4.50 | horizons_tmag | 12.69 | expected_seen |
+| 2P | 1901 | 15.60 | 4.50 | horizons_tmag | 14.13 | expected_seen |
+| 2P | 1905 | 15.60 | 4.50 | horizons_tmag | 12.95 | expected_seen |
+| 2P | 1908 | 15.60 | 4.50 | horizons_tmag | 12.94 | expected_seen |
+| 2P | 1911 | 15.60 | 4.50 | horizons_tmag | 14.12 | expected_seen |
+| 2P | 1914 | 15.60 | 4.50 | horizons_tmag | 12.71 | expected_seen |
+| 2P | 1918 | 15.60 | 4.50 | horizons_tmag | 13.00 | expected_seen |
+| 2P | 1921 | 15.60 | 4.50 | horizons_tmag | 13.95 | expected_seen |
+| 2P | 1924 | 15.60 | 4.50 | horizons_tmag | 13.82 | expected_seen |
+| 2P | 1928 | 15.60 | 4.50 | horizons_tmag | 13.00 | expected_seen |
+| 2P | 1931 | 15.60 | 4.50 | horizons_tmag | 12.92 | expected_seen |
+| 2P | 1934 | 15.60 | 4.50 | horizons_tmag | 14.06 | expected_seen |
+| 2P | 1937 | 15.60 | 4.50 | horizons_tmag | 12.65 | expected_seen |
+| 33P | 1909 | 15.50 | 4.50 | horizons_tmag | 14.26 | unexpected_seen |
+| 33P | 1916 | 15.50 | 4.50 | horizons_tmag | 17.86 | expected_not_seen |
+| 33P | 1923 | 15.50 | 4.50 | horizons_tmag | 18.37 | expected_not_seen |
+| 33P | 1930 | 15.50 | 4.50 | horizons_tmag | 17.99 | expected_not_seen |
+| 33P | 1937 | 15.50 | 4.50 | horizons_tmag | 16.27 | expected_seen |
+| 41P | 1858 | 16.90 | 4.50 | horizons_tmag | 15.45 | unexpected_seen |
+| 41P | 1863 | 16.90 | 4.50 | horizons_tmag | 18.68 | expected_not_seen |
+| 41P | 1869 | 16.90 | 4.50 | horizons_tmag | 18.08 | expected_not_seen |
+| 41P | 1874 | 16.90 | 4.50 | horizons_tmag | 16.10 | expected_not_seen |
+| 41P | 1879 | 16.90 | 4.50 | horizons_tmag | 18.75 | expected_not_seen |
+| 41P | 1885 | 16.90 | 4.50 | horizons_tmag | 17.71 | expected_not_seen |
+| 41P | 1890 | 16.90 | 4.50 | horizons_tmag | 17.49 | expected_not_seen |
+| 41P | 1896 | 16.90 | 4.50 | horizons_tmag | 17.61 | expected_not_seen |
+| 41P | 1901 | 16.90 | 4.50 | horizons_tmag | 19.00 | expected_not_seen |
+| 41P | 1907 | 16.90 | 4.50 | horizons_tmag | 16.84 | expected_seen |
+| 41P | 1912 | 16.90 | 4.50 | horizons_tmag | 18.39 | expected_not_seen |
+| 41P | 1918 | 16.90 | 4.50 | horizons_tmag | 17.98 | expected_not_seen |
+| 41P | 1924 | 16.90 | 4.50 | horizons_tmag | 18.10 | expected_not_seen |
+| 41P | 1929 | 16.90 | 4.50 | horizons_tmag | 17.66 | expected_not_seen |
+| 41P | 1934 | 16.90 | 4.50 | horizons_tmag | 18.39 | expected_not_seen |
+| 41P | 1940 | 16.90 | 4.50 | horizons_tmag | 16.85 | expected_not_seen |
+| 42P | 1929 | 16.60 | 4.50 | horizons_tmag | 18.14 | unexpected_seen |
+| 42P | 1940 | 16.60 | 4.50 | horizons_tmag | 18.63 | expected_not_seen |
+| 69P | 1916 | 17.30 | 4.50 | horizons_tmag | 17.26 | unexpected_seen |
+| 69P | 1922 | 17.30 | 4.50 | horizons_tmag | 20.15 | expected_not_seen |
+| 69P | 1928 | 17.30 | 4.50 | horizons_tmag | 19.06 | expected_not_seen |
+| 69P | 1935 | 17.30 | 4.50 | horizons_tmag | 19.52 | expected_not_seen |
+| 7P | 1852 | 16.00 | 4.50 | horizons_tmag | 16.12 | retrospective_not_observed |
+| 7P | 1858 | 16.00 | 4.50 | horizons_tmag | 14.56 | unexpected_seen |
+| 7P | 1863 | 16.00 | 4.50 | horizons_tmag | 16.65 | expected_not_seen |
+| 7P | 1869 | 16.00 | 4.50 | horizons_tmag | 12.00 | expected_seen |
+| 7P | 1875 | 16.00 | 4.50 | horizons_tmag | 16.39 | expected_seen |
+| 7P | 1880 | 16.00 | 4.50 | horizons_tmag | 16.88 | expected_not_seen |
+| 7P | 1886 | 16.00 | 4.50 | horizons_tmag | 15.69 | expected_seen |
+| 7P | 1892 | 16.00 | 4.50 | horizons_tmag | 11.00 | expected_seen |
+| 7P | 1898 | 16.00 | 4.50 | horizons_tmag | 16.55 | expected_seen |
+| 7P | 1904 | 16.00 | 4.50 | horizons_tmag | 17.19 | expected_not_seen |
+| 7P | 1909 | 16.00 | 4.50 | horizons_tmag | 16.89 | expected_seen |
+| 7P | 1915 | 16.00 | 4.50 | horizons_tmag | 16.08 | expected_seen |
+| 7P | 1921 | 16.00 | 4.50 | horizons_tmag | 11.83 | expected_seen |
+| 7P | 1927 | 16.00 | 4.50 | horizons_tmag | 9.06 | expected_seen |
+| 7P | 1933 | 16.00 | 4.50 | horizons_tmag | 14.86 | expected_seen |
+| 7P | 1939 | 16.00 | 4.50 | horizons_tmag | 11.35 | expected_seen |
+| 8P | 1858 | 14.60 | 4.50 | horizons_tmag | 14.21 | unexpected_seen |
+| 8P | 1871 | 14.60 | 4.50 | horizons_tmag | 13.86 | expected_seen |
+| 8P | 1885 | 14.60 | 4.50 | horizons_tmag | 15.80 | expected_seen |
+| 8P | 1899 | 14.60 | 4.50 | horizons_tmag | 15.79 | expected_seen |
+| 8P | 1912 | 14.60 | 4.50 | horizons_tmag | 15.04 | expected_seen |
+| 8P | 1926 | 14.60 | 4.50 | horizons_tmag | 15.77 | expected_seen |
+| 8P | 1939 | 14.60 | 4.50 | horizons_tmag | 14.70 | expected_seen |
+| C/1898 R1 | 1898 | 7.50 | 4.50 | horizons_tmag | 6.55 | unexpected_seen |
+| C/1913 Y1 | 1914 | 4.80 | 4.25 | horizons_tmag | 6.03 | unexpected_seen |
+| C/1914 F1 | 1914 | 11.10 | 4.50 | horizons_tmag | 10.02 | unexpected_seen |
+| C/1915 C1 | 1915 | 7.70 | 4.50 | horizons_tmag | 6.01 | unexpected_seen |
+| C/1931 O1 | 1931 | 5.70 | 4.75 | horizons_tmag | 6.77 | unexpected_seen |
+| C/1932 M1 | 1932 | 11.10 | 4.50 | horizons_tmag | 12.99 | unexpected_seen |
+| C/1932 M2 | 1932 | 6.10 | 4.50 | horizons_tmag | 9.34 | unexpected_seen |
+| C/1939 H1 | 1939 | 6.00 | 4.50 | horizons_tmag | 3.97 | unexpected_seen |
 
 ## Manual M1/K1 candidates (Tier 3 non-periodics)
 
