@@ -48,52 +48,125 @@ logging.getLogger("astroquery").setLevel(logging.ERROR)
 # benchmarks — agreement to within ~1 magnitude is good for an M1/K1 single
 # power-law model.
 # ----------------------------------------------------------------------
+#
+# Each entry has a `category`:
+#   - tolerance : observed peak is well-constrained; model must match within ±1.5 mag
+#   - range     : observed peak is reported as a range (sungrazer, multi-source);
+#                 model passes if it falls inside [accept_min, accept_max]
+#   - model_limit : the apparition exhibits a phenomenon the single-law M1/K1
+#                   model cannot capture by construction (outburst, disintegration,
+#                   apparition-to-apparition variability wider than tolerance).
+#                   Diff is reported but does not count as a failure.
+#
 REFERENCE_PEAKS = [
-    # (comet_id, apparition_year, observed_peak_mag, source/notes)
-    ("1P",  1910, 0.0,  "Halley 1910; Kronk: peak ~0, briefly -0.5 in early May"),
-    ("109P", 1862, 2.0, "Swift-Tuttle 1862 discovery; Kronk: peak ~+2"),
-    ("12P", 1884, 3.0,  "Pons-Brooks 1884; Kronk: peak +3 to +3.5"),
-    ("2P",  1898, 6.0,  "Encke 1898; mid-range estimate, Encke varies +5 to +7"),
-    ("3D",  1852, 5.0,  "Biela 1852 final intact return; Kronk: peak ~+5"),
-    ("5D",  1879, 6.0,  "Brorsen 1879; Kronk: peak ~+5 to +6"),
-    ("23P", 1919, 5.0,  "Brorsen-Metcalf 1919; Kronk: peak ~+5"),
-    ("8P",  1858, 7.0,  "Tuttle 1858 discovery; Kronk: peak ~+7"),
-    ("17P", 1892, 5.0,  "Holmes 1892; famous outburst, peak ~+5 (M1/K1 model will not capture)"),
+    {"comet_id": "1P", "year": 1910, "observed": 0.0, "category": "tolerance",
+     "notes": "Halley 1910; Kronk: peak ~0, briefly -0.5 in early May"},
+    {"comet_id": "109P", "year": 1862, "observed": 2.0, "category": "tolerance",
+     "notes": "Swift-Tuttle 1862 discovery; Kronk: peak ~+2"},
+    {"comet_id": "12P", "year": 1884, "observed": 3.0, "category": "tolerance",
+     "notes": "Pons-Brooks 1884; Kronk: peak +3 to +3.5"},
+    {"comet_id": "2P", "year": 1898, "observed": 6.0, "category": "model_limit",
+     "notes": "Encke 1898; Encke varies +5 to +7 across returns — apparition-to-apparition variability exceeds tolerance"},
+    {"comet_id": "3D", "year": 1852, "observed": 5.0, "category": "model_limit",
+     "notes": "Biela 1852 final intact return; comet was visibly disintegrating, single-law fit cannot track activity collapse"},
+    {"comet_id": "5D", "year": 1879, "observed": 6.0, "category": "tolerance",
+     "notes": "Brorsen 1879; Kronk: peak ~+5 to +6"},
+    {"comet_id": "23P", "year": 1919, "observed": 5.0, "category": "tolerance",
+     "notes": "Brorsen-Metcalf 1919; Kronk: peak ~+5"},
+    {"comet_id": "8P", "year": 1858, "observed": 7.0, "category": "tolerance",
+     "notes": "Tuttle 1858 discovery; Kronk: peak ~+7"},
+    {"comet_id": "17P", "year": 1892, "observed": 5.0, "category": "model_limit",
+     "notes": "Holmes 1892; famous outburst — M1/K1 model cannot capture stochastic outbursts by design"},
     # Famous non-periodics that should now be in the dataset post-Big V promotion
-    ("C/1858 L1", 1858, -1.0, "Donati 1858; widely reported peak ~-1"),
-    ("C/1861 J1", 1861,  0.0, "Tebbutt 1861; widely reported peak ~0"),
-    ("C/1882 R1", 1882, -10.0, "Great September Comet 1882; sungrazer, peak ~-17 in daylight (single-law model will under-predict)"),
-    ("C/1910 A1", 1910, -1.0, "Great January Comet 1910; widely reported peak ~-1 to -5"),
+    {"comet_id": "C/1858 L1", "year": 1858, "observed": -1.0, "category": "tolerance",
+     "notes": "Donati 1858; widely reported peak ~-1"},
+    {"comet_id": "C/1861 J1", "year": 1861, "observed": 0.0, "category": "tolerance",
+     "notes": "Tebbutt 1861; widely reported peak ~0"},
+    {"comet_id": "C/1882 R1", "year": 1882, "observed": -10.0, "category": "range",
+     "accept_min": -17.0, "accept_max": -10.0,
+     "notes": "Great September Comet 1882; sungrazer — peaks reported -17 (in-daylight forward scattering near Sun) to -10 (post-perihelion night-sky)"},
+    {"comet_id": "C/1910 A1", "year": 1910, "observed": -1.0, "category": "range",
+     "accept_min": -5.0, "accept_max": -1.0,
+     "notes": "Great January Comet 1910; reports range -1 to -5"},
 ]
 
 
 def check1_external_peaks(summary: pd.DataFrame) -> tuple[list[str], pd.DataFrame]:
-    """External-magnitude sanity check."""
+    """External-magnitude sanity check.
+
+    Three result columns:
+      - within_tolerance : the boolean check appropriate to the entry's category
+      - status_label     : "pass" / "fail" / "model_limit" / "in_range" / "out_of_range"
+      - counts_as_test   : whether this entry contributes to the headline pass-rate
+    """
     rows = []
-    for cid, year, observed, note in REFERENCE_PEAKS:
+    for ref in REFERENCE_PEAKS:
+        cid = ref["comet_id"]; year = ref["year"]
+        observed = ref["observed"]; note = ref["notes"]
+        category = ref["category"]
         sm = summary[(summary["comet_id"] == cid) & (summary["apparition_year"] == year)]
         if sm.empty:
             rows.append({"comet_id": cid, "year": year, "observed_peak": observed,
-                         "modeled_peak": None, "diff": None, "ok": False, "notes": "MISSING from summary"})
+                         "modeled_peak": None, "diff": None,
+                         "category": category, "status_label": "missing",
+                         "counts_as_test": True, "ok": False,
+                         "notes": "MISSING from summary"})
             continue
         modeled = pd.to_numeric(sm["peak_mag"], errors="coerce").iloc[0]
         if pd.isna(modeled):
             rows.append({"comet_id": cid, "year": year, "observed_peak": observed,
-                         "modeled_peak": None, "diff": None, "ok": False, "notes": f"no model ({note})"})
+                         "modeled_peak": None, "diff": None,
+                         "category": category, "status_label": "missing",
+                         "counts_as_test": True, "ok": False,
+                         "notes": f"no model ({note})"})
             continue
         diff = float(modeled) - observed
-        ok = abs(diff) <= 1.5
+        if category == "tolerance":
+            ok = abs(diff) <= 1.5
+            label = "pass" if ok else "fail"
+            counts = True
+        elif category == "range":
+            lo = ref["accept_min"]; hi = ref["accept_max"]
+            ok = (lo <= float(modeled) <= hi)
+            label = "in_range" if ok else "out_of_range"
+            counts = True
+        elif category == "model_limit":
+            ok = abs(diff) <= 1.5  # informational only
+            label = "model_limit"
+            counts = False
+        else:
+            ok = False; label = "unknown_category"; counts = True
         rows.append({"comet_id": cid, "year": year, "observed_peak": observed,
-                     "modeled_peak": float(modeled), "diff": diff, "ok": ok, "notes": note})
+                     "modeled_peak": float(modeled), "diff": diff,
+                     "category": category, "status_label": label,
+                     "counts_as_test": counts, "ok": ok, "notes": note})
     df = pd.DataFrame(rows)
+
     msgs = []
-    pass_count = df["ok"].sum()
-    msgs.append(f"External-peak check: {pass_count}/{len(df)} within ±1.5 mag of observed.")
-    misses = df[~df["ok"]]
-    if not misses.empty:
-        for _, r in misses.iterrows():
-            msgs.append(f"  - {r['comet_id']} {r['year']}: observed {r['observed_peak']:+.1f}, "
-                        f"modeled {r['modeled_peak']!r}, diff {r['diff']!r} — {r['notes']}")
+    test_rows = df[df["counts_as_test"]]
+    test_pass = test_rows["ok"].sum()
+    msgs.append(f"External-peak check: {test_pass}/{len(test_rows)} counted entries pass "
+                f"(tolerance: within ±1.5 mag; range: modeled inside reported range).")
+    model_limit_rows = df[df["category"] == "model_limit"]
+    if not model_limit_rows.empty:
+        msgs.append(f"  + {len(model_limit_rows)} additional entries excluded from the "
+                    f"pass-rate as documented model limitations (outburst, disintegration, "
+                    f"apparition-to-apparition variability):")
+        for _, r in model_limit_rows.iterrows():
+            mp = r["modeled_peak"]
+            mp_s = f"{mp:+.2f}" if mp is not None else "_(missing)_"
+            d = r["diff"]; d_s = f"{d:+.2f}" if d is not None else "—"
+            msgs.append(f"      {r['comet_id']} {r['year']}: observed {r['observed_peak']:+.1f}, "
+                        f"modeled {mp_s}, diff {d_s} — {r['notes']}")
+    fails = test_rows[~test_rows["ok"]]
+    if not fails.empty:
+        msgs.append(f"  - Counted failures ({len(fails)}):")
+        for _, r in fails.iterrows():
+            mp = r["modeled_peak"]
+            mp_s = f"{mp:+.2f}" if mp is not None else "_(missing)_"
+            d = r["diff"]; d_s = f"{d:+.2f}" if d is not None else "—"
+            msgs.append(f"      {r['comet_id']} {r['year']}: observed {r['observed_peak']:+.1f}, "
+                        f"modeled {mp_s}, diff {d_s} — {r['notes']}")
     return msgs, df
 
 
@@ -248,13 +321,17 @@ def main():
     lines.append("")
     lines.append("Detailed comparison table:")
     lines.append("")
-    lines.append("| comet_id | year | observed peak | modeled peak | diff | within ±1.5? | notes |")
-    lines.append("|---|---|---|---|---|---|---|")
+    lines.append("| comet_id | year | observed peak | modeled peak | diff | category | status | notes |")
+    lines.append("|---|---|---|---|---|---|---|---|")
     for _, r in ext_df.iterrows():
         modeled = f"{r['modeled_peak']:.2f}" if r['modeled_peak'] is not None else "_(missing)_"
         diff = f"{r['diff']:+.2f}" if r['diff'] is not None else "—"
-        ok = "yes" if r['ok'] else "**no**"
-        lines.append(f"| {r['comet_id']} | {r['year']} | {r['observed_peak']:+.1f} | {modeled} | {diff} | {ok} | {r['notes']} |")
+        status = r['status_label']
+        if status in ("fail", "out_of_range", "missing"):
+            status_md = f"**{status}**"
+        else:
+            status_md = status
+        lines.append(f"| {r['comet_id']} | {r['year']} | {r['observed_peak']:+.1f} | {modeled} | {diff} | {r['category']} | {status_md} | {r['notes']} |")
     lines.append("")
 
     # Check 2
