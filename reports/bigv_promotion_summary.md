@@ -118,6 +118,25 @@ another era-appropriate reference) has parameters for them. They
 are listed in the audit report's "Manual M1/K1 candidates" section
 for future review.
 
+**Cross-check against Kronk (2026-05-02).** None of the 16 appear
+in Bortle's *Bright-Comet Chronicles* (ICQ), the ICQ "brightest
+comets since 1935" list, or Cometwatch's historic bright-comet list
+— in the 1850–1940 window only C/1882 R1 makes those lists, and we
+already have it. The one direct magnitude data point that could be
+recovered from secondary sources was C/1891 F1 (Barnard-Denning) at
+peak mag 8.0, comfortably below the naked-eye threshold and
+consistent with the pattern. The remaining 15 are confirmed
+telescopic discoveries by professional comet hunters (Barnard,
+Winnecke, Hartwig, Borrelly, Skjellerup, Whipple, etc.) of the
+kind that get an entry in *Astronomische Nachrichten* but not the
+front page. No newspaper-salience risk from leaving them out.
+
+The cross-check used cometography.com plus secondary lists; full
+quotation of Kronk's printed magnitudes for entries 2–9, 11–13,
+15–16 would require the print *Cometography* volumes (Cambridge
+Vols. 2–4) but the negative-evidence pattern is robust enough for
+"documented exclusion" purposes.
+
 ## Spec amendment (§8.2)
 
 The precedence rule was simplified from a conditional ("manual wins
