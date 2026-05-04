@@ -25,7 +25,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from . import audit, config, diagnostics, measures
+from . import audit, config, diagnostics, geographic_visibility, measures
 from .light_curves import generate_for_apparition
 from .scaffold import build_combined_scaffold
 from .source_aerith import scrape_all_apparitions
@@ -156,6 +156,21 @@ def run(refresh: bool = False, max_apparitions: int | None = None) -> dict:
     daily_full.to_csv(daily_path, index=False)
     logger.info("Daily light-curve rows: %d -> %s", len(daily_full), daily_path)
 
+    # Geographic visibility (spec §8.5). Computed after the daily light
+    # curves are finalised; produces a separate long-format daily CSV and
+    # appends per-apparition rollup columns to the summary.
+    geo_visibility_path = None
+    if not daily_full.empty:
+        try:
+            visibility, summary = geographic_visibility.run_pipeline_step(
+                daily_full, summary,
+            )
+            summary.to_csv(summary_path, index=False)  # re-write with geo columns
+            geo_visibility_path = config.GEO_DAILY_OUTPUT
+            logger.info("Geographic visibility: %d long-format rows", len(visibility))
+        except Exception:
+            logger.exception("Geographic visibility step failed; continuing without it")
+
     validation = _validate(scaffold, summary, daily_full, fail_hard=False)
     if validation:
         logger.warning("Validation findings: %d", len(validation))
@@ -180,6 +195,7 @@ def run(refresh: bool = False, max_apparitions: int | None = None) -> dict:
         "scaffold_path": scaffold_path,
         "summary_path": summary_path,
         "daily_path": daily_path,
+        "geo_visibility_path": geo_visibility_path,
         "audit_path": audit_path,
         "n_apparitions": len(summary),
         "n_with_curves": int((~summary["failed_light_curve"].fillna(False).astype(bool)).sum()),
