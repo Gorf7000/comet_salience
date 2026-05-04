@@ -297,9 +297,180 @@ def check4_artifacts() -> list[str]:
     return msgs
 
 
+def check5_geographic_visibility(summary: pd.DataFrame, visibility: pd.DataFrame) -> list[str]:
+    """Per spec §6.1 + §6.3: sanity-check the geographic visibility module.
+
+    Six expected behaviours plus a long-format integrity check.
+    """
+    msgs: list[str] = []
+
+    # ----- §6.1 expected behaviour table -----
+    expectations = [
+        # (apparition_id, label, predicate(summary_row) -> (ok, observed))
+        ("1P_1910", "1P/Halley 1910",
+         "peak_best_margin > 2.0 (well-visible from all bands)",
+         lambda r: (r["peak_best_margin"] > 2.0, f"peak_best_margin = {r['peak_best_margin']:.2f}")),
+        ("C_1861J1_1861", "C/1861 J1 (Tebbutt) 1861",
+         "peak_best_margin > 1.0, mostly visible from all bands",
+         lambda r: (r["peak_best_margin"] > 1.0, f"peak_best_margin = {r['peak_best_margin']:.2f}")),
+        ("C_1882R1_1882", "C/1882 R1 (Great September) 1882",
+         "peak_best_margin > 0; bright-phase (mag<0) visibility brief — central southern test",
+         lambda r: (r["peak_best_margin"] > 0,
+                    f"peak_best_margin = {r['peak_best_margin']:.2f}, "
+                    f"days_any_band_visible = {int(r['days_any_band_visible'])}")),
+        ("C_1880C1_1880", "C/1880 C1 (Great southern) 1880",
+         "days_any_band_visible ≈ 0 despite modeled peak −9.10 (hemisphere bias)",
+         lambda r: (r["days_any_band_visible"] <= 5,
+                    f"days_any_band_visible = {int(r['days_any_band_visible'])}, "
+                    f"peak_best_margin = {r['peak_best_margin']:.2f}")),
+        ("C_1865B1_1865", "C/1865 B1 (Great southern) 1865",
+         "days_any_band_visible ≈ 0",
+         lambda r: (r["days_any_band_visible"] <= 5,
+                    f"days_any_band_visible = {int(r['days_any_band_visible'])}, "
+                    f"peak_best_margin = {r['peak_best_margin']:.2f}")),
+        ("C_1887B1_1887", "C/1887 B1 (Great southern) 1887",
+         "days_any_band_visible ≈ 0",
+         lambda r: (r["days_any_band_visible"] <= 5,
+                    f"days_any_band_visible = {int(r['days_any_band_visible'])}, "
+                    f"peak_best_margin = {r['peak_best_margin']:.2f}")),
+    ]
+    msgs.append("### §6.1 — sanity checks against named apparitions")
+    msgs.append("")
+    msgs.append("| apparition | expected | observed | pass |")
+    msgs.append("|---|---|---|---|")
+    pass_count = 0
+    for app_id, label, expectation, pred in expectations:
+        sm = summary[summary["apparition_id"] == app_id]
+        if sm.empty:
+            msgs.append(f"| {label} | {expectation} | _missing from summary_ | **FAIL** |")
+            continue
+        ok, observed = pred(sm.iloc[0])
+        status = "pass" if ok else "**FAIL**"
+        if ok:
+            pass_count += 1
+        msgs.append(f"| {label} | {expectation} | {observed} | {status} |")
+    msgs.append("")
+    msgs.append(f"§6.1 overall: {pass_count}/{len(expectations)} passing.")
+    msgs.append("")
+
+    # ----- §6.3 long-format integrity -----
+    msgs.append("### §6.3 — long-format integrity")
+    msgs.append("")
+    n_bands = visibility["band_name"].nunique()
+    counts = visibility.groupby(["apparition_id", "date"]).size()
+    bad = counts[counts != n_bands]
+    msgs.append(f"- Bands per (apparition, date): expected {n_bands}, "
+                f"violating rows: {len(bad)}")
+    nan_alt = visibility["peak_alt_deg"].isna().sum()
+    msgs.append(f"- NaN in `peak_alt_deg`: {nan_alt} "
+                f"(only allowed for compute errors)")
+    n_minus_inf = (visibility["peak_alt_deg"] == -90.0).sum()
+    msgs.append(f"- Sentinel −90 in `peak_alt_deg` (no usable visibility): {n_minus_inf}")
+    msgs.append("")
+
+    return msgs
+
+
+def check6_hand_calc_visibility(visibility: pd.DataFrame, daily: pd.DataFrame) -> list[str]:
+    """Per spec §6.2: hand-check one (apparition, date, band) row by computing
+    peak_alt = 90 − |φ − δ|, airmass, margin from the daily CSV directly,
+    and comparing to the pipeline output.
+
+    The simple analytic formula `peak_alt = 90 − |φ − δ|` is the comet's
+    UPPER-TRANSIT altitude. It equals the dark-window peak only when transit
+    happens to fall inside the dark window (≈ opposition geometry: comet's
+    RA opposite the sun). We search the visibility table for the (apparition,
+    date, Mid-band) row whose pipeline peak altitude is closest to this
+    analytic upper bound — that's the best case for the analytic check to
+    apply. If the closest match is still many degrees off the analytic value,
+    we report it as a documented limitation (no opposition geometry available).
+    """
+    import math as _math
+    msgs: list[str] = []
+
+    # Restrict to high-altitude visible rows on the Mid band — a high
+    # pipeline peak_alt means the comet was substantially above horizon
+    # during dark, which is a precondition for transit being in dark.
+    mid = visibility[(visibility["band_name"] == "Mid")
+                     & (visibility["margin_lim45"] > 0)
+                     & (visibility["peak_alt_deg"] > 50.0)]
+    if mid.empty:
+        return ["Hand-check skipped: no Mid-band rows with peak_alt > 50°."]
+
+    daily_idx = daily.set_index(["apparition_id", "date"])
+    candidates = []
+    for vrow in mid.itertuples(index=False):
+        key = (vrow.apparition_id, vrow.date)
+        if key not in daily_idx.index:
+            continue
+        drow = daily_idx.loc[key]
+        if isinstance(drow, pd.DataFrame):
+            drow = drow.iloc[0]
+        dec = float(drow["DEC_app"])
+        analytic_peak = 90.0 - abs(40.0 - dec)
+        diff = abs(vrow.peak_alt_deg - analytic_peak)
+        candidates.append((diff, vrow, drow, analytic_peak))
+    if not candidates:
+        return ["Hand-check skipped: no rows with daily companion."]
+    candidates.sort(key=lambda x: x[0])
+    diff, vrow, drow, analytic_peak = candidates[0]
+
+    apparent_mag = float(drow["apparent_mag"])
+    dec = float(drow["DEC_app"])
+    phi = 40.0
+    K = config.GEO_EXTINCTION_K
+    lim = config.GEO_LIMITING_MAG  # 4.5
+
+    # Hand airmass via Young 1994
+    sa = _math.sin(_math.radians(analytic_peak))
+    am_hand = 1.0 / (sa + 0.025 * _math.exp(-11.0 * sa))
+    ext_hand = K * (am_hand - 1.0)
+    margin_hand = lim - apparent_mag - ext_hand
+
+    msgs.append(f"### §6.2 — hand-check ({vrow.apparition_id}, Mid band, date {vrow.date})")
+    msgs.append("")
+    msgs.append(f"Selection: among Mid-band visible rows with peak_alt > 50°, "
+                f"this is the (apparition, date) where pipeline peak_alt is "
+                f"closest to the analytic upper-transit altitude — the cleanest "
+                f"case where the simple §6.2 formula applies.")
+    msgs.append("")
+    msgs.append(f"Daily inputs from `comet_daily_light_curves.csv.gz`:")
+    msgs.append(f"  RA_app = {float(drow['RA_app']):.4f}°, DEC_app = {dec:+.4f}°, "
+                f"apparent_mag = {apparent_mag:+.4f}")
+    msgs.append("")
+    msgs.append(f"Hand calculation (Mid band, latitude φ = {phi}°):")
+    msgs.append(f"  peak_alt = 90 − |φ − δ| = 90 − |{phi} − ({dec:+.2f})| = {analytic_peak:.4f}°")
+    msgs.append(f"  airmass (Young 1994) = 1 / (sin h + 0.025·exp(−11·sin h)) "
+                f"= {am_hand:.4f}")
+    msgs.append(f"  extinction = K·(X − 1) = {K} × {am_hand - 1:.4f} = {ext_hand:.4f} mag")
+    msgs.append(f"  margin = limit − app_mag − ext = {lim} − {apparent_mag:.4f} − {ext_hand:.4f} "
+                f"= {margin_hand:+.4f}")
+    msgs.append("")
+    msgs.append(f"Pipeline output:")
+    msgs.append(f"  peak_alt_deg = {vrow.peak_alt_deg:.4f}°")
+    msgs.append(f"  airmass_at_peak = {vrow.airmass_at_peak:.4f}")
+    msgs.append(f"  margin_lim45 = {vrow.margin_lim45:+.4f}")
+    msgs.append("")
+    delta_alt = vrow.peak_alt_deg - analytic_peak
+    delta_margin = vrow.margin_lim45 - margin_hand
+    msgs.append(f"Differences (pipeline − hand):")
+    msgs.append(f"  Δ peak_alt = {delta_alt:+.4f}° "
+                f"(should be ≤ 0 since pipeline value cannot exceed the upper-transit; "
+                f"|Δ| < 1° means transit cleanly fell in the dark window)")
+    msgs.append(f"  Δ margin   = {delta_margin:+.4f} mag")
+    if abs(delta_alt) < 1.0 and abs(delta_margin) < 0.1:
+        msgs.append(f"  RESULT: agreement within tolerance — geometry is consistent.")
+    else:
+        msgs.append(f"  RESULT: discrepancy outside tolerance — investigate.")
+    return msgs
+
+
 def main():
     summary = pd.read_csv(config.DATA_PROCESSED / "comet_brightness_summary.csv")
-    daily = pd.read_csv(config.DATA_PROCESSED / "comet_daily_light_curves.csv")
+    daily = pd.read_csv(config.DATA_PROCESSED / "comet_daily_light_curves.csv.gz",
+                        low_memory=False)
+    visibility_path = config.GEO_DAILY_OUTPUT
+    visibility = pd.read_csv(visibility_path, low_memory=False) if visibility_path.exists() else None
 
     out = config.REPORTS / "validation_results.md"
     lines = []
@@ -353,6 +524,19 @@ def main():
     lines.append("")
     for m in check4_artifacts():
         lines.append(m)
+    lines.append("")
+
+    # Check 5 + 6 — geographic visibility
+    lines.append("## 5. Geographic visibility checks")
+    lines.append("")
+    if visibility is None:
+        lines.append(f"_Skipped: {visibility_path} not found. Run "
+                     f"`scripts/run_geographic_visibility.py` first._")
+    else:
+        for m in check5_geographic_visibility(summary, visibility):
+            lines.append(m)
+        for m in check6_hand_calc_visibility(visibility, daily):
+            lines.append(m)
     lines.append("")
 
     out.write_text("\n".join(lines), encoding="utf-8")

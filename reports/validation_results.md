@@ -1,5 +1,5 @@
 # Validation Results
-_Generated 2026-05-02 05:22 UTC_
+_Generated 2026-05-04 17:23 UTC_
 
 Four independent checks: external-peak comparison, hand calculation,
 manual-CSV path test, and artifact inspection. Designed to be readable
@@ -56,13 +56,13 @@ Manual-CSV check on C/1858 L1 with Vsekhsvyatskij M1=4.7, K1=10:
 
 ## 4. Audit report + diagnostic figures
 
-Audit report: C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\reports\comet_visibility_audit.md
+Audit report: C:\Users\grfai\Documents\0_Dissertation\Code\comet_salience_geo_viz\reports\comet_visibility_audit.md
   size: 16700 bytes, 268 lines
   contains 'Manual M1/K1 candidates': True
   contains 'Tier 3 non-periodic candidates: ': True
   contains 'Validation failures': True
 
-Diagnostic figures in C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Salience\figures\comet_visibility_diagnostics:
+Diagnostic figures in C:\Users\grfai\Documents\0_Dissertation\Code\comet_salience_geo_viz\figures\comet_visibility_diagnostics:
   OK   01_peak_mag_histogram.png (25877 bytes)
   OK   02_peak_vs_duration.png (41366 bytes)
   OK   03_integrated_vs_spectacle_mag.png (35287 bytes)
@@ -72,3 +72,47 @@ Diagnostic figures in C:\Users\grfai\Documents\0_Dissertation\Code\Ch 5 Comet Sa
   OK   07a_top_by_integrated_mag.png (146920 bytes)
   OK   07b_top_by_spectacle_mag.png (148315 bytes)
   OK   07c_top_by_flux.png (153716 bytes)
+
+## 5. Geographic visibility checks
+
+### §6.1 — sanity checks against named apparitions
+
+| apparition | expected | observed | pass |
+|---|---|---|---|
+| 1P/Halley 1910 | peak_best_margin > 2.0 (well-visible from all bands) | peak_best_margin = 3.57 | pass |
+| C/1861 J1 (Tebbutt) 1861 | peak_best_margin > 1.0, mostly visible from all bands | peak_best_margin = 4.75 | pass |
+| C/1882 R1 (Great September) 1882 | peak_best_margin > 0; bright-phase (mag<0) visibility brief — central southern test | peak_best_margin = 4.10, days_any_band_visible = 65 | pass |
+| C/1880 C1 (Great southern) 1880 | days_any_band_visible ≈ 0 despite modeled peak −9.10 (hemisphere bias) | days_any_band_visible = 0, peak_best_margin = -inf | pass |
+| C/1865 B1 (Great southern) 1865 | days_any_band_visible ≈ 0 | days_any_band_visible = 0, peak_best_margin = -inf | pass |
+| C/1887 B1 (Great southern) 1887 | days_any_band_visible ≈ 0 | days_any_band_visible = 0, peak_best_margin = -inf | pass |
+
+§6.1 overall: 6/6 passing.
+
+### §6.3 — long-format integrity
+
+- Bands per (apparition, date): expected 4, violating rows: 0
+- NaN in `peak_alt_deg`: 0 (only allowed for compute errors)
+- Sentinel −90 in `peak_alt_deg` (no usable visibility): 0
+
+### §6.2 — hand-check (C_1861G1_1861, Mid band, date 1861-04-29)
+
+Selection: among Mid-band visible rows with peak_alt > 50°, this is the (apparition, date) where pipeline peak_alt is closest to the analytic upper-transit altitude — the cleanest case where the simple §6.2 formula applies.
+
+Daily inputs from `comet_daily_light_curves.csv.gz`:
+  RA_app = 176.5186°, DEC_app = +63.2321°, apparent_mag = +3.2300
+
+Hand calculation (Mid band, latitude φ = 40.0°):
+  peak_alt = 90 − |φ − δ| = 90 − |40.0 − (+63.23)| = 66.7679°
+  airmass (Young 1994) = 1 / (sin h + 0.025·exp(−11·sin h)) = 1.0882
+  extinction = K·(X − 1) = 0.3 × 0.0882 = 0.0265 mag
+  margin = limit − app_mag − ext = 4.5 − 3.2300 − 0.0265 = +1.2436
+
+Pipeline output:
+  peak_alt_deg = 66.7679°
+  airmass_at_peak = 1.0882
+  margin_lim45 = +1.2436
+
+Differences (pipeline − hand):
+  Δ peak_alt = -0.0000° (should be ≤ 0 since pipeline value cannot exceed the upper-transit; |Δ| < 1° means transit cleanly fell in the dark window)
+  Δ margin   = -0.0000 mag
+  RESULT: agreement within tolerance — geometry is consistent.

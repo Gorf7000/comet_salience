@@ -1,5 +1,5 @@
 # Comet Visibility Audit Report
-_Generated 2026-05-01 16:56 UTC_
+_Generated 2026-05-04 17:27 UTC_
 
 ## Summary counts
 
@@ -240,6 +240,50 @@ Total Tier 3 non-periodic candidates: **15**
 | 1919 Y1 | C/1919 Y1 (Skjellerup) | 1920-01-03 |
 | 1940 O1 | C/1940 O1 (Whipple-Paraskevopoulos) | 1940-10-08 |
 | 1940 S1 | C/1940 S1 (Okabayasi-Honda) | 1940-08-15 |
+
+## Geographic visibility summary (Phase 1)
+
+Per spec §8.5. Visibility margins computed at four US-population latitude
+bands (Gulf 30°N, South 35°N, Mid 40°N, North 45°N) at limiting mag 4.5,
+geometry + atmospheric extinction only (no moonlight, no surface brightness,
+no era-dependent threshold).
+
+- Apparitions with `days_any_band_visible > 0`: 45 / 644
+- Apparitions with all 4 bands visible for ≥ 30 days: 17
+- Median `days_any_band_visible` (among ever-visible): 25
+
+### Top 10 apparitions by `peak_best_margin`
+
+| rank | apparition | comet | peak_mag (geocentric) | peak_best_band | peak_best_margin | days_any_band_visible |
+|---|---|---|---|---|---|---|
+| 1 | C_1861J1_1861 | C/1861 J1 (Great comet) | -0.99 | North | 4.75 | 31 |
+| 2 | 7P_1927 | 7P/Pons-Winnecke | -0.04 | Gulf | 4.51 | 52 |
+| 3 | C_1882R1_1882 | C/1882 R1 (Great September comet) | -13.13 | Gulf | 4.10 | 65 |
+| 4 | C_1858L1_1858 | C/1858 L1 (Donati) | -0.19 | South | 4.01 | 51 |
+| 5 | 1P_1910 | 1P/Halley | -0.12 | Gulf | 3.57 | 41 |
+| 6 | C_1881K1_1881 | C/1881 K1 (Great comet) | +0.03 | North | 3.41 | 36 |
+| 7 | C_1882F1_1882 | C/1882 F1 (Wells) | -7.95 | North | 3.24 | 28 |
+| 8 | C_1864N1_1864 | C/1864 N1 (Tempel) | +0.60 | Gulf | 3.19 | 21 |
+| 9 | C_1853G1_1853 | C/1853 G1 (Schweizer) | +0.31 | Gulf | 3.14 | 13 |
+| 10 | 109P_1862 | 109P/Swift-Tuttle | +1.54 | Gulf | 2.91 | 49 |
+
+### Great Southern Comets — geocentric brightness vs US visibility
+
+These four comets have spectacular geocentric peak magnitudes (−9 to −13)
+but were below the horizon for US observers during their bright phase.
+This is the central motivation for the geographic-visibility model.
+
+| apparition | comet | peak_mag (geocentric) | peak_best_margin (US) | days_any_band_visible |
+|---|---|---|---|---|
+| C_1865B1_1865 | C/1865 B1 (Great southern comet) | -11.32 | −∞ (never visible) | 0 |
+| C_1880C1_1880 | C/1880 C1 (Great southern comet) | -9.10 | −∞ (never visible) | 0 |
+| C_1882R1_1882 | C/1882 R1 (Great September comet) | -13.13 | 4.10 | 65 |
+| C_1887B1_1887 | C/1887 B1 (Great southern comet) | -12.38 | −∞ (never visible) | 0 |
+
+Note: C/1882 R1 has `days_any_band_visible > 0` because the comet
+remained naked-eye for months as it moved north then south. During its
+brightest phase (mag < 0), however, it was largely below the US horizon
+at solar conjunction — see `reports/geographic_visibility_implementation.md`.
 
 ## Caveats
 

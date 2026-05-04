@@ -422,6 +422,79 @@ Do not propagate orbital uncertainty into the magnitude calculation. The goal is
 
 ---
 
+### 8.5 Geographic Visibility (Phase 1)
+
+Added 2026-05-04 per `geographic_visibility_commission.md`. Converts geocentric apparent magnitude into per-observer-band visibility margins so that downstream salience analysis uses a brightness signal that reflects what US observers could see — not just what the comet emitted.
+
+**Bands.** Four US-population latitude bands at 5° intervals (`src/comet_visibility/config.py::GEO_VISIBILITY_BANDS`):
+
+| name | lat | exemplar city |
+|---|---|---|
+| Gulf | 30°N | New Orleans |
+| South | 35°N | Memphis |
+| Mid | 40°N | New York |
+| North | 45°N | Minneapolis |
+
+All bands use a single representative observer longitude of −74° (NYC) for Phase 1. Longitude does not affect upper-transit altitude or dark-window length materially; using one longitude across bands keeps the model interpretable.
+
+**Margin formulation.** For each (apparition, date, band):
+
+```
+margin = limiting_mag − (apparent_mag + extinction_at_peak_alt)
+extinction_at_peak_alt = K · (airmass(peak_alt) − 1)
+airmass(h) = 1 / (sin h + 0.025 · exp(−11 · sin h))    (Young 1994)
+```
+
+`apparent_mag` is the geocentric Horizons / Tier 1.5 model magnitude already in the daily light curve. `K = 0.3 mag/airmass` (standard urban-rural average). `peak_alt` is the comet's maximum altitude during the dark window.
+
+**Dark window.** Sun altitude < −12° (nautical twilight). The night attached to calendar `date` is the one beginning on `date`'s evening — i.e., samples are drawn from `date 12:00 UT` to `date+1 12:00 UT` so the contiguous dark window inside the grid is one whole night for an East-Coast observer.
+
+**Visibility rules.** A (date, band) row counts as visible (`margin > 0`) only when:
+- `peak_alt ≥ 5°` (below this the simple airmass approximation is unreliable), AND
+- at least 30 minutes of dark-window samples have margin > 0 at the limit.
+
+Otherwise `margin = −∞` is returned. NaN `apparent_mag` (model_limit cases) yields `margin = NaN`, which is excluded from rollups rather than treated as "not visible."
+
+**Sampling.** 10-minute cadence over the 24-hour grid (144 samples). Sun position and apparent local sidereal time are computed once per sample time per chunk via astropy; comet altitude is then evaluated by spherical trig in numpy. Keeps the full ~130M-point evaluation under 12 minutes.
+
+**Output: long-format daily file.** `data/processed/comet_daily_visibility.csv.gz`, one row per (apparition, date, band), columns:
+
+```
+apparition_id, date, band_name, band_lat,
+peak_alt_deg, airmass_at_peak, dark_window_minutes,
+margin_lim40, margin_lim45, margin_lim50,
+minutes_above_threshold_lim40, minutes_above_threshold_lim45, minutes_above_threshold_lim50
+```
+
+Three limit values are computed in a single geometry pass; sensitivity analysis derives from the long file without re-running geometry. Headline limit is **4.5** (urban naked-eye threshold).
+
+**Output: apparition-level columns** appended to `comet_brightness_summary.csv` (existing columns preserved):
+
+```
+peak_best_margin           — max margin across all (date, band) at limit 4.5
+peak_best_band             — which band achieved peak_best_margin
+bands_visible_count_max    — max count of simultaneously-visible bands on any single date
+days_any_band_visible      — dates where any band had margin > 0
+days_all_bands_visible     — dates where all 4 bands had margin > 0
+days_gulf_band_visible     — per-band counts at limit 4.5
+days_south_band_visible
+days_mid_band_visible
+days_north_band_visible
+integrated_best_margin     — sum over dates of max(0, best_margin_that_date)
+integrated_band_exposure   — sum over (date, band) of max(0, margin) — units of band·day·magnitudes
+```
+
+**Phase 1 deferrals.** The following are explicitly NOT modeled in Phase 1 and are noted as motivation for later phases:
+
+- *Moonlight / sky brightness* — `lunar_elong` and `lunar_illum` are present in the daily CSV but unused. Phase 2 will add Krisciunas-Schaefer 1991.
+- *Surface brightness / coma diffuseness* — Phase 3.
+- *Era-dependent limiting magnitude* (light-pollution growth 1850→1940) — Phase 1 uses a constant.
+- *Population weighting across bands* — Tier B in `reports/geographic_visibility_design_discussion.md`. Possible follow-on, not in scope here.
+
+**Implementation.** `src/comet_visibility/geographic_visibility.py`. Standalone runner: `scripts/run_geographic_visibility.py`. Validation: `scripts/validate_results.py` §5. Sensitivity report: `scripts/geographic_visibility_sensitivity.py`.
+
+---
+
 ## 9. Brightness-Duration Measures
 
 Compute two parallel measure families from the daily apparent-magnitude curve.

@@ -82,3 +82,23 @@ HORIZONS_OBSERVER_LOC = "500"  # geocentric
 # ----------------------------------------------------------------------
 TIER3_FRACTION_HALT = 0.40       # halt if >40% apparitions get no light curve
 NETWORK_OUTAGE_HALT_SEC = 30 * 60  # halt if network unreachable >30 minutes
+
+# ----------------------------------------------------------------------
+# Geographic visibility (Phase 1: geometry + extinction; spec §8.5)
+# ----------------------------------------------------------------------
+GEO_VISIBILITY_BANDS = [
+    {"name": "Gulf",  "lat": 30.0, "city": "New Orleans"},
+    {"name": "South", "lat": 35.0, "city": "Memphis"},
+    {"name": "Mid",   "lat": 40.0, "city": "New York"},
+    {"name": "North", "lat": 45.0, "city": "Minneapolis"},
+]
+GEO_OBSERVER_LON_DEG = -74.0      # NYC longitude; same for all bands (Phase 1 simplification)
+GEO_LIMITING_MAG = 4.5            # urban-naked-eye threshold (headline)
+GEO_LIMITING_MAG_SENSITIVITY = (4.0, 4.5, 5.0)  # all three derived from one geometry pass
+GEO_EXTINCTION_K = 0.3            # mag per airmass (standard)
+GEO_DARK_SUN_ALT_DEG = -12.0      # nautical twilight cutoff
+GEO_MIN_ALT_DEG = 5.0             # below this altitude, treat as invisible
+GEO_MIN_VISIBLE_MINUTES = 30      # margin > 0 must persist this long to count
+GEO_NIGHT_SAMPLE_MINUTES = 10     # within-night sampling cadence
+
+GEO_DAILY_OUTPUT = DATA_PROCESSED / "comet_daily_visibility.csv.gz"

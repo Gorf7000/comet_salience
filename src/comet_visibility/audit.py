@@ -142,6 +142,70 @@ def write_audit_report(scaffold: pd.DataFrame, summary: pd.DataFrame,
         add(f"| {pdes} | {nm} | {peri} |")
     add()
 
+    add("## Geographic visibility summary (Phase 1)")
+    add()
+    add("Per spec §8.5. Visibility margins computed at four US-population latitude")
+    add("bands (Gulf 30°N, South 35°N, Mid 40°N, North 45°N) at limiting mag 4.5,")
+    add("geometry + atmospheric extinction only (no moonlight, no surface brightness,")
+    add("no era-dependent threshold).")
+    add()
+    geo_cols_present = "peak_best_margin" in summary.columns
+    if geo_cols_present:
+        sm = summary.copy()
+        pbm = pd.to_numeric(sm.get("peak_best_margin"), errors="coerce")
+        dabv = pd.to_numeric(sm.get("days_any_band_visible"), errors="coerce").fillna(0)
+        ibm = pd.to_numeric(sm.get("integrated_best_margin"), errors="coerce").fillna(0)
+        ever_visible = sm[dabv > 0]
+        full_visible = sm[(dabv >= 30) & (pd.to_numeric(sm.get("days_all_bands_visible"), errors="coerce").fillna(0) >= 30)]
+        add(f"- Apparitions with `days_any_band_visible > 0`: {len(ever_visible)} / {len(sm)}")
+        add(f"- Apparitions with all 4 bands visible for ≥ 30 days: {len(full_visible)}")
+        add(f"- Median `days_any_band_visible` (among ever-visible): "
+            f"{int(dabv[dabv > 0].median()) if (dabv > 0).any() else 0}")
+        add()
+        add("### Top 10 apparitions by `peak_best_margin`")
+        add()
+        add("| rank | apparition | comet | peak_mag (geocentric) | peak_best_band | peak_best_margin | days_any_band_visible |")
+        add("|---|---|---|---|---|---|---|")
+        top10 = sm.assign(_p=pbm).nlargest(10, "_p")
+        for i, (_, r) in enumerate(top10.iterrows(), 1):
+            pm_val = pd.to_numeric(r.get("peak_mag"), errors="coerce")
+            pm_s = f"{float(pm_val):+.2f}" if pd.notna(pm_val) else "—"
+            pbm_v = pd.to_numeric(r.get("peak_best_margin"), errors="coerce")
+            pbm_s = f"{float(pbm_v):.2f}" if pd.notna(pbm_v) else "—"
+            dabv_v = int(pd.to_numeric(r.get("days_any_band_visible"), errors="coerce") or 0)
+            add(f"| {i} | {r.get('apparition_id', '')} | {r.get('comet_name', '')} | "
+                f"{pm_s} | {r.get('peak_best_band', '')} | {pbm_s} | {dabv_v} |")
+        add()
+        add("### Great Southern Comets — geocentric brightness vs US visibility")
+        add()
+        add("These four comets have spectacular geocentric peak magnitudes (−9 to −13)")
+        add("but were below the horizon for US observers during their bright phase.")
+        add("This is the central motivation for the geographic-visibility model.")
+        add()
+        add("| apparition | comet | peak_mag (geocentric) | peak_best_margin (US) | days_any_band_visible |")
+        add("|---|---|---|---|---|")
+        for app_id in ("C_1865B1_1865", "C_1880C1_1880", "C_1882R1_1882", "C_1887B1_1887"):
+            row = sm[sm["apparition_id"] == app_id]
+            if row.empty:
+                add(f"| {app_id} | _missing_ | — | — | — |")
+                continue
+            r = row.iloc[0]
+            pm_val = pd.to_numeric(r.get("peak_mag"), errors="coerce")
+            pm_s = f"{float(pm_val):+.2f}" if pd.notna(pm_val) else "—"
+            pbm_v = pd.to_numeric(r.get("peak_best_margin"), errors="coerce")
+            pbm_s = f"{float(pbm_v):.2f}" if (pd.notna(pbm_v) and pbm_v != float("-inf")) else "−∞ (never visible)"
+            dabv_v = int(pd.to_numeric(r.get("days_any_band_visible"), errors="coerce") or 0)
+            add(f"| {app_id} | {r.get('comet_name', '')} | {pm_s} | {pbm_s} | {dabv_v} |")
+        add()
+        add("Note: C/1882 R1 has `days_any_band_visible > 0` because the comet")
+        add("remained naked-eye for months as it moved north then south. During its")
+        add("brightest phase (mag < 0), however, it was largely below the US horizon")
+        add("at solar conjunction — see `reports/geographic_visibility_implementation.md`.")
+    else:
+        add("_Geographic visibility columns not yet present in summary._")
+        add("Run `scripts/run_geographic_visibility.py` to populate.")
+    add()
+
     add("## Caveats")
     add()
     add("- City/topocentric visibility is not implemented in this increment.")
