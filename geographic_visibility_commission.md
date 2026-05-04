@@ -266,7 +266,7 @@ visibility checks" with these tests:
 |---|---|---|
 | 1P/Halley | 1910 | `peak_best_margin > 2.0` (well-visible from all bands; modeled peak −0.12, ~+30° declination during peak) |
 | C/1861 J1 (Tebbutt) | 1861 | `peak_best_margin > 1.0`, mostly visible from all bands |
-| C/1882 R1 (Great September) | 1882 | `peak_best_margin > 0` only briefly post-perihelion when tail visible at low northern latitudes — much shorter visibility than Halley despite higher modeled brightness. **This is the central southern-comet test.**
+| C/1882 R1 (Great September) | 1882 | `peak_best_margin > 0`. Bright-phase (modeled `apparent_mag < 0`) visibility is much shorter than Halley's bright-phase visibility, despite C/1882 R1's higher peak brightness — the spectacular peak coincides with solar conjunction. Total naked-eye exposure can still be large because the comet stays visible for months at fading magnitudes. **This is the central southern-comet test.**
 | C/1880 C1 (Great Southern) | 1880 | low or zero `days_any_band_visible` despite modeled peak −9.10. Confirms hemisphere bias. |
 | C/1865 B1 (Great Southern) | 1865 | low or zero `days_any_band_visible`. |
 | C/1887 B1 (Great Southern) | 1887 | low or zero `days_any_band_visible`. |
